@@ -62,6 +62,9 @@
   <a href="https://github.com/lhlizdabezt/TruyenThongKhongDay/releases/tag/v1.0.0">
     <img src="https://img.shields.io/badge/Wireless%20Release-TruyenThongKhongDay%20v1.0.0-0F4C81?style=for-the-badge&logo=github" alt="TruyenThongKhongDay release v1.0.0" />
   </a>
+  <a href="https://github.com/lhlizdabezt/hcmus-auto-dkhp/releases/tag/v4.3.0">
+    <img src="https://img.shields.io/badge/Automation-HCMUS%20Auto%20DKHP%20v4.3.0-7c3aed?style=for-the-badge&logo=tampermonkey&logoColor=white" alt="HCMUS Auto DKHP release v4.3.0" />
+  </a>
 </p>
 
 <p align="center">
@@ -220,6 +223,26 @@ I study Electronics and Telecommunications and build portfolio-grade repos from 
       <p>Biomedical embedded project: BPM/SpO2 measurement with STM32, MAX30100/MAX30102, LCD 1602, Proteus simulation, slides and demo video.</p>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚙️ <a href="https://github.com/lhlizdabezt/hcmus-auto-dkhp">hcmus-auto-dkhp</a></h3>
+      <p>
+        <img src="https://img.shields.io/badge/Release-v4.3.0-7c3aed?style=flat-square" alt="v4.3.0" />
+        <img src="https://img.shields.io/badge/Stack-Tampermonkey%20%2B%20JavaScript-00485B?style=flat-square&logo=tampermonkey&logoColor=white" alt="Tampermonkey JavaScript" />
+        <img src="https://img.shields.io/badge/Safety-Manual%20CAPTCHA%20%2B%20Opt--in%20Submit-0f766e?style=flat-square" alt="Manual CAPTCHA and opt-in submit" />
+      </p>
+      <p>HCMUS course-registration helper userscript with scheduled reload, normalized target matching, status badge, emergency stop/reset controls, safe public defaults and documented release flow.</p>
+      <p><a href="https://github.com/lhlizdabezt/hcmus-auto-dkhp/releases/tag/v4.3.0">Release v4.3.0</a> · <a href="https://raw.githubusercontent.com/lhlizdabezt/hcmus-auto-dkhp/main/tricker/HCMUS%20Auto%20DKHP%20-%20HK3%2023TC%20Safe-2.0.user.js">Install userscript</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💬 <a href="https://github.com/lhlizdabezt/messenger-edge-tool">messenger-edge-tool</a></h3>
+      <p>
+        <img src="https://img.shields.io/badge/Automation-Python%20%2B%20Edge%20%2B%20Playwright-2563eb?style=flat-square" alt="Python Edge Playwright automation" />
+        <img src="https://img.shields.io/badge/Workflow-Context%20Extraction%20%2B%20Drafting-0f766e?style=flat-square" alt="Context extraction drafting" />
+      </p>
+      <p>Desktop automation tool using Microsoft Edge and Playwright to assist Messenger context reading, draft generation and AI-supported reply workflows.</p>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -238,6 +261,8 @@ I study Electronics and Telecommunications and build portfolio-grade repos from 
 | IoT data acquisition | [ThucHanhGTMT](https://github.com/lhlizdabezt/ThucHanhGTMT) | AHT20, Silicon Labs BLE, LCD, UART, SQLite logger |
 | Biomedical embedded | [DoAnDienTuYSinh_STM32_MAX30100_LCD](https://github.com/lhlizdabezt/DoAnDienTuYSinh_STM32_MAX30100_LCD) | STM32, MAX30100/MAX30102, LCD1602, Proteus |
 | Applied AI / OCR | [NhapMonAI](https://github.com/lhlizdabezt/NhapMonAI) | YOLO/OCR, Python desktop, PC gate demo, mAP50 0.99450, release v1.0.0 |
+| Browser automation | [hcmus-auto-dkhp](https://github.com/lhlizdabezt/hcmus-auto-dkhp) | Tampermonkey userscript, scheduled reload, target matching, manual CAPTCHA flow, release v4.3.0 |
+| Desktop automation | [messenger-edge-tool](https://github.com/lhlizdabezt/messenger-edge-tool) | Python, Microsoft Edge, Playwright, context extraction, AI-assisted drafting |
 | Academic docs | [HCMUS-DTVT-BaoCao-Templates](https://github.com/lhlizdabezt/HCMUS-DTVT-BaoCao-Templates) | KLTN/BCTT templates, Typst guide, Word-to-Typst starter |
 | Internship report | [BCTT-ThucTap-BTPHoldings](https://github.com/lhlizdabezt/BCTT-ThucTap-BTPHoldings) | BTP Holdings QC/Warranty report, 7-chapter Typst document, IEEE bibliography |
 
@@ -291,6 +316,16 @@ I study Electronics and Telecommunications and build portfolio-grade repos from 
     <td width="50%" valign="top">
       <h3><a href="https://github.com/lhlizdabezt/ThucHanhDienTuTuongTu">ThucHanhDienTuTuongTu</a></h3>
       <p><b>Analog electronics</b> · LTspice · LM324 · LM339 · NE555 · filters · oscillators · power circuits.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/lhlizdabezt/hcmus-auto-dkhp">hcmus-auto-dkhp</a></h3>
+      <p><b>Browser automation</b> · Tampermonkey · JavaScript · scheduled reload · target matching · safe defaults · <a href="https://github.com/lhlizdabezt/hcmus-auto-dkhp/releases/tag/v4.3.0">release v4.3.0</a>.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/lhlizdabezt/messenger-edge-tool">messenger-edge-tool</a></h3>
+      <p><b>Desktop automation</b> · Python · Microsoft Edge · Playwright · context extraction · AI-assisted response drafting.</p>
     </td>
   </tr>
 </table>
