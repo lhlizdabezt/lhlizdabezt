@@ -62,27 +62,27 @@ nguyên_tắc_portfolio: "Mỗi repo phải cho thấy bài toán, kỹ thuật,
 
 ---
 
-## 🫀 Repo đang ghim nổi bật
+## ⚙️ Repo đang ghim nổi bật nhất
 
 <table>
   <tr>
     <td width="52%" valign="top">
-      <h3>🫀 <a href="https://github.com/lhlizdabezt/DoAnDienTuYSinh_STM32_MAX30100_LCD">DoAnDienTuYSinh_STM32_MAX30100_LCD</a></h3>
+      <h3>⚙️ <a href="https://github.com/lhlizdabezt/DoAnHeThongNhung">DoAnHeThongNhung</a></h3>
       <p>
-        <a href="https://github.com/lhlizdabezt/DoAnDienTuYSinh_STM32_MAX30100_LCD/releases/latest"><img src="https://img.shields.io/github/v/release/lhlizdabezt/DoAnDienTuYSinh_STM32_MAX30100_LCD?style=flat-square&label=Release&color=0f766e" alt="Release mới nhất của repo Điện tử Y sinh" /></a>
-        <img src="https://img.shields.io/badge/STM32-MAX30100%20%2F%20MAX30102-2563eb?style=flat-square" alt="STM32 MAX30100 MAX30102" />
-        <img src="https://img.shields.io/badge/Display-LCD1602-D95319?style=flat-square" alt="LCD1602" />
-        <img src="https://img.shields.io/badge/Sim-Proteus-334155?style=flat-square" alt="Proteus" />
+        <a href="https://github.com/lhlizdabezt/DoAnHeThongNhung/releases/latest"><img src="https://img.shields.io/github/v/release/lhlizdabezt/DoAnHeThongNhung?style=flat-square&label=Release&color=0f766e" alt="Release mới nhất của Đồ án Hệ thống nhúng" /></a>
+        <img src="https://img.shields.io/badge/Board-DE10--Standard-2563eb?style=flat-square" alt="DE10 Standard" />
+        <img src="https://img.shields.io/badge/SoC-Cyclone%20V-D95319?style=flat-square" alt="Cyclone V SoC" />
+        <img src="https://img.shields.io/badge/Network-TCP%2FEthernet-334155?style=flat-square" alt="TCP Ethernet" />
       </p>
-      <p>Đồ án Điện tử Y sinh đo BPM và SpO2 bằng STM32F103C8T6, MAX30100/MAX30102 và LCD1602. Repo có firmware STM32duino, mô phỏng Proteus, slide, video demo, README kỹ thuật, visual động, tag và release.</p>
+      <p>Đồ án Hệ thống nhúng HCMUS FETEL: DE10-Standard Cyclone V SoC FPGA nhận lệnh TCP/Ethernet từ PC hoặc Android qua HPS/Linux, ghi xuống bridge HPS-FPGA và hiển thị chuỗi trên LED 7 đoạn. Repo có Quartus, HPS C/C++, GUI Python, báo cáo, slide, tag, release và README kỹ thuật.</p>
     </td>
     <td width="48%" valign="top">
-      <h3>⚙️ Vì sao repo này đáng xem?</h3>
+      <h3>🚦 Vì sao repo này đáng ghim?</h3>
       <table>
-        <tr><td><b>Phần cứng</b></td><td>STM32, cảm biến quang học, LCD, I2C, GPIO</td></tr>
-        <tr><td><b>Firmware</b></td><td>Arduino/STM32duino, PulseOximeter, Serial log</td></tr>
-        <tr><td><b>Bằng chứng</b></td><td>Proteus, slide, video demo, release note</td></tr>
-        <tr><td><b>Giá trị</b></td><td>Thể hiện tư duy tích hợp hệ nhúng y sinh end-to-end</td></tr>
+        <tr><td><b>Phần cứng</b></td><td>FPGA fabric, HPS/Linux, bridge HPS-FPGA, LED 7 đoạn</td></tr>
+        <tr><td><b>Phần mềm</b></td><td>TCP server, memory-mapped I/O, Python/Tkinter GUI, Android client</td></tr>
+        <tr><td><b>Bằng chứng</b></td><td>Báo cáo PDF, slide PDF, Typst source, PowerPoint blueprint, release note</td></tr>
+        <tr><td><b>Giá trị</b></td><td>Thể hiện tư duy tích hợp hệ thống nhúng từ mạng LAN đến board thật</td></tr>
       </table>
     </td>
   </tr>
@@ -95,13 +95,13 @@ nguyên_tắc_portfolio: "Mỗi repo phải cho thấy bài toán, kỹ thuật,
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>⚙️ <a href="https://github.com/lhlizdabezt/DoAnHeThongNhung">DoAnHeThongNhung</a></h3>
+      <h3>🫀 <a href="https://github.com/lhlizdabezt/DoAnDienTuYSinh_STM32_MAX30100_LCD">DoAnDienTuYSinh_STM32_MAX30100_LCD</a></h3>
       <p>
-        <a href="https://github.com/lhlizdabezt/DoAnHeThongNhung/releases/latest"><img src="https://img.shields.io/github/v/release/lhlizdabezt/DoAnHeThongNhung?style=flat-square&label=Release&color=0f766e" alt="Release mới nhất của Đồ án Hệ thống nhúng" /></a>
-        <img src="https://img.shields.io/badge/Board-DE10--Standard-2563eb?style=flat-square" alt="DE10 Standard" />
-        <img src="https://img.shields.io/badge/Stack-HPS%2FLinux%20%2B%20TCP%2FEthernet-D95319?style=flat-square" alt="HPS Linux TCP Ethernet" />
+        <a href="https://github.com/lhlizdabezt/DoAnDienTuYSinh_STM32_MAX30100_LCD/releases/latest"><img src="https://img.shields.io/github/v/release/lhlizdabezt/DoAnDienTuYSinh_STM32_MAX30100_LCD?style=flat-square&label=Release&color=0f766e" alt="Release mới nhất của repo Điện tử Y sinh" /></a>
+        <img src="https://img.shields.io/badge/STM32-MAX30100%20%2F%20MAX30102-2563eb?style=flat-square" alt="STM32 MAX30100 MAX30102" />
+        <img src="https://img.shields.io/badge/Display-LCD1602-D95319?style=flat-square" alt="LCD1602" />
       </p>
-      <p>Đồ án hệ thống nhúng dùng Cyclone V SoC FPGA: PC/Android gửi lệnh TCP/Ethernet qua HPS/Linux, điều khiển FPGA-side PIO và hiển thị lên LED 7 đoạn.</p>
+      <p>Đồ án Điện tử Y sinh đo BPM và SpO2 bằng STM32F103C8T6, MAX30100/MAX30102 và LCD1602. Repo có firmware STM32duino, mô phỏng Proteus, slide, video demo, README kỹ thuật, visual động, tag và release.</p>
     </td>
     <td width="50%" valign="top">
       <h3>⚡ <a href="https://github.com/lhlizdabezt/embedded-systems-fpga-review-labs">embedded-systems-fpga-review-labs</a></h3>
