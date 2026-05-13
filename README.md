@@ -1,15 +1,16 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/lhlizdabezt/lhlizdabezt/main/assets/profile-hero.svg" alt="Luong Hai Long engineering portfolio banner" />
+  <img src="https://raw.githubusercontent.com/lhlizdabezt/lhlizdabezt/main/assets/profile-hero.svg" alt="Lương Hải Long engineering portfolio banner" />
 </p>
 
-<h1 align="center">⚡ Lương Hải Long | Electronics & Telecommunications ⚡</h1>
+<h1 align="center">⚡ Lương Hải Long — Electronics & Telecommunications Engineering ⚡</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=25&pause=900&color=2563EB&center=true&vCenter=true&width=920&lines=FPGA%2FSoC+%7C+Embedded+Systems+%7C+Digital+Communications;Verilog+%7C+C%2FC%2B%2B+%7C+Python+Automation+%7C+AI%2FOCR;Kaggle+%7C+IPYNB+%7C+MATLAB+%7C+Typst+Engineering+Docs;Building+coursework+into+reviewable+engineering+evidence" alt="Animated engineering headline" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=25&pause=900&color=2563EB&center=true&vCenter=true&width=920&lines=Wireless+Communications+%7C+FPGA%2FSoC+%7C+Embedded+Systems;Verilog+%7C+C%2FC%2B%2B+%7C+Python+Automation+%7C+AI%2FOCR;Kaggle+%7C+IPYNB+%7C+MATLAB+%7C+Engineering+Reports;Turning+coursework+into+reviewable+engineering+evidence" alt="Animated engineering headline" />
 </p>
 
 <p align="center">
   <a href="https://github.com/lhlizdabezt?tab=repositories"><img src="https://img.shields.io/badge/Engineering%20Portfolio-20%20Public%20Repos-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="Engineering portfolio" /></a>
+  <img src="https://img.shields.io/badge/Profile-Animated%20%2B%20Reviewer--Ready-8b5cf6?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Animated reviewer-ready profile" />
   <img src="https://komarev.com/ghpvc/?username=lhlizdabezt&label=Profile%20Views&color=0f766e&style=for-the-badge" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/lhlizdabezt?style=for-the-badge&logo=github&label=Followers&color=2563eb" alt="GitHub followers" />
   <a href="mailto:22207056@student.hcmus.edu.vn"><img src="https://img.shields.io/badge/HCMUS%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="HCMUS email" /></a>
@@ -49,7 +50,18 @@ const long = {
 };
 ```
 
-I study Electronics and Telecommunications and turn real labs, reports, coursework and tools into public engineering artifacts. My profile is built for fast review: recruiters can see ownership and scope; engineers can see stack, constraints, files, releases and evidence.
+I study Electronics and Telecommunications at HCMUS and turn labs, reports, notebooks and tools into public engineering artifacts. This profile is built for fast review: recruiters can see ownership and scope; engineers can inspect stack, constraints, files, releases and reproducible evidence.
+
+---
+
+## 🚦 Portfolio Signal
+
+| What I want to prove | Evidence on GitHub | Review value |
+| --- | --- | --- |
+| I can connect signal theory to working systems | Wireless/digital communications, MATLAB simulation, BER and channel reports | Strong fundamentals, clean technical explanation |
+| I can build across hardware and software | FPGA/SoC, HPS/Linux, embedded C/C++, Python GUI, TCP/IP tools | System integration mindset |
+| I can document like an engineer | README-first repos, release notes, Typst reports, reproducible folders | HR-friendly and engineer-reviewable |
+| I keep growing in modern workflows | Kaggle, IPYNB, AI/OCR, automation, GitHub portfolio polish | Practical learning velocity |
 
 ---
 
@@ -161,7 +173,9 @@ I study Electronics and Telecommunications and turn real labs, reports, coursewo
 </p>
 
 <p align="center">
-  <img width="760" src="https://raw.githubusercontent.com/lhlizdabezt/lhlizdabezt/output/github-contribution-grid-snake-tokyonight.svg" alt="Contribution snake animation" />
+  <img src="https://img.shields.io/badge/Portfolio%20Signal-FPGA%2FSoC%20%2B%20Embedded%20%2B%20AI-0f172a?style=for-the-badge" alt="Portfolio signal" />
+  <img src="https://img.shields.io/badge/Review%20Mode-Repos%20%2B%20Releases%20%2B%20Evidence-0f766e?style=for-the-badge" alt="Review mode" />
+  <img src="https://img.shields.io/badge/Motion-SVG%20%2B%20GIF%20Assets-2563eb?style=for-the-badge" alt="Motion SVG and GIF assets" />
 </p>
 
 ---

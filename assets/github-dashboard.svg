@@ -64,7 +64,7 @@
       <text x="72" y="39" class="metricSub">labs and tools</text>
 
       <rect class="tile" x="184" y="0" width="162" height="54" rx="10"/>
-      <text x="200" y="34" class="metricValue">11+</text>
+      <text x="200" y="34" class="metricValue">15+</text>
       <text x="270" y="23" class="metricLabel">releases</text>
       <text x="270" y="39" class="metricSub">review assets</text>
 

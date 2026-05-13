@@ -50,5 +50,5 @@
     <circle cx="244" cy="246" r="4" style="animation:pulse 2.2s ease-in-out infinite"/>
     <circle cx="296" cy="232" r="4" style="animation:pulse 2.6s ease-in-out infinite"/>
   </g>
-  <text x="50" y="270" class="small">documented · reproducible · reviewer-ready</text>
+  <text x="50" y="270" class="small">documented - reproducible - reviewer-ready</text>
 </svg>
