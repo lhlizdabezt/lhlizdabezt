@@ -40,6 +40,7 @@ I build practical projects that connect hardware, firmware, desktop tools, appli
 
 - [DoAnHeThongNhung](https://github.com/lhlizdabezt/DoAnHeThongNhung) - Embedded systems project using DE10-Standard Cyclone V SoC FPGA, TCP/Ethernet communication, HPS/Linux, Python GUI, and 7-segment LED output.
 - [DoAnDienTuYSinh_STM32_MAX30100_LCD](https://github.com/lhlizdabezt/DoAnDienTuYSinh_STM32_MAX30100_LCD) - Biomedical electronics project using STM32F103C8T6, MAX30100/MAX30102, and LCD 1602 to measure and display BPM and SpO2; includes STM32duino code, Proteus simulation, slides, and demo video.
+- [ThucHanhGTMT](https://github.com/lhlizdabezt/ThucHanhGTMT) - Computer communication and data acquisition coursework: AHT20 temperature-humidity system with Silicon Labs BLE, LCD display, UART logging, and SQLite PC-side data storage.
 
 ### AI & Automation
 
