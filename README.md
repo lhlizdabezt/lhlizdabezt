@@ -137,8 +137,7 @@ I study Electronics and Telecommunications and build public repositories from re
 ## 📊 GitHub in Motion
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=lhlizdabezt&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lhlizdabezt&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img width="760" src="https://raw.githubusercontent.com/lhlizdabezt/lhlizdabezt/main/assets/github-dashboard.svg" alt="GitHub portfolio stats and top languages dashboard" />
 </p>
 
 <p align="center">
