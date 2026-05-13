@@ -6,7 +6,7 @@
 
 <p align="center">
   Electronics & Telecommunications Student @ VNUHCM - University of Science<br />
-  FPGA/Verilog | Embedded Systems | C/C++ | Python | AI & Kaggle
+  Analog Electronics | FPGA/Verilog | Embedded Systems | C/C++ | Python | AI & Kaggle
 </p>
 
 <p align="center">
@@ -28,9 +28,9 @@
 
 ## About
 
-I am an Electronics and Telecommunications student building practical engineering projects across embedded systems, FPGA/SoC design, firmware, Python automation, and applied AI.
+I am an Electronics and Telecommunications student building practical engineering projects across analog electronics, embedded systems, FPGA/SoC design, firmware, Python automation, and applied AI.
 
-My current focus is turning coursework and experiments into clean, documented repositories that show real hardware-software integration: Verilog modules, Avalon-MM/SoPC systems, Nios II C applications, MCU firmware, IoT communication, computer vision pipelines, and technical reports.
+My current focus is turning coursework and experiments into clean, documented repositories that show real engineering workflows: LTspice analog circuit simulations, Verilog modules, Avalon-MM/SoPC systems, Nios II C applications, MCU firmware, IoT communication, computer vision pipelines, and technical reports.
 
 ## Core Skills
 
@@ -38,6 +38,7 @@ My current focus is turning coursework and experiments into clean, documented re
 
 - Embedded C/C++, MCU firmware, low-level debugging, UART/Serial, TCP/IP, BLE, and IoT device testing.
 - STM32, ESP32, Arduino-class boards, sensor integration, LCD/LED display control, and circuit troubleshooting.
+- Analog electronics practice with LTspice/SPICE, op-amp circuits, comparators, active filters, oscillators, rectifiers, LDO and DAC simulation.
 - FPGA/SoC coursework with Verilog, SystemVerilog, Intel Quartus Prime, Platform Designer/Qsys, Avalon-MM, and Nios II.
 
 **Software and AI**
@@ -65,6 +66,7 @@ My current focus is turning coursework and experiments into clean, documented re
 
 | Area | Repository | Summary |
 | --- | --- | --- |
+| Analog Electronics | [ThucHanhDienTuTuongTu](https://github.com/lhlizdabezt/ThucHanhDienTuTuongTu) | LTspice lab workspace for Analog Electronics Practice: LM324 op-amp circuits, LM339 comparators, NE555 oscillators, active filters, rectifiers, LDO/DAC experiments, datasheets, theory notes, and simulation outputs. |
 | FPGA / Embedded Systems | [embedded-systems-fpga-review-labs](https://github.com/lhlizdabezt/embedded-systems-fpga-review-labs) | Quartus and Platform Designer lab workspace for Embedded Systems: Verilog custom IP, Avalon-MM SoPC design, Nios II C apps, timer/PIO/DMA examples, and Typst review notes. |
 | FPGA / SoC | [DoAnHeThongNhung](https://github.com/lhlizdabezt/DoAnHeThongNhung) | DE10-Standard Cyclone V SoC FPGA project with TCP/Ethernet communication, HPS/Linux, Python GUI, and 7-segment LED output. |
 | Biomedical Electronics | [DoAnDienTuYSinh_STM32_MAX30100_LCD](https://github.com/lhlizdabezt/DoAnDienTuYSinh_STM32_MAX30100_LCD) | STM32F103C8T6 + MAX30100/MAX30102 + LCD 1602 project for BPM and SpO2 measurement with Proteus simulation and demo material. |
@@ -76,6 +78,7 @@ My current focus is turning coursework and experiments into clean, documented re
 ## Current Focus
 
 - Improving embedded C/C++, Verilog, and FPGA/SoC design fundamentals.
+- Documenting analog electronics lab work with LTspice simulations, datasheets, calculations, and measured waveform notes.
 - Building reliable IoT communication and hardware-software integration workflows.
 - Organizing AI, computer vision, and Kaggle/IPYNB work into reproducible project repositories.
 - Writing cleaner README files, reports, and technical documentation for academic and portfolio projects.
@@ -100,5 +103,5 @@ My current focus is turning coursework and experiments into clean, documented re
 ---
 
 <p align="center">
-  <strong>Engineering portfolio in progress: embedded systems, FPGA, firmware, automation, and AI.</strong>
+  <strong>Engineering portfolio in progress: analog electronics, embedded systems, FPGA, firmware, automation, and AI.</strong>
 </p>
