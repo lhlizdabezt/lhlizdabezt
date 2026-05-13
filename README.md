@@ -53,12 +53,19 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/lhlizdabezt/NhapMonAI/releases/tag/v1.0.0">
+    <img src="https://img.shields.io/badge/Latest%20AI%20Release-NhapMonAI%20v1.0.0-0f766e?style=for-the-badge&logo=github" alt="NhapMonAI release v1.0.0" />
+  </a>
+  <a href="https://github.com/lhlizdabezt/NhapMonAI">
+    <img src="https://img.shields.io/badge/YOLO%20%2B%20OCR-mAP50%200.99450-2563eb?style=for-the-badge&logo=python&logoColor=white" alt="YOLO OCR mAP50 0.99450" />
+  </a>
   <a href="https://github.com/lhlizdabezt/TruyenThongKhongDay/releases/tag/v1.0.0">
-    <img src="https://img.shields.io/badge/Latest%20Release-TruyenThongKhongDay%20v1.0.0-0F4C81?style=for-the-badge&logo=github" alt="TruyenThongKhongDay release v1.0.0" />
+    <img src="https://img.shields.io/badge/Wireless%20Release-TruyenThongKhongDay%20v1.0.0-0F4C81?style=for-the-badge&logo=github" alt="TruyenThongKhongDay release v1.0.0" />
   </a>
-  <a href="https://github.com/lhlizdabezt/TruyenThongKhongDay/releases/download/v1.0.0/DoAnTTKD_Nhom1_22DTV_CLC1.pdf">
-    <img src="https://img.shields.io/badge/Final%20Project-PDF%2036%20pages-D95319?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Wireless communications final project PDF" />
-  </a>
+</p>
+
+<p align="center">
+  <img width="760" src="https://raw.githubusercontent.com/lhlizdabezt/NhapMonAI/main/assets/alpr-pipeline-motion.gif" alt="Animated NhapMonAI YOLO OCR pipeline" />
 </p>
 
 ## 🪪 About Me
@@ -196,10 +203,13 @@ I study Electronics and Telecommunications and build portfolio-grade repos from 
     <td width="50%" valign="top">
       <h3>🤖 <a href="https://github.com/lhlizdabezt/NhapMonAI">NhapMonAI</a></h3>
       <p>
+        <img src="https://img.shields.io/badge/Release-v1.0.0-0f766e?style=flat-square" alt="v1.0.0" />
         <img src="https://img.shields.io/badge/AI-YOLO%20%2B%20OCR-0f766e?style=flat-square" alt="YOLO OCR" />
         <img src="https://img.shields.io/badge/Apps-Desktop%20%2B%20Android-2563eb?style=flat-square" alt="Desktop and Android" />
+        <img src="https://img.shields.io/badge/mAP50-0.99450-D95319?style=flat-square" alt="mAP50 0.99450" />
       </p>
-      <p>Vietnamese license plate recognition project using YOLO, OCR, Python desktop app, Android APK and Typst academic reports.</p>
+      <p>Vietnamese license plate recognition portfolio using YOLO, OCR, Python desktop app, PC gate demo, Android demo evidence, Kaggle notebooks, Git LFS assets, Typst academic report and a tagged GitHub release.</p>
+      <p><a href="https://github.com/lhlizdabezt/NhapMonAI/releases/tag/v1.0.0">Release v1.0.0</a> · <a href="https://github.com/lhlizdabezt/NhapMonAI/blob/main/Group5_BaoCaoSeminarNhapMonAI.pdf">Report PDF</a></p>
     </td>
     <td width="50%" valign="top">
       <h3>🩺 <a href="https://github.com/lhlizdabezt/DoAnDienTuYSinh_STM32_MAX30100_LCD">DoAnDienTuYSinh_STM32_MAX30100_LCD</a></h3>
@@ -227,7 +237,7 @@ I study Electronics and Telecommunications and build portfolio-grade repos from 
 | FPGA review labs | [embedded-systems-fpga-review-labs](https://github.com/lhlizdabezt/embedded-systems-fpga-review-labs) | Verilog, Quartus, Avalon-MM, Nios II, timer, PIO, DMA |
 | IoT data acquisition | [ThucHanhGTMT](https://github.com/lhlizdabezt/ThucHanhGTMT) | AHT20, Silicon Labs BLE, LCD, UART, SQLite logger |
 | Biomedical embedded | [DoAnDienTuYSinh_STM32_MAX30100_LCD](https://github.com/lhlizdabezt/DoAnDienTuYSinh_STM32_MAX30100_LCD) | STM32, MAX30100/MAX30102, LCD1602, Proteus |
-| Applied AI / OCR | [NhapMonAI](https://github.com/lhlizdabezt/NhapMonAI) | YOLO, OCR, Python desktop, Android demo, academic report |
+| Applied AI / OCR | [NhapMonAI](https://github.com/lhlizdabezt/NhapMonAI) | YOLO/OCR, Python desktop, PC gate demo, mAP50 0.99450, release v1.0.0 |
 | Academic docs | [HCMUS-DTVT-BaoCao-Templates](https://github.com/lhlizdabezt/HCMUS-DTVT-BaoCao-Templates) | KLTN/BCTT templates, Typst guide, Word-to-Typst starter |
 | Internship report | [BCTT-ThucTap-BTPHoldings](https://github.com/lhlizdabezt/BCTT-ThucTap-BTPHoldings) | BTP Holdings QC/Warranty report, 7-chapter Typst document, IEEE bibliography |
 
@@ -270,7 +280,7 @@ I study Electronics and Telecommunications and build portfolio-grade repos from 
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/lhlizdabezt/NhapMonAI">NhapMonAI</a></h3>
-      <p><b>Applied AI / OCR</b> · YOLO · Vietnamese license plate recognition · Python desktop app · Android demo.</p>
+      <p><b>Applied AI / OCR</b> · YOLO · Vietnamese license plate recognition · Python desktop app · PC gate demo · <a href="https://github.com/lhlizdabezt/NhapMonAI/releases/tag/v1.0.0">release v1.0.0</a>.</p>
     </td>
   </tr>
   <tr>
