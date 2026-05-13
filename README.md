@@ -68,11 +68,11 @@ const long = {
   name:        "Lương Hải Long",
   studentId:   "22207056",
   university:  "VNUHCM – University of Science (HCMUS)",
-  faculty:     "Electronics & Telecommunications (FETEL)",
-  department:  "Computer Engineering & Embedded Systems",
+  faculty:     "Electronics &amp; Telecommunications (FETEL)",
+  department:  "Computer Engineering &amp; Embedded Systems",
   program:     "High-Quality Track · K2022 CLC",
   location:    "Tân Phú Ward, Hồ Chí Minh City 🇻🇳",
-  internship:  "BTP Holdings — QC & Warranty Service (12/01/2026 → 10/04/2026, 400h)",
+  internship:  "BTP Holdings — QC &amp; Warranty Service (12/01/2026 → 10/04/2026, 400h)",
   interests:   ["FPGA/SoC", "Digital Comms", "Analog SPICE",
                 "Embedded firmware", "Applied AI", "Reproducible docs"],
   toolchain:   ["Typst", "MATLAB", "LTspice", "Quartus Prime",
@@ -177,9 +177,9 @@ const long = {
       <h4>🔧 Engineering takeaways</h4>
       <ul>
         <li>📋 <b>QC checklist + lockout/tagout</b> — observed safe testing of bếp đôi từ, máy rửa chén, hood, lò vi sóng, nồi cơm điện, nồi chiên không dầu.</li>
-        <li>⚡ <b>Power & control electronics</b> — khối nguồn, mạch công suất, MCU panel hiển thị, cảm biến, cơ cấu chấp hành.</li>
+        <li>⚡ <b>Power &amp; control electronics</b> — khối nguồn, mạch công suất, MCU panel hiển thị, cảm biến, cơ cấu chấp hành.</li>
         <li>🔄 <b>Warranty workflow</b> — tiếp nhận → chẩn đoán → sửa → kiểm thử lại, ghi nhận hiện tượng lỗi có hệ thống.</li>
-        <li>📡 <b>IoT smoke testing</b> — Wi-Fi/BLE pairing, app behavior, lập biên bản lỗi quay về R&D.</li>
+        <li>📡 <b>IoT smoke testing</b> — Wi-Fi/BLE pairing, app behavior, lập biên bản lỗi quay về R&amp;D.</li>
         <li>📕 <b>Documentation:</b> wrote a Typst BCTT 7 chapters + IEEE bib (<a href="https://github.com/lhlizdabezt/BCTT-ThucTap-BTPHoldings">repo</a>).</li>
       </ul>
     </td>
@@ -241,7 +241,7 @@ const long = {
       <h3>🧪 <a href="https://github.com/lhlizdabezt/embedded-systems-fpga-review-labs">embedded-systems-fpga-review-labs</a></h3>
       <img src="https://img.shields.io/badge/FPGA-Verilog%20%7C%20Quartus-334155?style=flat-square" alt="FPGA" />
       <img src="https://img.shields.io/badge/SoPC-Avalon--MM%20%7C%20Nios%20II-2563eb?style=flat-square" alt="SoPC" /><br/>
-      Quartus & Platform Designer lab repo — custom IP, Avalon-MM SoPC, Nios II C, timer/PIO/DMA + review notes.
+      Quartus &amp; Platform Designer lab repo — custom IP, Avalon-MM SoPC, Nios II C, timer/PIO/DMA + review notes.
     </td>
     <td width="50%" valign="top">
       <h3>🩺 <a href="https://github.com/lhlizdabezt/DoAnDienTuYSinh_STM32_MAX30100_LCD">DoAnDienTuYSinh_STM32_MAX30100_LCD</a></h3>
@@ -304,7 +304,7 @@ const long = {
     <td width="50%" valign="top">
       <h4>🤝 Workplace skills (HR signal)</h4>
       <ul>
-        <li>📋 <b>Process discipline</b> — followed QC checklists & lockout/tagout for 400 h at BTP Holdings without an incident.</li>
+        <li>📋 <b>Process discipline</b> — followed QC checklists &amp; lockout/tagout for 400 h at BTP Holdings without an incident.</li>
         <li>🗣️ <b>Cross-team communication</b> — bridged QC ↔ Warranty SP ↔ R&amp;D ↔ Training during internship.</li>
         <li>✍️ <b>Technical writing in Vietnamese &amp; English</b> — IEEE-style reports, slide decks, README documentation.</li>
         <li>⏱️ <b>Reliability</b> — 12 newly-published repos in one quarter, each with README + LICENSE + release notes.</li>
