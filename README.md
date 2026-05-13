@@ -135,8 +135,8 @@ const long = {
 
 <p align="center">
   <a href="https://github.com/lhlizdabezt">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lhlizdabezt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=2563eb&icon_color=0f766e" alt="GitHub stats" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lhlizdabezt&layout=compact&theme=tokyonight&hide_border=true&title_color=2563eb&langs_count=10&hide=AGS%20Script,MoonScript" alt="Top languages" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lhlizdabezt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=2563eb&icon_color=0f766e" alt="GitHub stats" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lhlizdabezt&layout=compact&theme=tokyonight&hide_border=true&title_color=2563eb&langs_count=10&hide=AGS%20Script,MoonScript" alt="Top languages" />
   </a>
 </p>
 
@@ -327,10 +327,24 @@ const long = {
 
 ---
 
-## 🎵 Now Spinning
+## 📌 Featured Repositories
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=lhlizdabezt&theme=tokyonight&hide_border=true&layout=compact&custom_title=Time%20spent%20across%20coursework%20%26%20repos%20(if%20WakaTime%20enabled)" alt="WakaTime (optional)" />
+  <a href="https://github.com/lhlizdabezt/BCTT-ThucTap-BTPHoldings">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=lhlizdabezt&repo=BCTT-ThucTap-BTPHoldings&theme=tokyonight&hide_border=true&title_color=2563eb&icon_color=0f766e" alt="BCTT-ThucTap-BTPHoldings card" />
+  </a>
+  <a href="https://github.com/lhlizdabezt/Slide-DoAnHTN-Nhom17-DE10Standard">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=lhlizdabezt&repo=Slide-DoAnHTN-Nhom17-DE10Standard&theme=tokyonight&hide_border=true&title_color=2563eb&icon_color=0f766e" alt="Slide-DoAnHTN-Nhom17-DE10Standard card" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/lhlizdabezt/HCMUS-DTVT-BaoCao-Templates">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=lhlizdabezt&repo=HCMUS-DTVT-BaoCao-Templates&theme=tokyonight&hide_border=true&title_color=2563eb&icon_color=0f766e" alt="HCMUS-DTVT-BaoCao-Templates card" />
+  </a>
+  <a href="https://github.com/lhlizdabezt/DoAnHeThongNhung">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=lhlizdabezt&repo=DoAnHeThongNhung&theme=tokyonight&hide_border=true&title_color=2563eb&icon_color=0f766e" alt="DoAnHeThongNhung card" />
+  </a>
 </p>
 
 ---
