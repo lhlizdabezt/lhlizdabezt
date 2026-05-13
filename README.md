@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/lhlizdabezt?tab=repositories"><img src="https://img.shields.io/badge/Engineering%20Portfolio-20%2B%20Public%20Repos-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="Engineering portfolio" /></a>
+  <a href="https://github.com/lhlizdabezt?tab=repositories"><img src="https://img.shields.io/badge/Engineering%20Portfolio-20%20Public%20Repos-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="Engineering portfolio" /></a>
   <img src="https://komarev.com/ghpvc/?username=lhlizdabezt&label=Profile%20Views&color=0f766e&style=for-the-badge" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/lhlizdabezt?style=for-the-badge&logo=github&label=Followers&color=2563eb" alt="GitHub followers" />
   <a href="mailto:22207056@student.hcmus.edu.vn"><img src="https://img.shields.io/badge/HCMUS%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="HCMUS email" /></a>
