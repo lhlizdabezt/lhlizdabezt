@@ -2,10 +2,10 @@
   <img src="https://raw.githubusercontent.com/lhlizdabezt/lhlizdabezt/main/assets/profile-hero.svg" alt="Luong Hai Long engineering portfolio banner" />
 </p>
 
-<h1 align="center">⚡ Luong Hai Long ⚡</h1>
+<h1 align="center">⚡ Lương Hải Long | Electronics & Telecommunications ⚡</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=25&pause=900&color=2563EB&center=true&vCenter=true&width=900&lines=Electronics+%26+Telecommunications+Student+%40+HCMUS;FPGA%2FSoC+%7C+Embedded+Systems+%7C+Digital+Communications;Python+Automation+%7C+AI%2FOCR+%7C+Kaggle+%7C+IPYNB;Turning+coursework+into+reviewable+engineering+portfolios" alt="Animated engineering headline" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=25&pause=900&color=2563EB&center=true&vCenter=true&width=920&lines=FPGA%2FSoC+%7C+Embedded+Systems+%7C+Digital+Communications;Verilog+%7C+C%2FC%2B%2B+%7C+Python+Automation+%7C+AI%2FOCR;Kaggle+%7C+IPYNB+%7C+MATLAB+%7C+Typst+Engineering+Docs;Building+coursework+into+reviewable+engineering+evidence" alt="Animated engineering headline" />
 </p>
 
 <p align="center">
@@ -30,43 +30,26 @@
 
 ---
 
-## 🧭 Engineering Identity
+## 🧭 Engineering Snapshot
 
 ```ts
 const long = {
-  fullName: "Luong Hai Long",
+  fullName: "Lương Hải Long",
   studentId: "22207056",
   university: "VNUHCM - University of Science (HCMUS)",
   major: "Electronics & Telecommunications",
   coreStack: ["Verilog/VHDL", "C/C++", "Python", "MATLAB", "Typst", "Kaggle", "IPYNB"],
-  focus: [
-    "Digital and wireless communications",
-    "FPGA/SoC design with Intel Quartus and Platform Designer",
-    "Embedded firmware, UART, TCP/IP and hardware/software integration",
-    "Python automation, desktop tools, AI/OCR and reproducible reports"
+  strongestSignals: [
+    "FPGA/SoC design with Intel Quartus, Platform Designer, Avalon-MM and Nios II",
+    "Embedded firmware, TCP/IP, UART, GUI tools and hardware/software integration",
+    "Digital/wireless communications simulation with MATLAB and technical reports",
+    "Python automation, AI/OCR workflows, reproducible notebooks and polished READMEs"
   ],
-  portfolioPrinciple: "Every repo should explain the problem, evidence, result and reproducible path."
+  portfolioRule: "Every repo should show the problem, technical evidence, result and reproducible path."
 };
 ```
 
-I study Electronics and Telecommunications and build public repositories from real labs, reports, coursework and automation tools. My strongest signal is system-level execution: simulation, firmware, FPGA/SoC, PC tooling, AI experiments and clean documentation.
-
----
-
-## 🛠️ Toolbox
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,arduino,linux,git,vscode,opencv,tensorflow,matlab,bash,latex&perline=12" alt="Technical toolbox icons" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/MATLAB-DSP%20%7C%20BER%20%7C%20Simulation-D95319?style=for-the-badge" alt="MATLAB" />
-  <img src="https://img.shields.io/badge/Verilog%20%2F%20VHDL-FPGA%20Logic-334155?style=for-the-badge" alt="Verilog and VHDL" />
-  <img src="https://img.shields.io/badge/Intel%20Quartus-SoC%20Design-2563EB?style=for-the-badge" alt="Intel Quartus" />
-  <img src="https://img.shields.io/badge/STM32-Embedded%20Firmware-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32" />
-  <img src="https://img.shields.io/badge/Python-Automation%20%7C%20GUI%20%7C%20AI-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Typst-Reports%20%26%20Slides-239DAD?style=for-the-badge&logo=typst&logoColor=white" alt="Typst" />
-</p>
+I study Electronics and Telecommunications and turn real labs, reports, coursework and tools into public engineering artifacts. My profile is built for fast review: recruiters can see ownership and scope; engineers can see stack, constraints, files, releases and evidence.
 
 ---
 
@@ -84,6 +67,17 @@ I study Electronics and Telecommunications and build public repositories from re
       <p>Embedded Systems capstone: Cyclone V SoC FPGA receives TCP/Ethernet commands from PC/Android through HPS/Linux, writes to FPGA-side PIO and displays text on 7-segment LEDs.</p>
     </td>
     <td width="50%" valign="top">
+      <h3>⚡ <a href="https://github.com/lhlizdabezt/embedded-systems-fpga-review-labs">embedded-systems-fpga-review-labs</a></h3>
+      <p>
+        <a href="https://github.com/lhlizdabezt/embedded-systems-fpga-review-labs/releases/tag/v1.0.0"><img src="https://img.shields.io/badge/Release-v1.0.0-0f766e?style=flat-square" alt="Release v1.0.0" /></a>
+        <img src="https://img.shields.io/badge/FPGA-Avalon--MM%20%2B%20Nios%20II-2563eb?style=flat-square" alt="Avalon-MM and Nios II" />
+        <img src="https://img.shields.io/badge/Docs-Typst-D95319?style=flat-square" alt="Typst docs" />
+      </p>
+      <p>Quartus and Platform Designer review workspace with Verilog custom IP, Avalon-MM SoPC systems, Nios II C apps, timer/PIO/DMA labs and structured exam notes.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3>🤖 <a href="https://github.com/lhlizdabezt/NhapMonAI">NhapMonAI</a></h3>
       <p>
         <a href="https://github.com/lhlizdabezt/NhapMonAI/releases/tag/v1.0.0"><img src="https://img.shields.io/badge/Release-v1.0.0-0f766e?style=flat-square" alt="Release v1.0.0" /></a>
@@ -92,8 +86,6 @@ I study Electronics and Telecommunications and build public repositories from re
       </p>
       <p>Vietnamese license plate recognition portfolio with YOLO, OCR normalization, Python desktop app, PC gate demo, Kaggle notebooks, Android evidence and Typst academic report.</p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>📡 <a href="https://github.com/lhlizdabezt/TruyenThongKhongDay">TruyenThongKhongDay</a></h3>
       <p>
@@ -103,6 +95,8 @@ I study Electronics and Telecommunications and build public repositories from re
       </p>
       <p>Wireless communications coursework and final project: fading channels, equalizer, OFDM, MIMO and MATLAB simulations for wide/narrow fading channels.</p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>💬 <a href="https://github.com/lhlizdabezt/messenger-edge-tool">messenger-edge-tool</a></h3>
       <p>
@@ -112,8 +106,34 @@ I study Electronics and Telecommunications and build public repositories from re
       </p>
       <p>Local desktop companion for Messenger context extraction, AI-assisted reply drafting and human-in-the-loop browser automation through Microsoft Edge.</p>
     </td>
+    <td width="50%" valign="top">
+      <h3>🧩 <a href="https://github.com/lhlizdabezt/hcmus-auto-dkhp">hcmus-auto-dkhp</a></h3>
+      <p>
+        <a href="https://github.com/lhlizdabezt/hcmus-auto-dkhp/releases/tag/v4.3.0"><img src="https://img.shields.io/badge/Release-v4.3.0-0f766e?style=flat-square" alt="Release v4.3.0" /></a>
+        <img src="https://img.shields.io/badge/Tampermonkey-Student%20Automation-2563eb?style=flat-square" alt="Tampermonkey student automation" />
+        <img src="https://img.shields.io/badge/Safety-Manual%20CAPTCHA-D95319?style=flat-square" alt="Manual CAPTCHA" />
+      </p>
+      <p>Browser userscript for HCMUS course registration with scheduled reload, course matching, safe defaults, optional submit flow and manual CAPTCHA boundary.</p>
+    </td>
   </tr>
 </table>
+
+---
+
+## 🛠️ Toolbox
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,arduino,linux,git,vscode,opencv,tensorflow,matlab,bash,latex&perline=12" alt="Technical toolbox icons" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Verilog%20%2F%20VHDL-FPGA%20Logic-334155?style=for-the-badge" alt="Verilog and VHDL" />
+  <img src="https://img.shields.io/badge/Intel%20Quartus-SoC%20Design-2563EB?style=for-the-badge" alt="Intel Quartus" />
+  <img src="https://img.shields.io/badge/C%2FC%2B%2B-Embedded%20Systems-0f766e?style=for-the-badge" alt="C and C++" />
+  <img src="https://img.shields.io/badge/MATLAB-DSP%20%7C%20BER%20%7C%20Simulation-D95319?style=for-the-badge" alt="MATLAB" />
+  <img src="https://img.shields.io/badge/Python-Automation%20%7C%20GUI%20%7C%20AI-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Typst-Reports%20%26%20Slides-239DAD?style=for-the-badge&logo=typst&logoColor=white" alt="Typst" />
+</p>
 
 ---
 
@@ -122,11 +142,11 @@ I study Electronics and Telecommunications and build public repositories from re
 | Focus | Repository | Evidence |
 | --- | --- | --- |
 | FPGA / SoC capstone | [DoAnHeThongNhung](https://github.com/lhlizdabezt/DoAnHeThongNhung) | DE10-Standard, HPS/Linux, TCP/IP, Python GUI, report, release |
+| FPGA review labs | [embedded-systems-fpga-review-labs](https://github.com/lhlizdabezt/embedded-systems-fpga-review-labs) | Verilog, Avalon-MM, Nios II, PIO, timer, DMA, Typst review |
 | AI / OCR application | [NhapMonAI](https://github.com/lhlizdabezt/NhapMonAI) | YOLO, OCR, desktop app, Android evidence, mAP50, Kaggle notebooks |
 | Wireless communications | [TruyenThongKhongDay](https://github.com/lhlizdabezt/TruyenThongKhongDay) | Fading, OFDM, MIMO, equalizer, MATLAB simulation |
 | Digital communications | [TruyenThongSo](https://github.com/lhlizdabezt/TruyenThongSo) | AWGN, BER, modulation, companding, LDPC |
 | Analog electronics | [ThucHanhDienTuTuongTu](https://github.com/lhlizdabezt/ThucHanhDienTuTuongTu) | LTspice, LM324, LM339, NE555, filters, oscillators |
-| FPGA review labs | [embedded-systems-fpga-review-labs](https://github.com/lhlizdabezt/embedded-systems-fpga-review-labs) | Verilog, Avalon-MM, Nios II, PIO, timer, DMA |
 | Biomedical embedded | [DoAnDienTuYSinh_STM32_MAX30100_LCD](https://github.com/lhlizdabezt/DoAnDienTuYSinh_STM32_MAX30100_LCD) | STM32, MAX30100/MAX30102, LCD1602, Proteus |
 | Student automation | [hcmus-auto-dkhp](https://github.com/lhlizdabezt/hcmus-auto-dkhp) | Tampermonkey, safe defaults, scheduled reload, release v4.3.0 |
 | Desktop automation | [messenger-edge-tool](https://github.com/lhlizdabezt/messenger-edge-tool) | Python, Edge, Playwright, AI drafting, context extraction |
@@ -159,7 +179,7 @@ I study Electronics and Telecommunications and build public repositories from re
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>HR signal</h3>
+      <h3>Recruiter signal</h3>
       <ul>
         <li>Coursework is organized as reviewable evidence instead of raw file dumps.</li>
         <li>Projects connect theory, simulation, implementation, testing and documentation.</li>
