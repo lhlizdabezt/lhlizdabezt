@@ -4,7 +4,7 @@
 -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f172a,30:0f766e,65:2563eb,100:8e44ad&text=Luong%20Hai%20Long&fontColor=ffffff&fontSize=58&fontAlignY=34&desc=Electronics%20%26%20Telecommunications%20%7C%20FPGA%2FSoC%20%7C%20Embedded%20%7C%20Digital%20Comms%20%7C%20Applied%20AI&descAlignY=60&descSize=16&animation=fadeIn" alt="Animated banner for Luong Hai Long" />
+  <img src="https://raw.githubusercontent.com/lhlizdabezt/lhlizdabezt/main/assets/profile-hero.svg" alt="Luong Hai Long engineering portfolio banner" />
 </p>
 
 <h2 align="center">⚡ Electronics & Telecommunications Student @ HCMUS ⚡</h2>
@@ -25,9 +25,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/lhlizdabezt">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=650&color=0F766E&center=true&vCenter=true&width=980&height=76&lines=Hi%2C+I'm+Long+%F0%9F%91%8B;I+turn+coursework+into+clean+engineering+portfolios+%E2%9A%99%EF%B8%8F;MATLAB+%E2%86%92+LTspice+%E2%86%92+Quartus+%E2%86%92+STM32+%E2%86%92+Python+%E2%86%92+AI;Signal+to+system%2C+with+traceable+documentation+%F0%9F%93%9A" alt="Typing animation" />
-  </a>
+  <samp>
+    Hi, I'm Long. I turn coursework into clean engineering portfolios:
+    MATLAB -> LTspice -> Quartus -> STM32 -> Python -> AI.
+  </samp>
 </p>
 
 <p align="center">
@@ -45,7 +46,7 @@
   </a>
 </p>
 
-<img align="right" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer motion GIF" />
+<img align="right" width="340" src="https://raw.githubusercontent.com/lhlizdabezt/lhlizdabezt/main/assets/profile-motion.svg" alt="Animated embedded systems motion" />
 
 ## 🪪 About Me
 
@@ -219,24 +220,14 @@ I study Electronics and Telecommunications and build portfolio-grade repos from 
 
 ## 📊 GitHub in Motion
 
-<p align="center">
-  <a href="https://github.com/lhlizdabezt">
-    <img height="178" src="https://github-readme-stats.vercel.app/api?username=lhlizdabezt&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=2563eb&icon_color=0f766e" alt="GitHub stats" />
-    <img height="178" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lhlizdabezt&layout=compact&theme=tokyonight&hide_border=true&title_color=2563eb&langs_count=10&hide=AGS%20Script,MoonScript" alt="Top languages" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/lhlizdabezt">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=lhlizdabezt&theme=tokyonight&hide_border=true&background=1a1b27&ring=2563eb&fire=D95319&currStreakLabel=0f766e" alt="GitHub streak" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/lhlizdabezt">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=lhlizdabezt&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=8e44ad&line=2563eb&point=0f766e&area=true&area_color=0f766e" alt="Contribution activity graph" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td align="center" width="25%"><b>20 public repos</b><br/><sub>coursework, labs, reports, tooling</sub></td>
+    <td align="center" width="25%"><b>Core stack</b><br/><sub>MATLAB · C/C++ · Python · Typst · Verilog/VHDL</sub></td>
+    <td align="center" width="25%"><b>Hardware focus</b><br/><sub>DE10-Standard · STM32 · BLE · UART · TCP/IP</sub></td>
+    <td align="center" width="25%"><b>Portfolio signal</b><br/><sub>README · release notes · reports · source bundles</sub></td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/lhlizdabezt/lhlizdabezt/output/github-contribution-grid-snake-tokyonight.svg" alt="Contribution snake animation" />
@@ -246,32 +237,38 @@ I study Electronics and Telecommunications and build portfolio-grade repos from 
 
 ## 📌 Pinned Review Cards
 
-<p align="center">
-  <a href="https://github.com/lhlizdabezt/DoAnHeThongNhung">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lhlizdabezt&repo=DoAnHeThongNhung&theme=tokyonight&hide_border=true&title_color=2563eb&icon_color=0f766e" alt="DoAnHeThongNhung pinned card" />
-  </a>
-  <a href="https://github.com/lhlizdabezt/TruyenThongKhongDay">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lhlizdabezt&repo=TruyenThongKhongDay&theme=tokyonight&hide_border=true&title_color=2563eb&icon_color=0f766e" alt="TruyenThongKhongDay pinned card" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/lhlizdabezt/TruyenThongSo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lhlizdabezt&repo=TruyenThongSo&theme=tokyonight&hide_border=true&title_color=2563eb&icon_color=0f766e" alt="TruyenThongSo pinned card" />
-  </a>
-  <a href="https://github.com/lhlizdabezt/NhapMonAI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lhlizdabezt&repo=NhapMonAI&theme=tokyonight&hide_border=true&title_color=2563eb&icon_color=0f766e" alt="NhapMonAI pinned card" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/lhlizdabezt/embedded-systems-fpga-review-labs">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lhlizdabezt&repo=embedded-systems-fpga-review-labs&theme=tokyonight&hide_border=true&title_color=2563eb&icon_color=0f766e" alt="embedded-systems-fpga-review-labs pinned card" />
-  </a>
-  <a href="https://github.com/lhlizdabezt/ThucHanhDienTuTuongTu">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lhlizdabezt&repo=ThucHanhDienTuTuongTu&theme=tokyonight&hide_border=true&title_color=2563eb&icon_color=0f766e" alt="ThucHanhDienTuTuongTu pinned card" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/lhlizdabezt/DoAnHeThongNhung">DoAnHeThongNhung</a></h3>
+      <p><b>Embedded Systems capstone</b> · DE10-Standard · HPS/Linux · TCP/IP · Python GUI · 7-segment display · <a href="https://github.com/lhlizdabezt/DoAnHeThongNhung/releases/tag/v1.0.0">release v1.0.0</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/lhlizdabezt/TruyenThongKhongDay">TruyenThongKhongDay</a></h3>
+      <p><b>Wireless communications</b> · fading channels · equalizer · OFDM · MIMO · MATLAB Monte Carlo simulation.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/lhlizdabezt/TruyenThongSo">TruyenThongSo</a></h3>
+      <p><b>Digital communications</b> · AWGN · BER · BASK/BPSK/BFSK/QPSK · companding · LDPC decoding.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/lhlizdabezt/NhapMonAI">NhapMonAI</a></h3>
+      <p><b>Applied AI / OCR</b> · YOLO · Vietnamese license plate recognition · Python desktop app · Android demo.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/lhlizdabezt/embedded-systems-fpga-review-labs">embedded-systems-fpga-review-labs</a></h3>
+      <p><b>FPGA review labs</b> · Verilog · Quartus · Avalon-MM · Nios II · timer / PIO / DMA examples.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/lhlizdabezt/ThucHanhDienTuTuongTu">ThucHanhDienTuTuongTu</a></h3>
+      <p><b>Analog electronics</b> · LTspice · LM324 · LM339 · NE555 · filters · oscillators · power circuits.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -313,7 +310,7 @@ I study Electronics and Telecommunications and build portfolio-grade repos from 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:8e44ad,50:2563eb,100:0f766e&section=footer&text=Thanks%20for%20visiting&fontColor=ffffff&fontSize=24&fontAlignY=70&animation=fadeIn" alt="Animated footer banner" />
+  <img src="https://raw.githubusercontent.com/lhlizdabezt/lhlizdabezt/main/assets/profile-footer.svg" alt="Thanks for visiting footer banner" />
 </p>
 
 <p align="center">

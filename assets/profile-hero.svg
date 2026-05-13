@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Luong Hai Long engineering portfolio banner</title>
+  <desc id="desc">Animated self-hosted banner for Electronics and Telecommunications, FPGA SoC, Embedded Systems, Digital Communications and Applied AI.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="38%" stop-color="#0f766e"/>
+      <stop offset="70%" stop-color="#2563eb"/>
+      <stop offset="100%" stop-color="#8e44ad"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#22d3ee"/>
+      <stop offset="50%" stop-color="#a7f3d0"/>
+      <stop offset="100%" stop-color="#fbbf24"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3.5" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <style>
+      @keyframes floatA { 0%,100% { transform: translateY(0); opacity: .72; } 50% { transform: translateY(-12px); opacity: 1; } }
+      @keyframes floatB { 0%,100% { transform: translateY(0); opacity: .35; } 50% { transform: translateY(10px); opacity: .82; } }
+      @keyframes dash { to { stroke-dashoffset: -220; } }
+      @keyframes blink { 0%,46%,100% { opacity: .22; } 50%,88% { opacity: 1; } }
+      @keyframes scan { 0% { transform: translateX(-180px); opacity: 0; } 15%,75% { opacity: .95; } 100% { transform: translateX(1230px); opacity: 0; } }
+      .chip { fill: rgba(15,23,42,.44); stroke: rgba(255,255,255,.22); stroke-width: 1; }
+      .small { font: 600 21px 'Segoe UI', Arial, sans-serif; letter-spacing: .2px; fill: #dbeafe; }
+      .tiny { font: 600 15px 'Segoe UI', Arial, sans-serif; fill: #ecfeff; }
+      .name { font: 800 62px 'Segoe UI', Arial, sans-serif; letter-spacing: .4px; fill: #fff; }
+      .desc { font: 600 22px 'Segoe UI', Arial, sans-serif; fill: #e0f2fe; }
+      .mono { font: 600 18px Consolas, 'Fira Code', monospace; fill: #a7f3d0; }
+    </style>
+  </defs>
+  <rect width="1200" height="300" rx="28" fill="url(#bg)"/>
+  <g opacity=".22">
+    <circle cx="102" cy="72" r="120" fill="#22d3ee">
+      <animate attributeName="r" values="110;130;110" dur="7s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1048" cy="232" r="150" fill="#f472b6">
+      <animate attributeName="r" values="142;166;142" dur="8s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+  <path d="M0 230 C160 194 236 268 400 232 C580 192 700 190 880 230 C1030 264 1110 205 1200 224 L1200 300 L0 300 Z" fill="#020617" opacity=".28"/>
+  <path d="M-10 212 C150 178 245 246 397 211 C575 168 710 168 888 211 C1032 244 1110 190 1210 208" fill="none" stroke="url(#line)" stroke-width="4" stroke-linecap="round" stroke-dasharray="22 22" filter="url(#glow)">
+    <animate attributeName="stroke-dashoffset" from="0" to="-220" dur="8s" repeatCount="indefinite"/>
+  </path>
+  <g style="animation: floatA 6s ease-in-out infinite">
+    <rect x="78" y="48" width="184" height="54" rx="16" class="chip"/>
+    <text x="102" y="82" class="small">FPGA / SoC</text>
+  </g>
+  <g style="animation: floatB 7s ease-in-out infinite">
+    <rect x="902" y="52" width="210" height="54" rx="16" class="chip"/>
+    <text x="927" y="86" class="small">Embedded C/C++</text>
+  </g>
+  <g style="animation: floatA 7.4s ease-in-out infinite">
+    <rect x="96" y="202" width="226" height="54" rx="16" class="chip"/>
+    <text x="121" y="236" class="small">MATLAB + DSP</text>
+  </g>
+  <g style="animation: floatB 6.6s ease-in-out infinite">
+    <rect x="860" y="198" width="232" height="54" rx="16" class="chip"/>
+    <text x="886" y="232" class="small">Python + AI</text>
+  </g>
+  <g transform="translate(355 66)">
+    <text x="0" y="0" class="mono">// signal -&gt; system -&gt; documented portfolio</text>
+    <text x="0" y="72" class="name">Luong Hai Long</text>
+    <text x="0" y="116" class="desc">Electronics &amp; Telecommunications @ HCMUS</text>
+    <g transform="translate(0 146)">
+      <rect width="96" height="30" rx="15" fill="rgba(255,255,255,.16)" stroke="rgba(255,255,255,.24)"/>
+      <text x="19" y="20" class="tiny">Quartus</text>
+      <rect x="112" width="106" height="30" rx="15" fill="rgba(255,255,255,.16)" stroke="rgba(255,255,255,.24)"/>
+      <text x="132" y="20" class="tiny">Verilog</text>
+      <rect x="234" width="94" height="30" rx="15" fill="rgba(255,255,255,.16)" stroke="rgba(255,255,255,.24)"/>
+      <text x="256" y="20" class="tiny">STM32</text>
+      <rect x="344" width="120" height="30" rx="15" fill="rgba(255,255,255,.16)" stroke="rgba(255,255,255,.24)"/>
+      <text x="366" y="20" class="tiny">LTspice</text>
+    </g>
+  </g>
+  <g opacity=".9" filter="url(#glow)">
+    <line x1="0" y1="36" x2="180" y2="36" stroke="#a7f3d0" stroke-width="2" style="animation: scan 6s linear infinite"/>
+    <line x1="0" y1="264" x2="140" y2="264" stroke="#bfdbfe" stroke-width="2" style="animation: scan 7.5s linear infinite"/>
+  </g>
+  <g fill="#e0f2fe" style="animation: blink 2.4s ease-in-out infinite">
+    <circle cx="322" cy="92" r="5"/>
+    <circle cx="842" cy="98" r="5"/>
+    <circle cx="778" cy="224" r="5"/>
+    <circle cx="338" cy="228" r="5"/>
+  </g>
+</svg>

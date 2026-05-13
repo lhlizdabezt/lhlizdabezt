@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="130" viewBox="0 0 1200 130" role="img" aria-labelledby="title desc">
+  <title id="title">Footer banner</title>
+  <desc id="desc">Self-hosted animated footer for the engineering portfolio profile.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#8e44ad"/>
+      <stop offset="50%" stop-color="#2563eb"/>
+      <stop offset="100%" stop-color="#0f766e"/>
+    </linearGradient>
+    <style>
+      @keyframes wave { to { stroke-dashoffset: -260; } }
+      .main { font: 800 24px 'Segoe UI', Arial, sans-serif; fill: #fff; }
+      .sub { font: 600 15px Consolas, 'Fira Code', monospace; fill: #e0f2fe; }
+    </style>
+  </defs>
+  <rect width="1200" height="130" rx="24" fill="url(#bg)"/>
+  <path d="M0 90 C160 40 260 120 420 82 C590 42 710 38 900 82 C1040 116 1120 58 1200 78" fill="none" stroke="#a7f3d0" stroke-width="4" stroke-linecap="round" stroke-dasharray="24 24">
+    <animate attributeName="stroke-dashoffset" from="0" to="-260" dur="9s" repeatCount="indefinite"/>
+  </path>
+  <text x="600" y="54" text-anchor="middle" class="main">Thanks for visiting</text>
+  <text x="600" y="86" text-anchor="middle" class="sub">Electronics &amp; Telecommunications - FPGA/SoC - Embedded Systems - Digital Communications - Applied AI</text>
+</svg>
