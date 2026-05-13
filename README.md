@@ -44,11 +44,11 @@ I build practical projects that connect hardware, firmware, desktop tools, and a
 - Building cleaner Python AI pipelines for computer vision and OCR tasks.
 - Turning coursework and internship experience into polished engineering projects.
 
-## GitHub Stats
+## GitHub
 
-![Long's GitHub stats](https://github-readme-stats.vercel.app/api?username=lhlizdabezt&show_icons=true&theme=default&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lhlizdabezt&layout=compact&hide_border=true)
+- [My GitHub profile](https://github.com/lhlizdabezt)
+- [All repositories](https://github.com/lhlizdabezt?tab=repositories)
+- [Profile README source](https://github.com/lhlizdabezt/lhlizdabezt)
 
 ## Connect
 
