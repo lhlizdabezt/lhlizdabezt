@@ -46,7 +46,9 @@
   </a>
 </p>
 
-<img align="right" width="340" src="https://raw.githubusercontent.com/lhlizdabezt/lhlizdabezt/main/assets/profile-motion.svg" alt="Animated embedded systems motion" />
+<p align="center">
+  <img width="420" src="https://raw.githubusercontent.com/lhlizdabezt/lhlizdabezt/main/assets/profile-motion.svg" alt="Animated embedded systems motion" />
+</p>
 
 ## 🪪 About Me
 
