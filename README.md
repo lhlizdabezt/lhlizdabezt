@@ -5,7 +5,7 @@
 <h1 align="center">⚡ Lương Hải Long — Electronics & Telecommunications Engineering ⚡</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=25&pause=900&color=2563EB&center=true&vCenter=true&width=920&lines=Wireless+Communications+%7C+FPGA%2FSoC+%7C+Embedded+Systems;Verilog+%7C+C%2FC%2B%2B+%7C+Python+Automation+%7C+AI%2FOCR;Kaggle+%7C+IPYNB+%7C+MATLAB+%7C+Engineering+Reports;Turning+coursework+into+reviewable+engineering+evidence" alt="Animated engineering headline" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=25&pause=900&color=2563EB&center=true&vCenter=true&width=920&lines=Wireless+Communications+%7C+FPGA%2FSoC+%7C+Embedded+Systems;BLE+Data+Acquisition+%7C+UART+%7C+SQLite+%7C+IoT;Verilog+%7C+C%2FC%2B%2B+%7C+Python+Automation+%7C+AI%2FOCR;Kaggle+%7C+IPYNB+%7C+MATLAB+%7C+Engineering+Reports" alt="Animated engineering headline" />
 </p>
 
 <p align="center">
@@ -43,6 +43,7 @@ const long = {
   strongestSignals: [
     "FPGA/SoC design with Intel Quartus, Platform Designer, Avalon-MM and Nios II",
     "Embedded firmware, TCP/IP, UART, GUI tools and hardware/software integration",
+    "BLE data-acquisition systems with sensors, LCD output, UART telemetry and SQLite logs",
     "Digital/wireless communications simulation with MATLAB and technical reports",
     "Python automation, AI/OCR workflows, reproducible notebooks and polished READMEs"
   ],
@@ -59,7 +60,7 @@ I study Electronics and Telecommunications at HCMUS and turn labs, reports, note
 | What I want to prove | Evidence on GitHub | Review value |
 | --- | --- | --- |
 | I can connect signal theory to working systems | Wireless/digital communications, MATLAB simulation, BER and channel reports | Strong fundamentals, clean technical explanation |
-| I can build across hardware and software | FPGA/SoC, HPS/Linux, embedded C/C++, Python GUI, TCP/IP tools | System integration mindset |
+| I can build across hardware and software | FPGA/SoC, HPS/Linux, embedded C/C++, Python GUI, TCP/IP tools, BLE data acquisition | System integration mindset |
 | I can document like an engineer | README-first repos, release notes, Typst reports, reproducible folders | HR-friendly and engineer-reviewable |
 | I keep growing in modern workflows | Kaggle, IPYNB, AI/OCR, automation, GitHub portfolio polish | Practical learning velocity |
 
@@ -128,6 +129,26 @@ I study Electronics and Telecommunications at HCMUS and turn labs, reports, note
       <p>Browser userscript for HCMUS course registration with scheduled reload, course matching, safe defaults, optional submit flow and manual CAPTCHA boundary.</p>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌡️ <a href="https://github.com/lhlizdabezt/ThucHanhGTMT">ThucHanhGTMT</a></h3>
+      <p>
+        <a href="https://github.com/lhlizdabezt/ThucHanhGTMT/releases/tag/v1.0.0"><img src="https://img.shields.io/badge/Release-v1.0.0-0f766e?style=flat-square" alt="Release v1.0.0" /></a>
+        <img src="https://img.shields.io/badge/BLE-AHT20%20%2B%20UART%20%2B%20LCD-2563eb?style=flat-square" alt="BLE AHT20 UART LCD" />
+        <img src="https://img.shields.io/badge/PC%20Logger-Win32%20%2B%20SQLite-D95319?style=flat-square" alt="Win32 SQLite PC logger" />
+      </p>
+      <p>Computer communication and data acquisition lab: Silicon Labs BLE firmware reads AHT20 data, updates LCD, advertises compact sensor bytes and streams UART rows into a SQLite logger.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🫀 <a href="https://github.com/lhlizdabezt/DoAnDienTuYSinh_STM32_MAX30100_LCD">DoAnDienTuYSinh_STM32_MAX30100_LCD</a></h3>
+      <p>
+        <a href="https://github.com/lhlizdabezt/DoAnDienTuYSinh_STM32_MAX30100_LCD/releases/tag/v1.0.0"><img src="https://img.shields.io/badge/Release-v1.0.0-0f766e?style=flat-square" alt="Release v1.0.0" /></a>
+        <img src="https://img.shields.io/badge/STM32-MAX30100%20%2F%20MAX30102-2563eb?style=flat-square" alt="STM32 MAX30100 MAX30102" />
+        <img src="https://img.shields.io/badge/Display-LCD1602-D95319?style=flat-square" alt="LCD1602" />
+      </p>
+      <p>Biomedical electronics project for BPM and SpO2 measurement using STM32F103C8T6, MAX30100/MAX30102, LCD1602, Arduino/STM32duino code and Proteus evidence.</p>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -135,7 +156,7 @@ I study Electronics and Telecommunications at HCMUS and turn labs, reports, note
 ## 🛠️ Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,arduino,linux,git,vscode,opencv,tensorflow,matlab,bash,latex&perline=12" alt="Technical toolbox icons" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,arduino,linux,git,vscode,opencv,tensorflow,matlab,bash,latex,sqlite&perline=13" alt="Technical toolbox icons" />
 </p>
 
 <p align="center">
@@ -158,6 +179,7 @@ I study Electronics and Telecommunications at HCMUS and turn labs, reports, note
 | AI / OCR application | [NhapMonAI](https://github.com/lhlizdabezt/NhapMonAI) | YOLO, OCR, desktop app, Android evidence, mAP50, Kaggle notebooks |
 | Wireless communications | [TruyenThongKhongDay](https://github.com/lhlizdabezt/TruyenThongKhongDay) | Fading, OFDM, MIMO, equalizer, MATLAB simulation |
 | Digital communications | [TruyenThongSo](https://github.com/lhlizdabezt/TruyenThongSo) | AWGN, BER, modulation, companding, LDPC |
+| Data acquisition / BLE IoT | [ThucHanhGTMT](https://github.com/lhlizdabezt/ThucHanhGTMT) | AHT20, Silicon Labs BLE SoC, LCD, UART/VCOM, SQLite logger |
 | Analog electronics | [ThucHanhDienTuTuongTu](https://github.com/lhlizdabezt/ThucHanhDienTuTuongTu) | LTspice, LM324, LM339, NE555, filters, oscillators |
 | Biomedical embedded | [DoAnDienTuYSinh_STM32_MAX30100_LCD](https://github.com/lhlizdabezt/DoAnDienTuYSinh_STM32_MAX30100_LCD) | STM32, MAX30100/MAX30102, LCD1602, Proteus |
 | Student automation | [hcmus-auto-dkhp](https://github.com/lhlizdabezt/hcmus-auto-dkhp) | Tampermonkey, safe defaults, scheduled reload, release v4.3.0 |
@@ -175,6 +197,7 @@ I study Electronics and Telecommunications at HCMUS and turn labs, reports, note
 <p align="center">
   <img src="https://img.shields.io/badge/Portfolio%20Signal-FPGA%2FSoC%20%2B%20Embedded%20%2B%20AI-0f172a?style=for-the-badge" alt="Portfolio signal" />
   <img src="https://img.shields.io/badge/Review%20Mode-Repos%20%2B%20Releases%20%2B%20Evidence-0f766e?style=for-the-badge" alt="Review mode" />
+  <img src="https://img.shields.io/badge/Data%20Acquisition-BLE%20%2B%20UART%20%2B%20SQLite-D95319?style=for-the-badge" alt="BLE UART SQLite data acquisition" />
   <img src="https://img.shields.io/badge/Motion-SVG%20%2B%20GIF%20Assets-2563eb?style=for-the-badge" alt="Motion SVG and GIF assets" />
 </p>
 
