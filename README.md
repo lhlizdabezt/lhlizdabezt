@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/badge/Engineering%20Portfolio-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="Engineering portfolio" />
   </a>
   <a href="https://github.com/lhlizdabezt?tab=repositories&type=&language=&sort=stargazers">
-    <img src="https://img.shields.io/badge/Public%20Repos-19-D95319?style=for-the-badge&logo=git&logoColor=white" alt="Public repos" />
+    <img src="https://img.shields.io/badge/Public%20Repos-20-D95319?style=for-the-badge&logo=git&logoColor=white" alt="Public repos" />
   </a>
 </p>
 
@@ -242,6 +242,13 @@ const long = {
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <h3>📡 <a href="https://github.com/lhlizdabezt/TruyenThongKhongDay">TruyenThongKhongDay</a> <sub><i>brand new!</i></sub></h3>
+      <img src="https://img.shields.io/badge/Wireless%20Comms-Fading%20%2B%20OFDM%20%2B%20MIMO-0F4C81?style=flat-square" alt="Wireless" />
+      <img src="https://img.shields.io/badge/MATLAB-Monte%20Carlo-D95319?style=flat-square&logo=mathworks&logoColor=white" alt="MATLAB MC" />
+      <img src="https://img.shields.io/badge/Group-Nhóm%201%20%282%20members%29-22c55e?style=flat-square" alt="Group" /><br/>
+      Truyền thông Không dây — Bài tập nhóm (5 chương: Large/Small-Scale Fading, Equalizer, OFDM, MIMO) + Đồ án "Mô phỏng kênh suy hao rộng &amp; hẹp" với MATLAB (Friis + log-normal shadowing + Rayleigh + BER Monte Carlo). Đồng tác giả Lê Phi Hùng.
+    </td>
+    <td width="50%" valign="top">
       <h3>🧮 <a href="https://github.com/lhlizdabezt/PhuongPhapTinh-Matlab">PhuongPhapTinh-Matlab</a> <sub><i>new!</i></sub></h3>
       <img src="https://img.shields.io/badge/MATLAB-GUI%20%2B%20Numerical-D95319?style=flat-square&logo=mathworks&logoColor=white" alt="MATLAB GUI" />
       <img src="https://img.shields.io/badge/5%20Methods-Cholesky%20%7C%20Newton%20%7C%20Euler%20%7C%20Fixed--Point-2563eb?style=flat-square" alt="Methods" /><br/>
@@ -301,6 +308,7 @@ const long = {
 | 🏢 Internship report | [BCTT-ThucTap-BTPHoldings](https://github.com/lhlizdabezt/BCTT-ThucTap-BTPHoldings) | Báo cáo thực tập thực tế 2026 tại BTP Holdings — Typst 7 chương, IEEE bib, media archive 65 MB, hướng dẫn populate `assets/`. |
 | 🖼️ Defense slides | [Slide-DoAnHTN-Nhom17-DE10Standard](https://github.com/lhlizdabezt/Slide-DoAnHTN-Nhom17-DE10Standard) | Slide đồ án HTN Nhóm 17 — Stargazer Typst theme 16:9, 10 slides, PDF kèm release. |
 | 📚 Report templates | [HCMUS-DTVT-BaoCao-Templates](https://github.com/lhlizdabezt/HCMUS-DTVT-BaoCao-Templates) | Mẫu KLTN/BCTT chính thức + Typst Guide PDF + reference XLSX BTP. Starter pack Word → Typst. |
+| 📡 Wireless communications | [TruyenThongKhongDay](https://github.com/lhlizdabezt/TruyenThongKhongDay) | Bài tập nhóm + Đồ án cuối kỳ 22DTV_CLC1 (Nhóm 1 — đồng tác giả Lê Phi Hùng) — Friis free-space, log-normal shadowing, Rayleigh multipath, OFDM, MIMO; mô phỏng MATLAB BER Monte Carlo qua kênh fading. |
 | 🧮 Numerical methods | [PhuongPhapTinh-Matlab](https://github.com/lhlizdabezt/PhuongPhapTinh-Matlab) | Phương pháp tính &amp; MATLAB — BTVN + báo cáo giữa kỳ GUI ~335 dòng: Lặp đơn, Cholesky x2, Nội suy Newton, Euler ODE — popup chọn bài, dữ liệu mẫu auto-load, bảng `uitable` + `axes` minh hoạ. |
 | 📡 Digital communications | [TruyenThongSo](https://github.com/lhlizdabezt/TruyenThongSo) | MATLAB simulations — AWGN matched-filter, BASK/BPSK/BFSK/QPSK BER, A-law/μ-law companding, LDPC decoding, report &amp; slide deck. |
 | 🔌 Analog electronics lab | [ThucHanhDienTuTuongTu](https://github.com/lhlizdabezt/ThucHanhDienTuTuongTu) | LTspice workspace — LM324, LM339, NE555, active filters, oscillators, rectifiers, LDO/DAC, datasheets, sim outputs. |
