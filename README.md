@@ -47,6 +47,10 @@ I build practical projects that connect hardware, firmware, desktop tools, appli
 - [NhapMonAI](https://github.com/lhlizdabezt/NhapMonAI) - Vietnamese license plate recognition project using YOLO, OCR, Python desktop app, Android APK, and Typst academic reports.
 - [messenger-edge-tool](https://github.com/lhlizdabezt/messenger-edge-tool) - Python desktop tool using Microsoft Edge and Playwright to read context, draft replies, and support AI-assisted Messenger workflows.
 
+### Subtitle & Typesetting
+
+- [aegisub-automation-pack](https://github.com/lhlizdabezt/aegisub-automation-pack) - Personal Aegisub automation setup for fansub/typesetting workflows, including Lua/Moonscript macros, include libraries, hotkeys, and reusable macro configs.
+
 ### Android & Infrastructure
 
 - [device_xiaomi_ginkgo-1](https://github.com/lhlizdabezt/device_xiaomi_ginkgo-1) - Android device tree/reference work for Xiaomi Redmi Note 8/8T, covering board configuration, device makefiles, overlays, power, rootdir, and sepolicy structure.
