@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/Engineering%20Portfolio-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="Engineering portfolio" />
   </a>
   <a href="https://github.com/lhlizdabezt?tab=repositories&type=&language=&sort=stargazers">
-    <img src="https://img.shields.io/badge/Public%20Repos-16-D95319?style=for-the-badge&logo=git&logoColor=white" alt="Public repos" />
+    <img src="https://img.shields.io/badge/Public%20Repos-18-D95319?style=for-the-badge&logo=git&logoColor=white" alt="Public repos" />
   </a>
 </p>
 
@@ -193,6 +193,22 @@ const long = {
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3>🎬 <a href="https://github.com/lhlizdabezt/my-slide">my-slide</a> <sub><i>brand new!</i></sub></h3>
+      <img src="https://img.shields.io/badge/Stack-React%2018%20%2B%20Vite%205-7170ff?style=flat-square&logo=react&logoColor=white" alt="React Vite" />
+      <img src="https://img.shields.io/badge/Built%20on-%40open--slide%2Fcore-08090a?style=flat-square" alt="open-slide" />
+      <img src="https://img.shields.io/badge/Canvas-1920%C3%971080-2563eb?style=flat-square" alt="1920x1080" /><br/>
+      AI-native slide workspace scaffolded từ <code>@open-slide/cli</code> — React canvas 1920×1080, 5 agent skills preconfigured cho Claude Code, deploy presets Vercel/Netlify. Attribution đầy đủ cho Yiwei Ho upstream.
+    </td>
+    <td width="50%" valign="top">
+      <h3>🍴 <a href="https://github.com/lhlizdabezt/open-slide">open-slide</a> <sub><i>brand new fork!</i></sub></h3>
+      <img src="https://img.shields.io/badge/Fork%20of-1weiho%2Fopen--slide-7170ff?style=flat-square" alt="Fork of 1weiho" />
+      <img src="https://img.shields.io/badge/Upstream-%E2%AD%90%203k%2B-D95319?style=flat-square" alt="3k stars upstream" />
+      <img src="https://img.shields.io/badge/License-MIT-22c55e?style=flat-square" alt="MIT" /><br/>
+      Fork của framework <code>open-slide</code> (Yiwei Ho) để theo dõi upstream và chuẩn bị contribute lại — slide framework built for agents, write decks in chat.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3>📕 <a href="https://github.com/lhlizdabezt/BCTT-ThucTap-BTPHoldings">BCTT-ThucTap-BTPHoldings</a> <sub><i>new!</i></sub></h3>
       <img src="https://img.shields.io/badge/Type-Internship%20Report-D95319?style=flat-square" alt="Internship Report" />
       <img src="https://img.shields.io/badge/Stack-Typst%20%2B%20IEEE%20bib-239DAD?style=flat-square" alt="Typst IEEE" />
@@ -272,6 +288,8 @@ const long = {
 
 | Focus Area | Repository | Engineering Evidence |
 | --- | --- | --- |
+| 🎬 AI-native slides | [my-slide](https://github.com/lhlizdabezt/my-slide) | Workspace scaffolded từ `@open-slide/cli` — React 18 + Vite 5, 1920×1080 canvas, 5 agent skills (`.claude/skills` + `.agents/skills`), Vercel/Netlify deploy presets, multi-tier MIT LICENSE giữ attribution upstream. |
+| 🍴 Framework fork | [open-slide](https://github.com/lhlizdabezt/open-slide) | Fork của [`1weiho/open-slide`](https://github.com/1weiho/open-slide) (⭐ 3k+, MIT) — slide framework built for agents, dùng để follow upstream và chuẩn bị PR. |
 | 🏢 Internship report | [BCTT-ThucTap-BTPHoldings](https://github.com/lhlizdabezt/BCTT-ThucTap-BTPHoldings) | Báo cáo thực tập thực tế 2026 tại BTP Holdings — Typst 7 chương, IEEE bib, media archive 65 MB, hướng dẫn populate `assets/`. |
 | 🖼️ Defense slides | [Slide-DoAnHTN-Nhom17-DE10Standard](https://github.com/lhlizdabezt/Slide-DoAnHTN-Nhom17-DE10Standard) | Slide đồ án HTN Nhóm 17 — Stargazer Typst theme 16:9, 10 slides, PDF kèm release. |
 | 📚 Report templates | [HCMUS-DTVT-BaoCao-Templates](https://github.com/lhlizdabezt/HCMUS-DTVT-BaoCao-Templates) | Mẫu KLTN/BCTT chính thức + Typst Guide PDF + reference XLSX BTP. Starter pack Word → Typst. |
@@ -330,20 +348,29 @@ const long = {
 ## 📌 Featured Repositories
 
 <p align="center">
+  <a href="https://github.com/lhlizdabezt/my-slide">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=lhlizdabezt&repo=my-slide&theme=tokyonight&hide_border=true&title_color=2563eb&icon_color=0f766e" alt="my-slide card" />
+  </a>
   <a href="https://github.com/lhlizdabezt/BCTT-ThucTap-BTPHoldings">
     <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=lhlizdabezt&repo=BCTT-ThucTap-BTPHoldings&theme=tokyonight&hide_border=true&title_color=2563eb&icon_color=0f766e" alt="BCTT-ThucTap-BTPHoldings card" />
-  </a>
-  <a href="https://github.com/lhlizdabezt/Slide-DoAnHTN-Nhom17-DE10Standard">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=lhlizdabezt&repo=Slide-DoAnHTN-Nhom17-DE10Standard&theme=tokyonight&hide_border=true&title_color=2563eb&icon_color=0f766e" alt="Slide-DoAnHTN-Nhom17-DE10Standard card" />
   </a>
 </p>
 
 <p align="center">
+  <a href="https://github.com/lhlizdabezt/Slide-DoAnHTN-Nhom17-DE10Standard">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=lhlizdabezt&repo=Slide-DoAnHTN-Nhom17-DE10Standard&theme=tokyonight&hide_border=true&title_color=2563eb&icon_color=0f766e" alt="Slide-DoAnHTN-Nhom17-DE10Standard card" />
+  </a>
   <a href="https://github.com/lhlizdabezt/HCMUS-DTVT-BaoCao-Templates">
     <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=lhlizdabezt&repo=HCMUS-DTVT-BaoCao-Templates&theme=tokyonight&hide_border=true&title_color=2563eb&icon_color=0f766e" alt="HCMUS-DTVT-BaoCao-Templates card" />
   </a>
+</p>
+
+<p align="center">
   <a href="https://github.com/lhlizdabezt/DoAnHeThongNhung">
     <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=lhlizdabezt&repo=DoAnHeThongNhung&theme=tokyonight&hide_border=true&title_color=2563eb&icon_color=0f766e" alt="DoAnHeThongNhung card" />
+  </a>
+  <a href="https://github.com/lhlizdabezt/open-slide">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=lhlizdabezt&repo=open-slide&theme=tokyonight&hide_border=true&title_color=2563eb&icon_color=0f766e&show_owner=true" alt="open-slide fork card" />
   </a>
 </p>
 
