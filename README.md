@@ -46,6 +46,7 @@ I build practical projects that connect hardware, firmware, desktop tools, appli
 
 - [NhapMonAI](https://github.com/lhlizdabezt/NhapMonAI) - Vietnamese license plate recognition project using YOLO, OCR, Python desktop app, Android APK, and Typst academic reports.
 - [messenger-edge-tool](https://github.com/lhlizdabezt/messenger-edge-tool) - Python desktop tool using Microsoft Edge and Playwright to read context, draft replies, and support AI-assisted Messenger workflows.
+- [hcmus-auto-dkhp](https://github.com/lhlizdabezt/hcmus-auto-dkhp) - HCMUS course registration helper userscript with auto tick, optional auto submit, reload loop, and manual CAPTCHA flow.
 
 ### Subtitle & Typesetting
 
