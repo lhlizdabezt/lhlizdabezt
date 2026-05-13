@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
-  <title id="title">Lương Hải Long engineering portfolio banner</title>
+  <title id="title">Luong Hai Long engineering portfolio banner</title>
   <desc id="desc">Animated self-hosted banner for Electronics and Telecommunications, FPGA SoC, Embedded Systems, Digital Communications and Applied AI.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
@@ -65,7 +65,7 @@
   </g>
   <g transform="translate(355 66)">
     <text x="0" y="0" class="mono">// signal -&gt; system -&gt; documented portfolio</text>
-    <text x="0" y="72" class="name">Lương Hải Long</text>
+    <text x="0" y="72" class="name">Luong Hai Long</text>
     <text x="0" y="116" class="desc">Electronics &amp; Telecommunications @ HCMUS</text>
     <g transform="translate(0 146)">
       <rect width="96" height="30" rx="15" fill="rgba(255,255,255,.16)" stroke="rgba(255,255,255,.24)"/>
