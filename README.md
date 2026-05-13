@@ -4,8 +4,10 @@
      ╚══════════════════════════════════════════════════════════════════════╝ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f172a,25:0f766e,55:2563eb,100:8e44ad&text=L%C6%B0%C6%A1ng%20H%E1%BA%A3i%20Long&fontColor=ffffff&fontSize=58&fontAlignY=36&desc=Digital%20Communications%20%E2%80%A2%20Analog%20%E2%80%A2%20FPGA%2FSoC%20%E2%80%A2%20Embedded%20%E2%80%A2%20Applied%20AI&descAlignY=62&descSize=17&animation=fadeIn" alt="Lương Hải Long — animated waving banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f172a,25:0f766e,55:2563eb,100:8e44ad&text=Luong%20Hai%20Long&fontColor=ffffff&fontSize=58&fontAlignY=36&desc=Digital%20Communications%20-%20Analog%20-%20FPGA%2FSoC%20-%20Embedded%20-%20Applied%20AI&descAlignY=62&descSize=17&animation=fadeIn" alt="Luong Hai Long — animated waving banner" />
 </p>
+
+<h2 align="center">⚡ Lương Hải Long — Electronics &amp; Telecommunications @ HCMUS ⚡</h2>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=lhlizdabezt">
@@ -395,7 +397,7 @@ const long = {
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:8e44ad,50:2563eb,100:0f766e&section=footer&text=Thanks%20for%20stopping%20by%20%E2%9C%A8&fontColor=ffffff&fontSize=24&fontAlignY=70&animation=fadeIn" alt="Footer waving banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:8e44ad,50:2563eb,100:0f766e&section=footer&text=Thanks%20for%20stopping%20by&fontColor=ffffff&fontSize=24&fontAlignY=70&animation=fadeIn" alt="Footer waving banner" />
 </p>
 
 <p align="center">
