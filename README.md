@@ -1,26 +1,35 @@
 # Hi, I'm Long
 
-I'm an Electronics and Telecommunications student focused on embedded systems, FPGA/SoC development, Python automation, and applied AI.
+Senior student at VNUHCM - University of Science, studying Electrical, Electronics and Communications Engineering. I focus on Embedded Systems, IoT, Semiconductor-oriented hardware/software, and automation.
 
-I like building practical projects that connect hardware, software, and machine learning, from embedded communication systems to computer vision tools and desktop AI assistants.
+I build practical projects that connect hardware, firmware, desktop tools, and applied AI, from FPGA/SoC communication systems to computer vision and OCR applications.
 
-## About Me
+## Profile
 
-- Studying Electronics and Telecommunications
-- Working with Verilog, C/C++, Python, Jupyter Notebook, and AI workflows
-- Interested in embedded systems, FPGA, computer vision, OCR, automation, and Kaggle-style experimentation
-- Building projects that combine real hardware, desktop tools, Android apps, and academic documentation
+- Embedded/Firmware intern experience with smart home ecosystems, low-level drivers, HAL, RTOS-oriented control logic, and MCU diagnostics.
+- Hands-on background in circuit assembly, hardware troubleshooting, PC/mobile repair, and IoT device testing.
+- Robotics & IoT Club experience writing C and Lua control logic while assembling and testing custom circuit boards.
+- Python and AI workflow experience with Jupyter notebooks, YOLO/OCR pipelines, automation tools, and Kaggle-style experimentation.
+- Open to Embedded Software, Firmware, IoT, or Hardware Engineering internship/fresher roles.
 
-## Tech Stack
+## Core Skills
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Verilog](https://img.shields.io/badge/Verilog-333333?style=flat)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+- Embedded/Firmware: STM32, ESP32, HAL, RTOS, UART/Serial, TCP/IP, BLE, USB Type-C PD
+- Hardware: circuit assembly, schematic analysis, power boards, PC diagnostics, IoT devices
+- AI/Software: Python, Jupyter Notebook, YOLO/OCR, automation, data workflows
+- HDL/FPGA: Verilog, FPGA/SoC coursework and hardware-oriented projects
+- Tools: Git, Linux, Win32 API, Lua scripting
 
 ## Featured Work
 
@@ -30,10 +39,10 @@ I like building practical projects that connect hardware, software, and machine 
 
 ## Current Focus
 
-- Strengthening embedded C/C++ and Verilog for hardware-oriented systems
-- Improving Python AI pipelines for computer vision and OCR tasks
-- Practicing model evaluation, notebooks, and reproducible experiments
-- Turning coursework into polished, documented engineering projects
+- Strengthening embedded C/C++, Verilog, and MCU firmware development.
+- Improving reliable IoT communication using TCP/IP, BLE, and serial protocols.
+- Building cleaner Python AI pipelines for computer vision and OCR tasks.
+- Turning coursework and internship experience into polished engineering projects.
 
 ## GitHub Stats
 
@@ -47,4 +56,3 @@ I like building practical projects that connect hardware, software, and machine 
 - YouTube: [@lhlizdabezt](https://www.youtube.com/@lhlizdabezt)
 - Instagram: [lhlizdabezt](https://www.instagram.com/lhlizdabezt)
 - Facebook: [wageseadrake](https://www.facebook.com/wageseadrake)
-
