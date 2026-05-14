@@ -20,7 +20,7 @@
       @keyframes float { 0%,100% { transform:translateY(0); } 50% { transform:translateY(-8px); } }
       .label { font:700 18px 'Segoe UI', Arial, sans-serif; fill:#fff; }
       .small { font:600 13px Consolas, monospace; fill:#a7f3d0; }
-      .footer { font:700 11px Consolas, monospace; fill:#a7f3d0; text-anchor:middle; letter-spacing:0; }
+      .footer { font:700 10px Consolas, monospace; fill:#a7f3d0; text-anchor:middle; letter-spacing:0; }
       .tiny { font:600 11px Consolas, monospace; fill:#bfdbfe; }
       .wire { fill:none; stroke:#22d3ee; stroke-width:3; stroke-linecap:round; stroke-dasharray:12 10; animation:dash 3.4s linear infinite; }
     </style>
@@ -51,5 +51,6 @@
     <circle cx="244" cy="246" r="4" style="animation:pulse 2.2s ease-in-out infinite"/>
     <circle cx="296" cy="232" r="4" style="animation:pulse 2.6s ease-in-out infinite"/>
   </g>
-  <text x="180" y="270" class="footer">documented - reproducible - review-ready</text>
+  <text x="180" y="264" class="footer">documented - reproducible</text>
+  <text x="180" y="280" class="footer">review-ready</text>
 </svg>
