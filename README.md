@@ -39,6 +39,8 @@ Tôi cũng đưa phần **thực tập tại BTP Holdings** vào portfolio như 
 
 Bên cạnh repo báo cáo, tôi duy trì **HCMUS-DTVT-BaoCao-Templates** như bộ nền tài liệu học thuật: mẫu KLTN, mẫu BCTT, Typst Guide, dữ liệu tham khảo và workflow Word → Typst. Đây là phần chứng minh khả năng tổ chức tài liệu, chuẩn hóa file và đóng gói tri thức học thuật thành repo có thể tái sử dụng.
 
+Với **DoAnHeThongNhung**, tôi giữ một đồ án FPGA/SoC ở vị trí nổi bật vì repo này cho thấy luồng tích hợp đầy đủ: PC/Android gửi lệnh TCP qua LAN, HPS/Linux trên DE10-Standard xử lý payload, bridge HPS-FPGA ghi xuống PIO và LED 7 đoạn HEX0..HEX5 hiển thị kết quả. Repo có báo cáo, slide, Typst source, PowerPoint blueprint, SVG/GIF tự host và release assets để người review kiểm tra nhanh.
+
 Tôi cũng tách riêng **Slide-DoAnHTN-Nhom17-DE10Standard** để người xem có thể mở nhanh bản trình chiếu bảo vệ đồ án SoC/Ethernet: deck Typst/Touying, preview từ build thật, GIF motion, release PDF và liên kết ngược về repo source **DoAnHeThongNhung**.
 
 Ở tầng nền mạch tương tự, tôi đưa **ThucHanhDienTuTuongTu** lên thành repo portfolio có release, topics, README tiếng Việt, GIF motion và số liệu kiểm kê rõ ràng: 29 schematic LTspice, 17 artifact mô phỏng, macromodel LM324/LM339, bài lab, lý thuyết và datasheet.
@@ -80,7 +82,8 @@ nguyên_tắc_portfolio: "Repo phải có bài toán, kỹ thuật, bằng chứ
     <td width="50%" valign="top">
       <h3>⚙️ <a href="https://github.com/lhlizdabezt/DoAnHeThongNhung">DoAnHeThongNhung</a></h3>
       <p><a href="https://github.com/lhlizdabezt/DoAnHeThongNhung/releases/latest"><img src="https://img.shields.io/github/v/release/lhlizdabezt/DoAnHeThongNhung?style=flat-square&label=Release&color=0f766e" alt="Release đồ án Hệ thống nhúng" /></a> <img src="https://img.shields.io/badge/DE10--Standard-SoC%20FPGA-2563eb?style=flat-square" alt="DE10 Standard SoC FPGA" /></p>
-      <p>Đồ án Hệ thống nhúng với DE10-Standard Cyclone V SoC FPGA, HPS/Linux, TCP/Ethernet, bridge HPS-FPGA, LED 7 đoạn, GUI Python, báo cáo và slide.</p>
+      <p>Đồ án Hệ thống nhúng với DE10-Standard Cyclone V SoC FPGA, HPS/Linux, TCP/Ethernet, bridge HPS-FPGA, LED 7 đoạn, GUI Python, báo cáo, slide và motion asset tự host.</p>
+      <p><img src="https://raw.githubusercontent.com/lhlizdabezt/DoAnHeThongNhung/v1.0.2/assets/soc-ethernet-flow.gif" alt="GIF luồng điều khiển SoC Ethernet của DoAnHeThongNhung" width="100%" /></p>
     </td>
     <td width="50%" valign="top">
       <h3>🤖 <a href="https://github.com/lhlizdabezt/NhapMonAI">NhapMonAI</a></h3>
@@ -136,7 +139,7 @@ nguyên_tắc_portfolio: "Repo phải có bài toán, kỹ thuật, bằng chứ
 
 | Mảng kỹ thuật | Repo | Bằng chứng chính |
 | --- | --- | --- |
-| FPGA / SoC capstone | [DoAnHeThongNhung](https://github.com/lhlizdabezt/DoAnHeThongNhung) | DE10-Standard, HPS/Linux, TCP/IP, Python GUI, báo cáo, release |
+| FPGA / SoC capstone | [DoAnHeThongNhung](https://github.com/lhlizdabezt/DoAnHeThongNhung) | DE10-Standard, HPS/Linux, TCP/IP, HPS-FPGA bridge, Python GUI, GIF motion, báo cáo, release assets |
 | Slide bảo vệ FPGA / SoC | [Slide-DoAnHTN-Nhom17-DE10Standard](https://github.com/lhlizdabezt/Slide-DoAnHTN-Nhom17-DE10Standard) | Typst/Touying, DE10-Standard, HPS/Linux, TCP/Ethernet, FPGA HEX, preview, GIF motion, release PDF |
 | Lab FPGA / SoPC | [embedded-systems-fpga-review-labs](https://github.com/lhlizdabezt/embedded-systems-fpga-review-labs) | Verilog, Avalon-MM, Nios II, PIO, timer, DMA, Typst |
 | Điện tử tương tự / SPICE | [ThucHanhDienTuTuongTu](https://github.com/lhlizdabezt/ThucHanhDienTuTuongTu) | LTspice, LM324, LM339, NE555, 29 schematic, 17 artifact mô phỏng, GIF motion |
@@ -184,7 +187,7 @@ nguyên_tắc_portfolio: "Repo phải có bài toán, kỹ thuật, bằng chứ
 | Repo | Mô tả đánh giá | Release, tag và chủ đề |
 | --- | --- | --- |
 | [lhlizdabezt](https://github.com/lhlizdabezt/lhlizdabezt) | Hồ sơ GitHub kỹ thuật của Lương Hải Long, tập trung vào Điện tử Viễn thông, FPGA/SoC, STM32, C/C++, Python, MATLAB, AI/OCR, Kaggle và IPYNB | [release](https://github.com/lhlizdabezt/lhlizdabezt/releases/latest) · [tags](https://github.com/lhlizdabezt/lhlizdabezt/tags) · `profile-readme`, `engineering-portfolio`, `fpga`, `stm32`, `ocr` |
-| [DoAnHeThongNhung](https://github.com/lhlizdabezt/DoAnHeThongNhung) | Đồ án Hệ thống nhúng với DE10-Standard Cyclone V SoC FPGA, HPS/Linux, TCP/Ethernet, GUI Python, báo cáo và slide | [release](https://github.com/lhlizdabezt/DoAnHeThongNhung/releases/latest) · [tags](https://github.com/lhlizdabezt/DoAnHeThongNhung/tags) · `fpga`, `soc-fpga`, `hps`, `tcp-ip`, `quartus` |
+| [DoAnHeThongNhung](https://github.com/lhlizdabezt/DoAnHeThongNhung) | Đồ án Hệ thống nhúng với DE10-Standard Cyclone V SoC FPGA, HPS/Linux, TCP/Ethernet, bridge HPS-FPGA, Python GUI, báo cáo, slide, GIF motion và release assets | [release](https://github.com/lhlizdabezt/DoAnHeThongNhung/releases/latest) · [tags](https://github.com/lhlizdabezt/DoAnHeThongNhung/tags) · `fpga`, `soc-fpga`, `hps`, `tcp-ip`, `quartus` |
 | [DoAnDienTuYSinh_STM32_MAX30100_LCD](https://github.com/lhlizdabezt/DoAnDienTuYSinh_STM32_MAX30100_LCD) | Đồ án Điện tử Y sinh đo BPM/SpO2 bằng STM32F103C8T6, MAX30100/MAX30102, LCD1602, Proteus và STM32duino | [release](https://github.com/lhlizdabezt/DoAnDienTuYSinh_STM32_MAX30100_LCD/releases/latest) · [tags](https://github.com/lhlizdabezt/DoAnDienTuYSinh_STM32_MAX30100_LCD/tags) · `stm32`, `max30100`, `spo2`, `biomedical-engineering` |
 | [aegisub-automation-pack](https://github.com/lhlizdabezt/aegisub-automation-pack) | Bộ macro Lua/MoonScript cho Aegisub, typesetting ASS, hotkey, motion, shape và cấu hình hiệu ứng | [release](https://github.com/lhlizdabezt/aegisub-automation-pack/releases/latest) · [tags](https://github.com/lhlizdabezt/aegisub-automation-pack/tags) · `aegisub`, `subtitles`, `typesetting`, `moonscript` |
 | [ThucHanhGTMT](https://github.com/lhlizdabezt/ThucHanhGTMT) | Lab giao tiếp máy tính: đọc AHT20 trên Silicon Labs BLE SoC, LCD, BLE advertising, UART/VCOM, SQLite logger, GIF luồng dữ liệu và release assets | [release](https://github.com/lhlizdabezt/ThucHanhGTMT/releases/latest) · [tags](https://github.com/lhlizdabezt/ThucHanhGTMT/tags) · `ble`, `uart`, `sqlite`, `i2c`, `sensor-logging` |
