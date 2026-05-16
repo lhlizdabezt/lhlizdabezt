@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/lhlizdabezt?tab=repositories"><img src="https://img.shields.io/badge/Portfolio-20%20Public%20Repos-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio GitHub" /></a>
+  <a href="https://github.com/lhlizdabezt?tab=repositories"><img src="https://img.shields.io/badge/Portfolio-20%20Public%20Repos-38BDF8?style=for-the-badge&logo=github&logoColor=0f172a" alt="Portfolio GitHub" /></a>
   <img src="https://img.shields.io/badge/Profile-HR%20Ready-8b5cf6?style=for-the-badge" alt="Hồ sơ sẵn sàng cho HR" />
   <img src="https://img.shields.io/badge/Focus-Engineering%20Evidence-0f766e?style=for-the-badge" alt="Tập trung vào bằng chứng kỹ thuật" />
   <img src="https://komarev.com/ghpvc/?username=lhlizdabezt&label=Views&color=2563eb&style=for-the-badge" alt="Lượt xem hồ sơ" />
@@ -38,6 +38,8 @@ Tôi là **Lương Hải Long**, sinh viên ngành **Điện tử Viễn thông*
 Tôi cũng đưa phần **thực tập tại BTP Holdings** vào portfolio như một bằng chứng nghề nghiệp: báo cáo Typst có thể build lại, release PDF, ảnh minh chứng đã đổi tên và cách trình bày trung thực về QC, Bảo hành SP, sản phẩm điện gia dụng và quan sát IoT ở mức thực tập sinh.
 
 Bên cạnh repo báo cáo, tôi duy trì **HCMUS-DTVT-BaoCao-Templates** như bộ nền tài liệu học thuật: mẫu KLTN, mẫu BCTT, Typst Guide, dữ liệu tham khảo và workflow Word → Typst. Đây là phần chứng minh khả năng tổ chức tài liệu, chuẩn hóa file và đóng gói tri thức học thuật thành repo có thể tái sử dụng.
+
+Tôi cũng tách riêng **Slide-DoAnHTN-Nhom17-DE10Standard** để người xem có thể mở nhanh bản trình chiếu bảo vệ đồ án SoC/Ethernet: deck Typst/Touying, preview từ build thật, GIF motion, release PDF và liên kết ngược về repo source **DoAnHeThongNhung**.
 
 ```yaml
 họ_tên: Lương Hải Long
@@ -100,9 +102,10 @@ nguyên_tắc_portfolio: "Repo phải có bài toán, kỹ thuật, bằng chứ
       <p>Bộ lab ôn tập FPGA/SoPC: Quartus, Platform Designer, Verilog custom IP, Avalon-MM, Nios II C, PIO, timer, DMA và ghi chú Typst.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>🌡️ <a href="https://github.com/lhlizdabezt/ThucHanhGTMT">ThucHanhGTMT</a></h3>
-      <p><a href="https://github.com/lhlizdabezt/ThucHanhGTMT/releases/latest"><img src="https://img.shields.io/github/v/release/lhlizdabezt/ThucHanhGTMT?style=flat-square&label=Release&color=0f766e" alt="Release Thực hành GTMT" /></a> <img src="https://img.shields.io/badge/BLE-AHT20%20UART%20SQLite-D95319?style=flat-square" alt="BLE AHT20 UART SQLite" /></p>
-      <p>Lab giao tiếp máy tính: firmware BLE đọc AHT20, hiển thị LCD, phát advertising, stream UART/VCOM và ghi log SQLite trên Windows.</p>
+      <h3>🖼️ <a href="https://github.com/lhlizdabezt/Slide-DoAnHTN-Nhom17-DE10Standard">Slide-DoAnHTN-Nhom17-DE10Standard</a></h3>
+      <p><a href="https://github.com/lhlizdabezt/Slide-DoAnHTN-Nhom17-DE10Standard/releases/latest"><img src="https://img.shields.io/github/v/release/lhlizdabezt/Slide-DoAnHTN-Nhom17-DE10Standard?style=flat-square&label=Release&color=0f766e" alt="Release slide Đồ án Hệ thống nhúng" /></a> <img src="https://img.shields.io/badge/Typst-DE10%20TCP%20HEX-D95319?style=flat-square" alt="Typst DE10 TCP HEX" /></p>
+      <p>Slide bảo vệ đồ án SoC/Ethernet trên DE10-Standard: HPS/Linux, TCP client desktop/Android, FPGA HEX, preview build thật, GIF motion và release PDF.</p>
+      <p><img src="https://raw.githubusercontent.com/lhlizdabezt/Slide-DoAnHTN-Nhom17-DE10Standard/main/assets/slide-htn-motion.gif" alt="GIF motion slide đồ án Hệ thống nhúng DE10-Standard" width="100%" /></p>
     </td>
   </tr>
 </table>
@@ -112,6 +115,7 @@ nguyên_tắc_portfolio: "Repo phải có bài toán, kỹ thuật, bằng chứ
 | Mảng kỹ thuật | Repo | Bằng chứng chính |
 | --- | --- | --- |
 | FPGA / SoC capstone | [DoAnHeThongNhung](https://github.com/lhlizdabezt/DoAnHeThongNhung) | DE10-Standard, HPS/Linux, TCP/IP, Python GUI, báo cáo, release |
+| Slide bảo vệ FPGA / SoC | [Slide-DoAnHTN-Nhom17-DE10Standard](https://github.com/lhlizdabezt/Slide-DoAnHTN-Nhom17-DE10Standard) | Typst/Touying, DE10-Standard, HPS/Linux, TCP/Ethernet, FPGA HEX, preview, GIF motion, release PDF |
 | Lab FPGA / SoPC | [embedded-systems-fpga-review-labs](https://github.com/lhlizdabezt/embedded-systems-fpga-review-labs) | Verilog, Avalon-MM, Nios II, PIO, timer, DMA, Typst |
 | Điện tử y sinh nhúng | [DoAnDienTuYSinh_STM32_MAX30100_LCD](https://github.com/lhlizdabezt/DoAnDienTuYSinh_STM32_MAX30100_LCD) | STM32, MAX30100/MAX30102, LCD1602, Proteus, video demo |
 | Thực tập doanh nghiệp / QC | [BCTT-ThucTap-BTPHoldings](https://github.com/lhlizdabezt/BCTT-ThucTap-BTPHoldings) | BTP Holdings, QC, Bảo hành SP, sản phẩm điện gia dụng, Typst, release PDF |
@@ -163,7 +167,7 @@ nguyên_tắc_portfolio: "Repo phải có bài toán, kỹ thuật, bằng chứ
 | [NhapMonAI](https://github.com/lhlizdabezt/NhapMonAI) | Dự án nhận diện biển số xe Việt Nam bằng YOLO, OCR, FastALPR, notebook Kaggle, dataset Drive, app Python và báo cáo Typst | [release](https://github.com/lhlizdabezt/NhapMonAI/releases/latest) · [tags](https://github.com/lhlizdabezt/NhapMonAI/tags) · `alpr`, `license-plate-recognition`, `kaggle`, `fast-alpr` |
 | [PhuongPhapTinh-Matlab](https://github.com/lhlizdabezt/PhuongPhapTinh-Matlab) | Bài tập và báo cáo giữa kỳ Phương pháp tính với MATLAB GUI cho lặp đơn, Cholesky, nội suy Newton và Euler ODE | [release](https://github.com/lhlizdabezt/PhuongPhapTinh-Matlab/releases/latest) · [tags](https://github.com/lhlizdabezt/PhuongPhapTinh-Matlab/tags) · `matlab`, `numerical-methods`, `matlab-gui` |
 | [my-slide](https://github.com/lhlizdabezt/my-slide) | Workspace slide React/Vite/TypeScript 1920x1080 dựa trên open-slide, có cấu hình agent skills và hướng deploy | [release](https://github.com/lhlizdabezt/my-slide/releases/latest) · [tags](https://github.com/lhlizdabezt/my-slide/tags) · `open-slide`, `react`, `typescript`, `vite` |
-| [Slide-DoAnHTN-Nhom17-DE10Standard](https://github.com/lhlizdabezt/Slide-DoAnHTN-Nhom17-DE10Standard) | Slide bảo vệ đồ án SoC FPGA DE10-Standard, HPS/Linux, TCP/Ethernet và LED 7 đoạn bằng Typst/Stargazer | [release](https://github.com/lhlizdabezt/Slide-DoAnHTN-Nhom17-DE10Standard/releases/latest) · [tags](https://github.com/lhlizdabezt/Slide-DoAnHTN-Nhom17-DE10Standard/tags) · `typst`, `slides`, `fpga`, `stargazer-theme` |
+| [Slide-DoAnHTN-Nhom17-DE10Standard](https://github.com/lhlizdabezt/Slide-DoAnHTN-Nhom17-DE10Standard) | Slide bảo vệ đồ án SoC FPGA DE10-Standard: HPS/Linux, TCP/Ethernet, desktop/Android client, FPGA HEX, Typst/Touying, preview, GIF motion và release PDF | [release](https://github.com/lhlizdabezt/Slide-DoAnHTN-Nhom17-DE10Standard/releases/latest) · [tags](https://github.com/lhlizdabezt/Slide-DoAnHTN-Nhom17-DE10Standard/tags) · `typst`, `touying`, `de10-standard`, `ethernet-tcp`, `engineering-portfolio` |
 | [ThucHanhDienTuTuongTu](https://github.com/lhlizdabezt/ThucHanhDienTuTuongTu) | Workspace Điện tử Tương tự với LTspice, LM324, LM339, NE555, lọc tích cực, dao động, chỉnh lưu, LDO và DAC | [release](https://github.com/lhlizdabezt/ThucHanhDienTuTuongTu/releases/latest) · [tags](https://github.com/lhlizdabezt/ThucHanhDienTuTuongTu/tags) · `ltspice`, `analog-electronics`, `op-amp` |
 | [HCMUS-DTVT-BaoCao-Templates](https://github.com/lhlizdabezt/HCMUS-DTVT-BaoCao-Templates) | Bộ mẫu báo cáo Điện tử Viễn thông HCMUS: mẫu KLTN, mẫu BCTT, Typst Guide, XLSX tham khảo, tên file an toàn và release dùng lại | [release](https://github.com/lhlizdabezt/HCMUS-DTVT-BaoCao-Templates/releases/latest) · [tags](https://github.com/lhlizdabezt/HCMUS-DTVT-BaoCao-Templates/tags) · `templates`, `typst`, `academic-writing`, `word-to-typst`, `report-template` |
 | [BCTT-ThucTap-BTPHoldings](https://github.com/lhlizdabezt/BCTT-ThucTap-BTPHoldings) | Báo cáo thực tập tại BTP Holdings bằng Typst, gồm 7 chương, ảnh đã đổi tên để build, release PDF, nội dung QC, Bảo hành SP và quan sát IoT | [release](https://github.com/lhlizdabezt/BCTT-ThucTap-BTPHoldings/releases/latest) · [tags](https://github.com/lhlizdabezt/BCTT-ThucTap-BTPHoldings/tags) · `internship-report`, `quality-control`, `warranty-service`, `btp-holdings`, `typst` |
