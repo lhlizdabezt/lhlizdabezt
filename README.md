@@ -41,6 +41,8 @@ Bên cạnh repo báo cáo, tôi duy trì **HCMUS-DTVT-BaoCao-Templates** như b
 
 Tôi cũng tách riêng **Slide-DoAnHTN-Nhom17-DE10Standard** để người xem có thể mở nhanh bản trình chiếu bảo vệ đồ án SoC/Ethernet: deck Typst/Touying, preview từ build thật, GIF motion, release PDF và liên kết ngược về repo source **DoAnHeThongNhung**.
 
+Ở tầng nền mạch tương tự, tôi đưa **ThucHanhDienTuTuongTu** lên thành repo portfolio có release, topics, README tiếng Việt, GIF motion và số liệu kiểm kê rõ ràng: 29 schematic LTspice, 17 artifact mô phỏng, macromodel LM324/LM339, bài lab, lý thuyết và datasheet.
+
 ```yaml
 họ_tên: Lương Hải Long
 mã_sinh_viên: "22207056"
@@ -60,6 +62,7 @@ nguyên_tắc_portfolio: "Repo phải có bài toán, kỹ thuật, bằng chứ
 | Điều tôi muốn chứng minh | Bằng chứng trên GitHub | Giá trị khi đánh giá |
 | --- | --- | --- |
 | Có nền tảng Điện tử Viễn thông | Truyền thông số, truyền thông không dây, MATLAB, BER, fading, OFDM, MIMO | Không chỉ biết code, còn hiểu tín hiệu, mô hình kênh và hệ thống |
+| Có nền tảng mạch và mô phỏng analog | ThucHanhDienTuTuongTu: LTspice, LM324, LM339, NE555, lọc tích cực, dao động, chỉnh lưu, LDO, DAC | Cho thấy khả năng đọc mạch, dựng mô phỏng, đối chiếu waveform và trình bày lab có cấu trúc |
 | Làm được phần cứng lẫn phần mềm | FPGA/SoC, STM32, HPS/Linux, embedded C/C++, Python GUI, TCP/IP, BLE, UART | Có tư duy tích hợp từ board thật đến phần mềm người dùng |
 | Biết biến bài học thành sản phẩm đọc được | README, release, tag, báo cáo Typst, slide, video demo, hình minh chứng | Người đánh giá không phải đoán; bằng chứng nằm trong repo |
 | Có trải nghiệm doanh nghiệp kỹ thuật | Báo cáo thực tập BTP Holdings: QC, Bảo hành SP, sản phẩm điện gia dụng, bo mạch, kiểm thử sau sửa chữa | Thể hiện cách quan sát sản phẩm thật và ghi nhận kỹ thuật có trách nhiệm |
@@ -79,6 +82,19 @@ nguyên_tắc_portfolio: "Repo phải có bài toán, kỹ thuật, bằng chứ
       <h3>🤖 <a href="https://github.com/lhlizdabezt/NhapMonAI">NhapMonAI</a></h3>
       <p><a href="https://github.com/lhlizdabezt/NhapMonAI/releases/latest"><img src="https://img.shields.io/github/v/release/lhlizdabezt/NhapMonAI?style=flat-square&label=Release&color=0f766e" alt="Release Nhập môn AI" /></a> <img src="https://img.shields.io/badge/YOLO-OCR%20ALPR-D95319?style=flat-square" alt="YOLO OCR ALPR" /></p>
       <p>Dự án nhận diện biển số xe Việt Nam bằng YOLO, OCR, FastALPR, app Python, notebook Kaggle, dataset Drive, báo cáo Typst và demo thực tế.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔌 <a href="https://github.com/lhlizdabezt/ThucHanhDienTuTuongTu">ThucHanhDienTuTuongTu</a></h3>
+      <p><a href="https://github.com/lhlizdabezt/ThucHanhDienTuTuongTu/releases/latest"><img src="https://img.shields.io/github/v/release/lhlizdabezt/ThucHanhDienTuTuongTu?style=flat-square&label=Release&color=0f766e" alt="Release Thực hành Điện tử Tương tự" /></a> <img src="https://img.shields.io/badge/LTspice-LM324%20LM339%20NE555-2563eb?style=flat-square" alt="LTspice LM324 LM339 NE555" /></p>
+      <p>Workspace Điện tử Tương tự: 29 schematic LTspice, 17 artifact mô phỏng, macromodel LM324/LM339, NE555, lọc tích cực, dao động, chỉnh lưu, LDO, DAC, tài liệu lab và datasheet.</p>
+      <p><img src="https://raw.githubusercontent.com/lhlizdabezt/ThucHanhDienTuTuongTu/main/assets/analog-lab-motion.gif" alt="GIF motion mô phỏng tín hiệu Điện tử Tương tự bằng LTspice" width="100%" /></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📟 <a href="https://github.com/lhlizdabezt/ThucHanhGTMT">ThucHanhGTMT</a></h3>
+      <p><a href="https://github.com/lhlizdabezt/ThucHanhGTMT/releases/latest"><img src="https://img.shields.io/github/v/release/lhlizdabezt/ThucHanhGTMT?style=flat-square&label=Release&color=0f766e" alt="Release thực hành giao tiếp máy tính" /></a> <img src="https://img.shields.io/badge/BLE-UART%20SQLite%20AHT20-D95319?style=flat-square" alt="BLE UART SQLite AHT20" /></p>
+      <p>Lab giao tiếp máy tính với Silicon Labs BLE SoC, AHT20, LCD, BLE advertising, UART/VCOM và SQLite logger trên Windows.</p>
     </td>
   </tr>
   <tr>
@@ -117,6 +133,7 @@ nguyên_tắc_portfolio: "Repo phải có bài toán, kỹ thuật, bằng chứ
 | FPGA / SoC capstone | [DoAnHeThongNhung](https://github.com/lhlizdabezt/DoAnHeThongNhung) | DE10-Standard, HPS/Linux, TCP/IP, Python GUI, báo cáo, release |
 | Slide bảo vệ FPGA / SoC | [Slide-DoAnHTN-Nhom17-DE10Standard](https://github.com/lhlizdabezt/Slide-DoAnHTN-Nhom17-DE10Standard) | Typst/Touying, DE10-Standard, HPS/Linux, TCP/Ethernet, FPGA HEX, preview, GIF motion, release PDF |
 | Lab FPGA / SoPC | [embedded-systems-fpga-review-labs](https://github.com/lhlizdabezt/embedded-systems-fpga-review-labs) | Verilog, Avalon-MM, Nios II, PIO, timer, DMA, Typst |
+| Điện tử tương tự / SPICE | [ThucHanhDienTuTuongTu](https://github.com/lhlizdabezt/ThucHanhDienTuTuongTu) | LTspice, LM324, LM339, NE555, 29 schematic, 17 artifact mô phỏng, GIF motion |
 | Điện tử y sinh nhúng | [DoAnDienTuYSinh_STM32_MAX30100_LCD](https://github.com/lhlizdabezt/DoAnDienTuYSinh_STM32_MAX30100_LCD) | STM32, MAX30100/MAX30102, LCD1602, Proteus, video demo |
 | Thực tập doanh nghiệp / QC | [BCTT-ThucTap-BTPHoldings](https://github.com/lhlizdabezt/BCTT-ThucTap-BTPHoldings) | BTP Holdings, QC, Bảo hành SP, sản phẩm điện gia dụng, Typst, release PDF |
 | AI / OCR ứng dụng | [NhapMonAI](https://github.com/lhlizdabezt/NhapMonAI) | YOLO, OCR, FastALPR, Kaggle, app Python, mAP50, báo cáo |
@@ -145,6 +162,7 @@ nguyên_tắc_portfolio: "Repo phải có bài toán, kỹ thuật, bằng chứ
 <p align="center">
   <img src="https://img.shields.io/badge/Verilog%20%2F%20FPGA-Logic%20Design-334155?style=for-the-badge" alt="Verilog và FPGA" />
   <img src="https://img.shields.io/badge/Intel%20Quartus-SoC%20Design-2563EB?style=for-the-badge" alt="Intel Quartus" />
+  <img src="https://img.shields.io/badge/LTspice-Analog%20Simulation-B91C1C?style=for-the-badge" alt="LTspice analog simulation" />
   <img src="https://img.shields.io/badge/STM32-Embedded%20Firmware-0f766e?style=for-the-badge" alt="STM32 embedded firmware" />
   <img src="https://img.shields.io/badge/MATLAB-DSP%20BER%20Simulation-D95319?style=for-the-badge" alt="MATLAB DSP BER Simulation" />
   <img src="https://img.shields.io/badge/Python-Automation%20GUI%20AI-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Automation GUI AI" />
@@ -168,7 +186,7 @@ nguyên_tắc_portfolio: "Repo phải có bài toán, kỹ thuật, bằng chứ
 | [PhuongPhapTinh-Matlab](https://github.com/lhlizdabezt/PhuongPhapTinh-Matlab) | Bài tập và báo cáo giữa kỳ Phương pháp tính với MATLAB GUI cho lặp đơn, Cholesky, nội suy Newton và Euler ODE | [release](https://github.com/lhlizdabezt/PhuongPhapTinh-Matlab/releases/latest) · [tags](https://github.com/lhlizdabezt/PhuongPhapTinh-Matlab/tags) · `matlab`, `numerical-methods`, `matlab-gui` |
 | [my-slide](https://github.com/lhlizdabezt/my-slide) | Workspace slide React/Vite/TypeScript 1920x1080 dựa trên open-slide, có cấu hình agent skills và hướng deploy | [release](https://github.com/lhlizdabezt/my-slide/releases/latest) · [tags](https://github.com/lhlizdabezt/my-slide/tags) · `open-slide`, `react`, `typescript`, `vite` |
 | [Slide-DoAnHTN-Nhom17-DE10Standard](https://github.com/lhlizdabezt/Slide-DoAnHTN-Nhom17-DE10Standard) | Slide bảo vệ đồ án SoC FPGA DE10-Standard: HPS/Linux, TCP/Ethernet, desktop/Android client, FPGA HEX, Typst/Touying, preview, GIF motion và release PDF | [release](https://github.com/lhlizdabezt/Slide-DoAnHTN-Nhom17-DE10Standard/releases/latest) · [tags](https://github.com/lhlizdabezt/Slide-DoAnHTN-Nhom17-DE10Standard/tags) · `typst`, `touying`, `de10-standard`, `ethernet-tcp`, `engineering-portfolio` |
-| [ThucHanhDienTuTuongTu](https://github.com/lhlizdabezt/ThucHanhDienTuTuongTu) | Workspace Điện tử Tương tự với LTspice, LM324, LM339, NE555, lọc tích cực, dao động, chỉnh lưu, LDO và DAC | [release](https://github.com/lhlizdabezt/ThucHanhDienTuTuongTu/releases/latest) · [tags](https://github.com/lhlizdabezt/ThucHanhDienTuTuongTu/tags) · `ltspice`, `analog-electronics`, `op-amp` |
+| [ThucHanhDienTuTuongTu](https://github.com/lhlizdabezt/ThucHanhDienTuTuongTu) | Workspace Điện tử Tương tự: 29 schematic LTspice, 17 artifact mô phỏng, LM324, LM339, NE555, lọc tích cực, dao động, chỉnh lưu, LDO, DAC và GIF motion tự host | [release](https://github.com/lhlizdabezt/ThucHanhDienTuTuongTu/releases/latest) · [tags](https://github.com/lhlizdabezt/ThucHanhDienTuTuongTu/tags) · `ltspice`, `analog-electronics`, `spice-simulation`, `op-amp` |
 | [HCMUS-DTVT-BaoCao-Templates](https://github.com/lhlizdabezt/HCMUS-DTVT-BaoCao-Templates) | Bộ mẫu báo cáo Điện tử Viễn thông HCMUS: mẫu KLTN, mẫu BCTT, Typst Guide, XLSX tham khảo, tên file an toàn và release dùng lại | [release](https://github.com/lhlizdabezt/HCMUS-DTVT-BaoCao-Templates/releases/latest) · [tags](https://github.com/lhlizdabezt/HCMUS-DTVT-BaoCao-Templates/tags) · `templates`, `typst`, `academic-writing`, `word-to-typst`, `report-template` |
 | [BCTT-ThucTap-BTPHoldings](https://github.com/lhlizdabezt/BCTT-ThucTap-BTPHoldings) | Báo cáo thực tập tại BTP Holdings bằng Typst, gồm 7 chương, ảnh đã đổi tên để build, release PDF, nội dung QC, Bảo hành SP và quan sát IoT | [release](https://github.com/lhlizdabezt/BCTT-ThucTap-BTPHoldings/releases/latest) · [tags](https://github.com/lhlizdabezt/BCTT-ThucTap-BTPHoldings/tags) · `internship-report`, `quality-control`, `warranty-service`, `btp-holdings`, `typst` |
 | [TruyenThongSo](https://github.com/lhlizdabezt/TruyenThongSo) | Bài tập Truyền thông Số MATLAB: AWGN, matched filter, BER BASK/BPSK/BFSK/QPSK, companding, LDPC, báo cáo và slide | [release](https://github.com/lhlizdabezt/TruyenThongSo/releases/latest) · [tags](https://github.com/lhlizdabezt/TruyenThongSo/tags) · `digital-communications`, `ber`, `matlab`, `ldpc` |
