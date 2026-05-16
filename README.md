@@ -45,6 +45,8 @@ Tôi cũng tách riêng **Slide-DoAnHTN-Nhom17-DE10Standard** để người xem
 
 Với mảng **AI/OCR**, tôi giữ **NhapMonAI** như một case study có thể kiểm tra nhanh: notebook Kaggle, link dataset, YOLO checkpoint, OCR bằng FastALPR/fast-plate-ocr, app Python, demo cổng PC, báo cáo Typst, GIF motion, release và topics. Đây là đồ án học thuật, nhưng được đóng gói theo cách người xem có thể truy nguồn từ kết quả về code và tài liệu.
 
+Với **ThucHanhGTMT**, tôi đưa một bài lab thu nhận dữ liệu thành repo có đường kiểm tra rõ: AHT20 qua I2C, firmware Silicon Labs BLE SoC, LCD, BLE advertising, UART/VCOM, logger Windows C/SQLite, GIF luồng dữ liệu, báo cáo PDF, slide và release assets. Đây là bằng chứng tốt cho mảng giao tiếp máy tính, cảm biến và tích hợp phần cứng/phần mềm.
+
 ```yaml
 họ_tên: Lương Hải Long
 mã_sinh_viên: "22207056"
@@ -97,7 +99,8 @@ nguyên_tắc_portfolio: "Repo phải có bài toán, kỹ thuật, bằng chứ
     <td width="50%" valign="top">
       <h3>📟 <a href="https://github.com/lhlizdabezt/ThucHanhGTMT">ThucHanhGTMT</a></h3>
       <p><a href="https://github.com/lhlizdabezt/ThucHanhGTMT/releases/latest"><img src="https://img.shields.io/github/v/release/lhlizdabezt/ThucHanhGTMT?style=flat-square&label=Release&color=0f766e" alt="Release thực hành giao tiếp máy tính" /></a> <img src="https://img.shields.io/badge/BLE-UART%20SQLite%20AHT20-D95319?style=flat-square" alt="BLE UART SQLite AHT20" /></p>
-      <p>Lab giao tiếp máy tính với Silicon Labs BLE SoC, AHT20, LCD, BLE advertising, UART/VCOM và SQLite logger trên Windows.</p>
+      <p>Lab giao tiếp máy tính với Silicon Labs BLE SoC, AHT20, LCD, BLE advertising, UART/VCOM và SQLite logger trên Windows; có release assets, báo cáo PDF, slide và GIF mô phỏng luồng dữ liệu.</p>
+      <p><img src="https://raw.githubusercontent.com/lhlizdabezt/ThucHanhGTMT/main/assets/gtmt-data-flow.gif" alt="GIF luồng dữ liệu AHT20, BLE, UART và SQLite của ThucHanhGTMT" width="100%" /></p>
     </td>
   </tr>
   <tr>
@@ -142,7 +145,7 @@ nguyên_tắc_portfolio: "Repo phải có bài toán, kỹ thuật, bằng chứ
 | AI / OCR ứng dụng | [NhapMonAI](https://github.com/lhlizdabezt/NhapMonAI) | YOLO, OCR, FastALPR, Kaggle, app Python, mAP50, báo cáo |
 | Truyền thông không dây | [TruyenThongKhongDay](https://github.com/lhlizdabezt/TruyenThongKhongDay) | Fading, equalizer, OFDM, MIMO, link budget, MATLAB |
 | Truyền thông số | [TruyenThongSo](https://github.com/lhlizdabezt/TruyenThongSo) | AWGN, matched filter, BER, QPSK, companding, LDPC |
-| Thu nhận dữ liệu / BLE IoT | [ThucHanhGTMT](https://github.com/lhlizdabezt/ThucHanhGTMT) | AHT20, Silicon Labs BLE SoC, LCD, UART/VCOM, SQLite |
+| Thu nhận dữ liệu / BLE IoT | [ThucHanhGTMT](https://github.com/lhlizdabezt/ThucHanhGTMT) | AHT20, Silicon Labs BLE SoC, LCD, UART/VCOM, SQLite, GIF motion, release assets |
 | Python automation | [messenger-edge-tool](https://github.com/lhlizdabezt/messenger-edge-tool) | Tkinter, Edge, Playwright, AI draft, context extraction |
 | Automation phụ đề | [aegisub-automation-pack](https://github.com/lhlizdabezt/aegisub-automation-pack) | Lua/MoonScript, Aegisub, ASS, hotkey, motion |
 | Tài liệu học thuật | [HCMUS-DTVT-BaoCao-Templates](https://github.com/lhlizdabezt/HCMUS-DTVT-BaoCao-Templates) | Mẫu KLTN/BCTT, Typst Guide, XLSX tham khảo, workflow Word → Typst, release |
@@ -184,7 +187,7 @@ nguyên_tắc_portfolio: "Repo phải có bài toán, kỹ thuật, bằng chứ
 | [DoAnHeThongNhung](https://github.com/lhlizdabezt/DoAnHeThongNhung) | Đồ án Hệ thống nhúng với DE10-Standard Cyclone V SoC FPGA, HPS/Linux, TCP/Ethernet, GUI Python, báo cáo và slide | [release](https://github.com/lhlizdabezt/DoAnHeThongNhung/releases/latest) · [tags](https://github.com/lhlizdabezt/DoAnHeThongNhung/tags) · `fpga`, `soc-fpga`, `hps`, `tcp-ip`, `quartus` |
 | [DoAnDienTuYSinh_STM32_MAX30100_LCD](https://github.com/lhlizdabezt/DoAnDienTuYSinh_STM32_MAX30100_LCD) | Đồ án Điện tử Y sinh đo BPM/SpO2 bằng STM32F103C8T6, MAX30100/MAX30102, LCD1602, Proteus và STM32duino | [release](https://github.com/lhlizdabezt/DoAnDienTuYSinh_STM32_MAX30100_LCD/releases/latest) · [tags](https://github.com/lhlizdabezt/DoAnDienTuYSinh_STM32_MAX30100_LCD/tags) · `stm32`, `max30100`, `spo2`, `biomedical-engineering` |
 | [aegisub-automation-pack](https://github.com/lhlizdabezt/aegisub-automation-pack) | Bộ macro Lua/MoonScript cho Aegisub, typesetting ASS, hotkey, motion, shape và cấu hình hiệu ứng | [release](https://github.com/lhlizdabezt/aegisub-automation-pack/releases/latest) · [tags](https://github.com/lhlizdabezt/aegisub-automation-pack/tags) · `aegisub`, `subtitles`, `typesetting`, `moonscript` |
-| [ThucHanhGTMT](https://github.com/lhlizdabezt/ThucHanhGTMT) | Lab giao tiếp máy tính: đọc AHT20 trên Silicon Labs BLE SoC, LCD, BLE advertising, UART/VCOM và SQLite logger | [release](https://github.com/lhlizdabezt/ThucHanhGTMT/releases/latest) · [tags](https://github.com/lhlizdabezt/ThucHanhGTMT/tags) · `ble`, `uart`, `sqlite`, `i2c`, `sensor-logging` |
+| [ThucHanhGTMT](https://github.com/lhlizdabezt/ThucHanhGTMT) | Lab giao tiếp máy tính: đọc AHT20 trên Silicon Labs BLE SoC, LCD, BLE advertising, UART/VCOM, SQLite logger, GIF luồng dữ liệu và release assets | [release](https://github.com/lhlizdabezt/ThucHanhGTMT/releases/latest) · [tags](https://github.com/lhlizdabezt/ThucHanhGTMT/tags) · `ble`, `uart`, `sqlite`, `i2c`, `sensor-logging` |
 | [TruyenThongKhongDay](https://github.com/lhlizdabezt/TruyenThongKhongDay) | Mô phỏng MATLAB cho fading, equalizer, OFDM, MIMO, link budget và BER Monte Carlo | [release](https://github.com/lhlizdabezt/TruyenThongKhongDay/releases/latest) · [tags](https://github.com/lhlizdabezt/TruyenThongKhongDay/tags) · `matlab`, `ofdm`, `mimo`, `wireless-communications` |
 | [embedded-systems-fpga-review-labs](https://github.com/lhlizdabezt/embedded-systems-fpga-review-labs) | Bộ lab ôn tập FPGA/SoPC: Quartus, Platform Designer, Verilog Avalon-MM IP, Nios II C, timer và DMA | [release](https://github.com/lhlizdabezt/embedded-systems-fpga-review-labs/releases/latest) · [tags](https://github.com/lhlizdabezt/embedded-systems-fpga-review-labs/tags) · `verilog`, `avalon-mm`, `nios-ii`, `de10-standard` |
 | [messenger-edge-tool](https://github.com/lhlizdabezt/messenger-edge-tool) | Công cụ desktop Python/Tkinter dùng Microsoft Edge và Playwright để đọc ngữ cảnh, soạn nháp AI và tự động hóa có kiểm soát | [release](https://github.com/lhlizdabezt/messenger-edge-tool/releases/latest) · [tags](https://github.com/lhlizdabezt/messenger-edge-tool/tags) · `python`, `playwright`, `microsoft-edge`, `ai-assistant` |
