@@ -37,6 +37,8 @@ Tôi là **Lương Hải Long**, sinh viên ngành **Điện tử Viễn thông*
 
 Tôi cũng đưa phần **thực tập tại BTP Holdings** vào portfolio như một bằng chứng nghề nghiệp: báo cáo Typst có thể build lại, release PDF, ảnh minh chứng đã đổi tên và cách trình bày trung thực về QC, Bảo hành SP, sản phẩm điện gia dụng và quan sát IoT ở mức thực tập sinh.
 
+Bên cạnh repo báo cáo, tôi duy trì **HCMUS-DTVT-BaoCao-Templates** như bộ nền tài liệu học thuật: mẫu KLTN, mẫu BCTT, Typst Guide, dữ liệu tham khảo và workflow Word → Typst. Đây là phần chứng minh khả năng tổ chức tài liệu, chuẩn hóa file và đóng gói tri thức học thuật thành repo có thể tái sử dụng.
+
 ```yaml
 họ_tên: Lương Hải Long
 mã_sinh_viên: "22207056"
@@ -59,6 +61,7 @@ nguyên_tắc_portfolio: "Repo phải có bài toán, kỹ thuật, bằng chứ
 | Làm được phần cứng lẫn phần mềm | FPGA/SoC, STM32, HPS/Linux, embedded C/C++, Python GUI, TCP/IP, BLE, UART | Có tư duy tích hợp từ board thật đến phần mềm người dùng |
 | Biết biến bài học thành sản phẩm đọc được | README, release, tag, báo cáo Typst, slide, video demo, hình minh chứng | Người đánh giá không phải đoán; bằng chứng nằm trong repo |
 | Có trải nghiệm doanh nghiệp kỹ thuật | Báo cáo thực tập BTP Holdings: QC, Bảo hành SP, sản phẩm điện gia dụng, bo mạch, kiểm thử sau sửa chữa | Thể hiện cách quan sát sản phẩm thật và ghi nhận kỹ thuật có trách nhiệm |
+| Biết chuẩn hóa tài liệu học thuật | HCMUS-DTVT-BaoCao-Templates: mẫu KLTN/BCTT, Typst Guide, XLSX tham khảo, release và topics | Thể hiện khả năng biến tài liệu rời thành bộ nền có version, hướng dẫn và liên kết sử dụng |
 | Chủ động học công cụ hiện đại | GitHub CLI, automation, AI/OCR, Kaggle, IPYNB, Playwright | Có tốc độ học và khả năng đóng gói kết quả thành tài sản kỹ thuật |
 
 ## ⭐ Cụm repo nổi bật nhất
@@ -86,7 +89,8 @@ nguyên_tắc_portfolio: "Repo phải có bài toán, kỹ thuật, bằng chứ
     <td width="50%" valign="top">
       <h3>📚 <a href="https://github.com/lhlizdabezt/HCMUS-DTVT-BaoCao-Templates">HCMUS-DTVT-BaoCao-Templates</a></h3>
       <p><a href="https://github.com/lhlizdabezt/HCMUS-DTVT-BaoCao-Templates/releases/latest"><img src="https://img.shields.io/github/v/release/lhlizdabezt/HCMUS-DTVT-BaoCao-Templates?style=flat-square&label=Release&color=0f766e" alt="Release template báo cáo HCMUS" /></a> <img src="https://img.shields.io/badge/Report-Word%20Typst%20Guide-D95319?style=flat-square" alt="Word Typst Guide" /></p>
-      <p>Bộ template và tài liệu học thuật cho báo cáo Điện tử Viễn thông: Word, Typst, hướng dẫn, starter pack và cách đóng gói tài liệu có thể tái sử dụng.</p>
+      <p>Bộ template và tài liệu học thuật cho báo cáo Điện tử Viễn thông: mẫu KLTN, mẫu BCTT, Typst Guide, XLSX tham khảo, release và workflow Word → Typst.</p>
+      <p><img src="https://raw.githubusercontent.com/lhlizdabezt/HCMUS-DTVT-BaoCao-Templates/main/assets/hcmus-template-motion.gif" alt="GIF motion bộ mẫu báo cáo HCMUS FETEL" width="100%" /></p>
     </td>
   </tr>
   <tr>
@@ -117,7 +121,7 @@ nguyên_tắc_portfolio: "Repo phải có bài toán, kỹ thuật, bằng chứ
 | Thu nhận dữ liệu / BLE IoT | [ThucHanhGTMT](https://github.com/lhlizdabezt/ThucHanhGTMT) | AHT20, Silicon Labs BLE SoC, LCD, UART/VCOM, SQLite |
 | Python automation | [messenger-edge-tool](https://github.com/lhlizdabezt/messenger-edge-tool) | Tkinter, Edge, Playwright, AI draft, context extraction |
 | Automation phụ đề | [aegisub-automation-pack](https://github.com/lhlizdabezt/aegisub-automation-pack) | Lua/MoonScript, Aegisub, ASS, hotkey, motion |
-| Tài liệu học thuật | [HCMUS-DTVT-BaoCao-Templates](https://github.com/lhlizdabezt/HCMUS-DTVT-BaoCao-Templates) | Template Word/Typst, guide, tài liệu tham khảo |
+| Tài liệu học thuật | [HCMUS-DTVT-BaoCao-Templates](https://github.com/lhlizdabezt/HCMUS-DTVT-BaoCao-Templates) | Mẫu KLTN/BCTT, Typst Guide, XLSX tham khảo, workflow Word → Typst, release |
 
 ## 🤖 Trạm AI/OCR
 
@@ -161,7 +165,7 @@ nguyên_tắc_portfolio: "Repo phải có bài toán, kỹ thuật, bằng chứ
 | [my-slide](https://github.com/lhlizdabezt/my-slide) | Workspace slide React/Vite/TypeScript 1920x1080 dựa trên open-slide, có cấu hình agent skills và hướng deploy | [release](https://github.com/lhlizdabezt/my-slide/releases/latest) · [tags](https://github.com/lhlizdabezt/my-slide/tags) · `open-slide`, `react`, `typescript`, `vite` |
 | [Slide-DoAnHTN-Nhom17-DE10Standard](https://github.com/lhlizdabezt/Slide-DoAnHTN-Nhom17-DE10Standard) | Slide bảo vệ đồ án SoC FPGA DE10-Standard, HPS/Linux, TCP/Ethernet và LED 7 đoạn bằng Typst/Stargazer | [release](https://github.com/lhlizdabezt/Slide-DoAnHTN-Nhom17-DE10Standard/releases/latest) · [tags](https://github.com/lhlizdabezt/Slide-DoAnHTN-Nhom17-DE10Standard/tags) · `typst`, `slides`, `fpga`, `stargazer-theme` |
 | [ThucHanhDienTuTuongTu](https://github.com/lhlizdabezt/ThucHanhDienTuTuongTu) | Workspace Điện tử Tương tự với LTspice, LM324, LM339, NE555, lọc tích cực, dao động, chỉnh lưu, LDO và DAC | [release](https://github.com/lhlizdabezt/ThucHanhDienTuTuongTu/releases/latest) · [tags](https://github.com/lhlizdabezt/ThucHanhDienTuTuongTu/tags) · `ltspice`, `analog-electronics`, `op-amp` |
-| [HCMUS-DTVT-BaoCao-Templates](https://github.com/lhlizdabezt/HCMUS-DTVT-BaoCao-Templates) | Bộ template và tài liệu tham khảo cho sinh viên Điện tử Viễn thông HCMUS: Word, Typst Guide, XLSX và starter pack | [release](https://github.com/lhlizdabezt/HCMUS-DTVT-BaoCao-Templates/releases/latest) · [tags](https://github.com/lhlizdabezt/HCMUS-DTVT-BaoCao-Templates/tags) · `templates`, `typst`, `academic-writing` |
+| [HCMUS-DTVT-BaoCao-Templates](https://github.com/lhlizdabezt/HCMUS-DTVT-BaoCao-Templates) | Bộ mẫu báo cáo Điện tử Viễn thông HCMUS: mẫu KLTN, mẫu BCTT, Typst Guide, XLSX tham khảo, tên file an toàn và release dùng lại | [release](https://github.com/lhlizdabezt/HCMUS-DTVT-BaoCao-Templates/releases/latest) · [tags](https://github.com/lhlizdabezt/HCMUS-DTVT-BaoCao-Templates/tags) · `templates`, `typst`, `academic-writing`, `word-to-typst`, `report-template` |
 | [BCTT-ThucTap-BTPHoldings](https://github.com/lhlizdabezt/BCTT-ThucTap-BTPHoldings) | Báo cáo thực tập tại BTP Holdings bằng Typst, gồm 7 chương, ảnh đã đổi tên để build, release PDF, nội dung QC, Bảo hành SP và quan sát IoT | [release](https://github.com/lhlizdabezt/BCTT-ThucTap-BTPHoldings/releases/latest) · [tags](https://github.com/lhlizdabezt/BCTT-ThucTap-BTPHoldings/tags) · `internship-report`, `quality-control`, `warranty-service`, `btp-holdings`, `typst` |
 | [TruyenThongSo](https://github.com/lhlizdabezt/TruyenThongSo) | Bài tập Truyền thông Số MATLAB: AWGN, matched filter, BER BASK/BPSK/BFSK/QPSK, companding, LDPC, báo cáo và slide | [release](https://github.com/lhlizdabezt/TruyenThongSo/releases/latest) · [tags](https://github.com/lhlizdabezt/TruyenThongSo/tags) · `digital-communications`, `ber`, `matlab`, `ldpc` |
 | [open-slide](https://github.com/lhlizdabezt/open-slide) | Fork framework slide React/TypeScript cho canvas 1920x1080, tạo deck tĩnh và workflow trình bày với agent | [tags](https://github.com/lhlizdabezt/open-slide/tags) · fork tham khảo · `open-slide`, `presentation`, `react`, `typescript` |
