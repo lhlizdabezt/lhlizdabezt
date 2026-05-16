@@ -83,7 +83,7 @@ nguyên_tắc_portfolio: "Repo phải có bài toán, kỹ thuật, bằng chứ
       <h3>⚙️ <a href="https://github.com/lhlizdabezt/DoAnHeThongNhung">DoAnHeThongNhung</a></h3>
       <p><a href="https://github.com/lhlizdabezt/DoAnHeThongNhung/releases/latest"><img src="https://img.shields.io/github/v/release/lhlizdabezt/DoAnHeThongNhung?style=flat-square&label=Release&color=0f766e" alt="Release đồ án Hệ thống nhúng" /></a> <img src="https://img.shields.io/badge/DE10--Standard-SoC%20FPGA-2563eb?style=flat-square" alt="DE10 Standard SoC FPGA" /></p>
       <p>Đồ án Hệ thống nhúng với DE10-Standard Cyclone V SoC FPGA, HPS/Linux, TCP/Ethernet, bridge HPS-FPGA, LED 7 đoạn, GUI Python, báo cáo, slide và motion asset tự host.</p>
-      <p><img src="https://raw.githubusercontent.com/lhlizdabezt/DoAnHeThongNhung/v1.0.2/assets/soc-ethernet-flow.gif" alt="GIF luồng điều khiển SoC Ethernet của DoAnHeThongNhung" width="100%" /></p>
+      <p><img src="https://raw.githubusercontent.com/lhlizdabezt/DoAnHeThongNhung/v1.0.3/assets/soc-ethernet-flow.gif" alt="GIF luồng điều khiển SoC Ethernet của DoAnHeThongNhung" width="100%" /></p>
     </td>
     <td width="50%" valign="top">
       <h3>🤖 <a href="https://github.com/lhlizdabezt/NhapMonAI">NhapMonAI</a></h3>
