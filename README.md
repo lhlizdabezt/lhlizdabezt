@@ -43,6 +43,8 @@ Tôi cũng tách riêng **Slide-DoAnHTN-Nhom17-DE10Standard** để người xem
 
 Ở tầng nền mạch tương tự, tôi đưa **ThucHanhDienTuTuongTu** lên thành repo portfolio có release, topics, README tiếng Việt, GIF motion và số liệu kiểm kê rõ ràng: 29 schematic LTspice, 17 artifact mô phỏng, macromodel LM324/LM339, bài lab, lý thuyết và datasheet.
 
+Với mảng **AI/OCR**, tôi giữ **NhapMonAI** như một case study có thể kiểm tra nhanh: notebook Kaggle, link dataset, YOLO checkpoint, OCR bằng FastALPR/fast-plate-ocr, app Python, demo cổng PC, báo cáo Typst, GIF motion, release và topics. Đây là đồ án học thuật, nhưng được đóng gói theo cách người xem có thể truy nguồn từ kết quả về code và tài liệu.
+
 ```yaml
 họ_tên: Lương Hải Long
 mã_sinh_viên: "22207056"
@@ -82,6 +84,7 @@ nguyên_tắc_portfolio: "Repo phải có bài toán, kỹ thuật, bằng chứ
       <h3>🤖 <a href="https://github.com/lhlizdabezt/NhapMonAI">NhapMonAI</a></h3>
       <p><a href="https://github.com/lhlizdabezt/NhapMonAI/releases/latest"><img src="https://img.shields.io/github/v/release/lhlizdabezt/NhapMonAI?style=flat-square&label=Release&color=0f766e" alt="Release Nhập môn AI" /></a> <img src="https://img.shields.io/badge/YOLO-OCR%20ALPR-D95319?style=flat-square" alt="YOLO OCR ALPR" /></p>
       <p>Dự án nhận diện biển số xe Việt Nam bằng YOLO, OCR, FastALPR, app Python, notebook Kaggle, dataset Drive, báo cáo Typst và demo thực tế.</p>
+      <p><img src="https://raw.githubusercontent.com/lhlizdabezt/NhapMonAI/main/assets/alpr-pipeline-motion.gif" alt="GIF motion pipeline YOLO OCR của NhapMonAI" width="100%" /></p>
     </td>
   </tr>
   <tr>
@@ -145,6 +148,10 @@ nguyên_tắc_portfolio: "Repo phải có bài toán, kỹ thuật, bằng chứ
 | Tài liệu học thuật | [HCMUS-DTVT-BaoCao-Templates](https://github.com/lhlizdabezt/HCMUS-DTVT-BaoCao-Templates) | Mẫu KLTN/BCTT, Typst Guide, XLSX tham khảo, workflow Word → Typst, release |
 
 ## 🤖 Trạm AI/OCR
+
+<p align="center">
+  <img width="760" src="https://raw.githubusercontent.com/lhlizdabezt/lhlizdabezt/main/assets/ai-ocr-spotlight.svg" alt="Thẻ visual AI OCR cho NhapMonAI" />
+</p>
 
 | Điểm vào | Liên kết | Ghi chú đánh giá |
 | --- | --- | --- |
