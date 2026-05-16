@@ -35,6 +35,8 @@
 
 Tôi là **Lương Hải Long**, sinh viên ngành **Điện tử Viễn thông** tại **Trường Đại học Khoa học Tự nhiên, ĐHQG-HCM**. GitHub này được tổ chức như một portfolio kỹ thuật có thể đánh giá nhanh: mỗi repo quan trọng đều có mô tả, README, hình minh chứng, tag, release, topics và liên kết để HR lẫn kỹ sư thấy rõ bài toán, công nghệ, kết quả và cách kiểm tra.
 
+Tôi cũng đưa phần **thực tập tại BTP Holdings** vào portfolio như một bằng chứng nghề nghiệp: báo cáo Typst có thể build lại, release PDF, ảnh minh chứng đã đổi tên và cách trình bày trung thực về QC, Bảo hành SP, sản phẩm điện gia dụng và quan sát IoT ở mức thực tập sinh.
+
 ```yaml
 họ_tên: Lương Hải Long
 mã_sinh_viên: "22207056"
@@ -56,6 +58,7 @@ nguyên_tắc_portfolio: "Repo phải có bài toán, kỹ thuật, bằng chứ
 | Có nền tảng Điện tử Viễn thông | Truyền thông số, truyền thông không dây, MATLAB, BER, fading, OFDM, MIMO | Không chỉ biết code, còn hiểu tín hiệu, mô hình kênh và hệ thống |
 | Làm được phần cứng lẫn phần mềm | FPGA/SoC, STM32, HPS/Linux, embedded C/C++, Python GUI, TCP/IP, BLE, UART | Có tư duy tích hợp từ board thật đến phần mềm người dùng |
 | Biết biến bài học thành sản phẩm đọc được | README, release, tag, báo cáo Typst, slide, video demo, hình minh chứng | Người đánh giá không phải đoán; bằng chứng nằm trong repo |
+| Có trải nghiệm doanh nghiệp kỹ thuật | Báo cáo thực tập BTP Holdings: QC, Bảo hành SP, sản phẩm điện gia dụng, bo mạch, kiểm thử sau sửa chữa | Thể hiện cách quan sát sản phẩm thật và ghi nhận kỹ thuật có trách nhiệm |
 | Chủ động học công cụ hiện đại | GitHub CLI, automation, AI/OCR, Kaggle, IPYNB, Playwright | Có tốc độ học và khả năng đóng gói kết quả thành tài sản kỹ thuật |
 
 ## ⭐ Cụm repo nổi bật nhất
@@ -71,6 +74,19 @@ nguyên_tắc_portfolio: "Repo phải có bài toán, kỹ thuật, bằng chứ
       <h3>🤖 <a href="https://github.com/lhlizdabezt/NhapMonAI">NhapMonAI</a></h3>
       <p><a href="https://github.com/lhlizdabezt/NhapMonAI/releases/latest"><img src="https://img.shields.io/github/v/release/lhlizdabezt/NhapMonAI?style=flat-square&label=Release&color=0f766e" alt="Release Nhập môn AI" /></a> <img src="https://img.shields.io/badge/YOLO-OCR%20ALPR-D95319?style=flat-square" alt="YOLO OCR ALPR" /></p>
       <p>Dự án nhận diện biển số xe Việt Nam bằng YOLO, OCR, FastALPR, app Python, notebook Kaggle, dataset Drive, báo cáo Typst và demo thực tế.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📘 <a href="https://github.com/lhlizdabezt/BCTT-ThucTap-BTPHoldings">BCTT-ThucTap-BTPHoldings</a></h3>
+      <p><a href="https://github.com/lhlizdabezt/BCTT-ThucTap-BTPHoldings/releases/latest"><img src="https://img.shields.io/github/v/release/lhlizdabezt/BCTT-ThucTap-BTPHoldings?style=flat-square&label=Release&color=0f766e" alt="Release báo cáo thực tập BTP Holdings" /></a> <img src="https://img.shields.io/badge/Typst-QC%20Warranty%20BTP-2563eb?style=flat-square" alt="Typst QC Warranty BTP" /></p>
+      <p>Báo cáo thực tập tại BTP Holdings bằng Typst: 7 chương, ảnh đã đổi tên để build, release PDF, nội dung QC, Bảo hành SP, sản phẩm điện gia dụng và quan sát IoT.</p>
+      <p><img src="https://raw.githubusercontent.com/lhlizdabezt/BCTT-ThucTap-BTPHoldings/main/assets/btp-report-motion.gif" alt="GIF motion báo cáo thực tập BTP Holdings" width="100%" /></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📚 <a href="https://github.com/lhlizdabezt/HCMUS-DTVT-BaoCao-Templates">HCMUS-DTVT-BaoCao-Templates</a></h3>
+      <p><a href="https://github.com/lhlizdabezt/HCMUS-DTVT-BaoCao-Templates/releases/latest"><img src="https://img.shields.io/github/v/release/lhlizdabezt/HCMUS-DTVT-BaoCao-Templates?style=flat-square&label=Release&color=0f766e" alt="Release template báo cáo HCMUS" /></a> <img src="https://img.shields.io/badge/Report-Word%20Typst%20Guide-D95319?style=flat-square" alt="Word Typst Guide" /></p>
+      <p>Bộ template và tài liệu học thuật cho báo cáo Điện tử Viễn thông: Word, Typst, hướng dẫn, starter pack và cách đóng gói tài liệu có thể tái sử dụng.</p>
     </td>
   </tr>
   <tr>
@@ -94,6 +110,7 @@ nguyên_tắc_portfolio: "Repo phải có bài toán, kỹ thuật, bằng chứ
 | FPGA / SoC capstone | [DoAnHeThongNhung](https://github.com/lhlizdabezt/DoAnHeThongNhung) | DE10-Standard, HPS/Linux, TCP/IP, Python GUI, báo cáo, release |
 | Lab FPGA / SoPC | [embedded-systems-fpga-review-labs](https://github.com/lhlizdabezt/embedded-systems-fpga-review-labs) | Verilog, Avalon-MM, Nios II, PIO, timer, DMA, Typst |
 | Điện tử y sinh nhúng | [DoAnDienTuYSinh_STM32_MAX30100_LCD](https://github.com/lhlizdabezt/DoAnDienTuYSinh_STM32_MAX30100_LCD) | STM32, MAX30100/MAX30102, LCD1602, Proteus, video demo |
+| Thực tập doanh nghiệp / QC | [BCTT-ThucTap-BTPHoldings](https://github.com/lhlizdabezt/BCTT-ThucTap-BTPHoldings) | BTP Holdings, QC, Bảo hành SP, sản phẩm điện gia dụng, Typst, release PDF |
 | AI / OCR ứng dụng | [NhapMonAI](https://github.com/lhlizdabezt/NhapMonAI) | YOLO, OCR, FastALPR, Kaggle, app Python, mAP50, báo cáo |
 | Truyền thông không dây | [TruyenThongKhongDay](https://github.com/lhlizdabezt/TruyenThongKhongDay) | Fading, equalizer, OFDM, MIMO, link budget, MATLAB |
 | Truyền thông số | [TruyenThongSo](https://github.com/lhlizdabezt/TruyenThongSo) | AWGN, matched filter, BER, QPSK, companding, LDPC |
@@ -145,7 +162,7 @@ nguyên_tắc_portfolio: "Repo phải có bài toán, kỹ thuật, bằng chứ
 | [Slide-DoAnHTN-Nhom17-DE10Standard](https://github.com/lhlizdabezt/Slide-DoAnHTN-Nhom17-DE10Standard) | Slide bảo vệ đồ án SoC FPGA DE10-Standard, HPS/Linux, TCP/Ethernet và LED 7 đoạn bằng Typst/Stargazer | [release](https://github.com/lhlizdabezt/Slide-DoAnHTN-Nhom17-DE10Standard/releases/latest) · [tags](https://github.com/lhlizdabezt/Slide-DoAnHTN-Nhom17-DE10Standard/tags) · `typst`, `slides`, `fpga`, `stargazer-theme` |
 | [ThucHanhDienTuTuongTu](https://github.com/lhlizdabezt/ThucHanhDienTuTuongTu) | Workspace Điện tử Tương tự với LTspice, LM324, LM339, NE555, lọc tích cực, dao động, chỉnh lưu, LDO và DAC | [release](https://github.com/lhlizdabezt/ThucHanhDienTuTuongTu/releases/latest) · [tags](https://github.com/lhlizdabezt/ThucHanhDienTuTuongTu/tags) · `ltspice`, `analog-electronics`, `op-amp` |
 | [HCMUS-DTVT-BaoCao-Templates](https://github.com/lhlizdabezt/HCMUS-DTVT-BaoCao-Templates) | Bộ template và tài liệu tham khảo cho sinh viên Điện tử Viễn thông HCMUS: Word, Typst Guide, XLSX và starter pack | [release](https://github.com/lhlizdabezt/HCMUS-DTVT-BaoCao-Templates/releases/latest) · [tags](https://github.com/lhlizdabezt/HCMUS-DTVT-BaoCao-Templates/tags) · `templates`, `typst`, `academic-writing` |
-| [BCTT-ThucTap-BTPHoldings](https://github.com/lhlizdabezt/BCTT-ThucTap-BTPHoldings) | Báo cáo thực tập tại BTP Holdings bằng Typst, gồm 7 chương, bibliography IEEE và photo archive | [release](https://github.com/lhlizdabezt/BCTT-ThucTap-BTPHoldings/releases/latest) · [tags](https://github.com/lhlizdabezt/BCTT-ThucTap-BTPHoldings/tags) · `internship-report`, `quality-control`, `typst` |
+| [BCTT-ThucTap-BTPHoldings](https://github.com/lhlizdabezt/BCTT-ThucTap-BTPHoldings) | Báo cáo thực tập tại BTP Holdings bằng Typst, gồm 7 chương, ảnh đã đổi tên để build, release PDF, nội dung QC, Bảo hành SP và quan sát IoT | [release](https://github.com/lhlizdabezt/BCTT-ThucTap-BTPHoldings/releases/latest) · [tags](https://github.com/lhlizdabezt/BCTT-ThucTap-BTPHoldings/tags) · `internship-report`, `quality-control`, `warranty-service`, `btp-holdings`, `typst` |
 | [TruyenThongSo](https://github.com/lhlizdabezt/TruyenThongSo) | Bài tập Truyền thông Số MATLAB: AWGN, matched filter, BER BASK/BPSK/BFSK/QPSK, companding, LDPC, báo cáo và slide | [release](https://github.com/lhlizdabezt/TruyenThongSo/releases/latest) · [tags](https://github.com/lhlizdabezt/TruyenThongSo/tags) · `digital-communications`, `ber`, `matlab`, `ldpc` |
 | [open-slide](https://github.com/lhlizdabezt/open-slide) | Fork framework slide React/TypeScript cho canvas 1920x1080, tạo deck tĩnh và workflow trình bày với agent | [tags](https://github.com/lhlizdabezt/open-slide/tags) · fork tham khảo · `open-slide`, `presentation`, `react`, `typescript` |
 | [cloudflare-gateway-pihole-scripts](https://github.com/lhlizdabezt/cloudflare-gateway-pihole-scripts) | Fork script Cloudflare Gateway DNS/VPN để tham khảo cấu hình chặn quảng cáo, malware và tracking domain | [tags](https://github.com/lhlizdabezt/cloudflare-gateway-pihole-scripts/tags) · fork tham khảo · `dns`, `security`, `privacy`, `cloudflare-gateway` |
