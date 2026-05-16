@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/lhlizdabezt?tab=repositories"><img src="https://img.shields.io/badge/Portfolio-20%20Public%20Repos-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio GitHub" /></a>
+  <a href="https://github.com/lhlizdabezt?tab=repositories"><img src="https://img.shields.io/badge/Portfolio-20%20Public%20Repos-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio GitHub" /></a>
   <img src="https://img.shields.io/badge/Profile-HR%20Ready-8b5cf6?style=for-the-badge" alt="Hồ sơ sẵn sàng cho HR" />
   <img src="https://img.shields.io/badge/Focus-Engineering%20Evidence-0f766e?style=for-the-badge" alt="Tập trung vào bằng chứng kỹ thuật" />
   <img src="https://komarev.com/ghpvc/?username=lhlizdabezt&label=Views&color=2563eb&style=for-the-badge" alt="Lượt xem hồ sơ" />
