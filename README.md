@@ -100,7 +100,7 @@ nguyên_tắc_portfolio: "Repo phải có bài toán, kỹ thuật, bằng chứ
       <h3>📟 <a href="https://github.com/lhlizdabezt/ThucHanhGTMT">ThucHanhGTMT</a></h3>
       <p><a href="https://github.com/lhlizdabezt/ThucHanhGTMT/releases/latest"><img src="https://img.shields.io/github/v/release/lhlizdabezt/ThucHanhGTMT?style=flat-square&label=Release&color=0f766e" alt="Release thực hành giao tiếp máy tính" /></a> <img src="https://img.shields.io/badge/BLE-UART%20SQLite%20AHT20-D95319?style=flat-square" alt="BLE UART SQLite AHT20" /></p>
       <p>Lab giao tiếp máy tính với Silicon Labs BLE SoC, AHT20, LCD, BLE advertising, UART/VCOM và SQLite logger trên Windows; có release assets, báo cáo PDF, slide và GIF mô phỏng luồng dữ liệu.</p>
-      <p><img src="https://raw.githubusercontent.com/lhlizdabezt/ThucHanhGTMT/main/assets/gtmt-data-flow.gif" alt="GIF luồng dữ liệu AHT20, BLE, UART và SQLite của ThucHanhGTMT" width="100%" /></p>
+      <p><img src="https://raw.githubusercontent.com/lhlizdabezt/ThucHanhGTMT/v1.2.1/assets/gtmt-data-flow.gif" alt="GIF luồng dữ liệu AHT20, BLE, UART và SQLite của ThucHanhGTMT" width="100%" /></p>
     </td>
   </tr>
   <tr>
