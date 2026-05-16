@@ -49,6 +49,8 @@ Với mảng **AI/OCR**, tôi giữ **NhapMonAI** như một case study có th�
 
 Với **ThucHanhGTMT**, tôi đưa một bài lab thu nhận dữ liệu thành repo có đường kiểm tra rõ: AHT20 qua I2C, firmware Silicon Labs BLE SoC, LCD, BLE advertising, UART/VCOM, logger Windows C/SQLite, GIF luồng dữ liệu, báo cáo PDF, slide và release assets. Đây là bằng chứng tốt cho mảng giao tiếp máy tính, cảm biến và tích hợp phần cứng/phần mềm.
 
+Với **DoAnDienTuYSinh_STM32_MAX30100_LCD**, tôi trình bày một đồ án Điện tử Y sinh nhúng theo hướng có thể review nhanh: STM32F103C8T6 đọc MAX30100/MAX30102 qua I2C, hiển thị BPM/SpO2 lên LCD1602, kèm firmware STM32duino, mô phỏng Proteus, video demo, slide, GIF motion có script render lại và release assets. Repo này được ghi rõ là đồ án học thuật, không thay thế thiết bị y tế được kiểm định.
+
 ```yaml
 họ_tên: Lương Hải Long
 mã_sinh_viên: "22207056"
@@ -144,7 +146,7 @@ nguyên_tắc_portfolio: "Repo phải có bài toán, kỹ thuật, bằng chứ
 | Slide bảo vệ FPGA / SoC | [Slide-DoAnHTN-Nhom17-DE10Standard](https://github.com/lhlizdabezt/Slide-DoAnHTN-Nhom17-DE10Standard) | Typst/Touying, DE10-Standard, HPS/Linux, TCP/Ethernet, FPGA HEX, preview, GIF motion, release PDF |
 | Lab FPGA / SoPC | [embedded-systems-fpga-review-labs](https://github.com/lhlizdabezt/embedded-systems-fpga-review-labs) | Quartus, Platform Designer/Qsys, Verilog Avalon-MM IP, Nios II C, PIO, timer, DMA, GIF motion, PDF Typst, release assets |
 | Điện tử tương tự / SPICE | [ThucHanhDienTuTuongTu](https://github.com/lhlizdabezt/ThucHanhDienTuTuongTu) | LTspice, LM324, LM339, NE555, 29 schematic, 17 artifact mô phỏng, GIF motion |
-| Điện tử y sinh nhúng | [DoAnDienTuYSinh_STM32_MAX30100_LCD](https://github.com/lhlizdabezt/DoAnDienTuYSinh_STM32_MAX30100_LCD) | STM32, MAX30100/MAX30102, LCD1602, Proteus, video demo |
+| Điện tử y sinh nhúng | [DoAnDienTuYSinh_STM32_MAX30100_LCD](https://github.com/lhlizdabezt/DoAnDienTuYSinh_STM32_MAX30100_LCD) | STM32, MAX30100/MAX30102, LCD1602, Proteus, video demo, GIF motion, release assets |
 | Thực tập doanh nghiệp / QC | [BCTT-ThucTap-BTPHoldings](https://github.com/lhlizdabezt/BCTT-ThucTap-BTPHoldings) | BTP Holdings, QC, Bảo hành SP, sản phẩm điện gia dụng, Typst, release PDF |
 | AI / OCR ứng dụng | [NhapMonAI](https://github.com/lhlizdabezt/NhapMonAI) | YOLO, OCR, FastALPR, Kaggle, app Python, mAP50, báo cáo |
 | Truyền thông không dây | [TruyenThongKhongDay](https://github.com/lhlizdabezt/TruyenThongKhongDay) | Fading, equalizer, OFDM, MIMO, link budget, MATLAB |
@@ -153,6 +155,25 @@ nguyên_tắc_portfolio: "Repo phải có bài toán, kỹ thuật, bằng chứ
 | Python automation | [messenger-edge-tool](https://github.com/lhlizdabezt/messenger-edge-tool) | Tkinter, Edge, Playwright, AI draft, context extraction |
 | Automation phụ đề | [aegisub-automation-pack](https://github.com/lhlizdabezt/aegisub-automation-pack) | Lua/MoonScript, Aegisub, ASS, hotkey, motion |
 | Tài liệu học thuật | [HCMUS-DTVT-BaoCao-Templates](https://github.com/lhlizdabezt/HCMUS-DTVT-BaoCao-Templates) | Mẫu KLTN/BCTT, Typst Guide, XLSX tham khảo, workflow Word → Typst, release |
+
+## 🫀 Điện tử y sinh nhúng
+
+<p align="center">
+  <a href="https://github.com/lhlizdabezt/DoAnDienTuYSinh_STM32_MAX30100_LCD"><img src="https://img.shields.io/badge/Repo-STM32%20MAX30100%20LCD-2563eb?style=for-the-badge&logo=github" alt="Repo STM32 MAX30100 LCD" /></a>
+  <a href="https://github.com/lhlizdabezt/DoAnDienTuYSinh_STM32_MAX30100_LCD/releases/latest"><img src="https://img.shields.io/github/v/release/lhlizdabezt/DoAnDienTuYSinh_STM32_MAX30100_LCD?style=for-the-badge&label=Release&color=0f766e" alt="Release đồ án Điện tử Y sinh STM32" /></a>
+  <img src="https://img.shields.io/badge/Evidence-Proteus%20Video%20Slide%20GIF-D95319?style=for-the-badge" alt="Bằng chứng Proteus video slide GIF" />
+</p>
+
+<p align="center">
+  <img width="760" src="https://raw.githubusercontent.com/lhlizdabezt/DoAnDienTuYSinh_STM32_MAX30100_LCD/v1.2.0/assets/pulse-wave.gif" alt="GIF motion đồ án Điện tử Y sinh STM32 với MAX30100, SpO2, BPM và LCD1602" />
+</p>
+
+| Điểm review | Bằng chứng |
+| --- | --- |
+| Hệ nhúng y sinh | STM32F103C8T6, MAX30100/MAX30102, LCD1602, I2C, GPIO, Serial1 |
+| Firmware có thể đọc nhanh | [`stm-max30100-lcd.ino`](https://github.com/lhlizdabezt/DoAnDienTuYSinh_STM32_MAX30100_LCD/blob/main/stm-max30100-lcd.ino) khởi tạo cảm biến, LCD, callback nhịp tim và cập nhật BPM/SpO2 mỗi giây |
+| Artifact học thuật đầy đủ | Proteus `.pdsprj`, slide `.pptx`, video demo `.mp4`, README, release notes và source snapshot |
+| Giới hạn trung thực | Repo ghi rõ đây là đồ án học thuật/portfolio, không phải thiết bị y tế được kiểm định |
 
 ## 🤖 Trạm AI/OCR
 
@@ -189,7 +210,7 @@ nguyên_tắc_portfolio: "Repo phải có bài toán, kỹ thuật, bằng chứ
 | --- | --- | --- |
 | [lhlizdabezt](https://github.com/lhlizdabezt/lhlizdabezt) | Hồ sơ GitHub kỹ thuật của Lương Hải Long, tập trung vào Điện tử Viễn thông, FPGA/SoC, STM32, C/C++, Python, MATLAB, AI/OCR, Kaggle và IPYNB | [release](https://github.com/lhlizdabezt/lhlizdabezt/releases/latest) · [tags](https://github.com/lhlizdabezt/lhlizdabezt/tags) · `profile-readme`, `engineering-portfolio`, `fpga`, `stm32`, `ocr` |
 | [DoAnHeThongNhung](https://github.com/lhlizdabezt/DoAnHeThongNhung) | Đồ án Hệ thống nhúng với DE10-Standard Cyclone V SoC FPGA, HPS/Linux, TCP/Ethernet, bridge HPS-FPGA, Python GUI, báo cáo, slide, GIF motion và release assets | [release](https://github.com/lhlizdabezt/DoAnHeThongNhung/releases/latest) · [tags](https://github.com/lhlizdabezt/DoAnHeThongNhung/tags) · `fpga`, `soc-fpga`, `hps`, `tcp-ip`, `quartus` |
-| [DoAnDienTuYSinh_STM32_MAX30100_LCD](https://github.com/lhlizdabezt/DoAnDienTuYSinh_STM32_MAX30100_LCD) | Đồ án Điện tử Y sinh đo BPM/SpO2 bằng STM32F103C8T6, MAX30100/MAX30102, LCD1602, Proteus và STM32duino | [release](https://github.com/lhlizdabezt/DoAnDienTuYSinh_STM32_MAX30100_LCD/releases/latest) · [tags](https://github.com/lhlizdabezt/DoAnDienTuYSinh_STM32_MAX30100_LCD/tags) · `stm32`, `max30100`, `spo2`, `biomedical-engineering` |
+| [DoAnDienTuYSinh_STM32_MAX30100_LCD](https://github.com/lhlizdabezt/DoAnDienTuYSinh_STM32_MAX30100_LCD) | Đồ án Điện tử Y sinh đo BPM/SpO2 bằng STM32F103C8T6, MAX30100/MAX30102, LCD1602, Proteus, STM32duino, video demo, GIF motion và release assets | [release](https://github.com/lhlizdabezt/DoAnDienTuYSinh_STM32_MAX30100_LCD/releases/latest) · [tags](https://github.com/lhlizdabezt/DoAnDienTuYSinh_STM32_MAX30100_LCD/tags) · `stm32`, `max30100`, `spo2`, `biomedical-engineering` |
 | [aegisub-automation-pack](https://github.com/lhlizdabezt/aegisub-automation-pack) | Bộ macro Lua/MoonScript cho Aegisub, typesetting ASS, hotkey, motion, shape và cấu hình hiệu ứng | [release](https://github.com/lhlizdabezt/aegisub-automation-pack/releases/latest) · [tags](https://github.com/lhlizdabezt/aegisub-automation-pack/tags) · `aegisub`, `subtitles`, `typesetting`, `moonscript` |
 | [ThucHanhGTMT](https://github.com/lhlizdabezt/ThucHanhGTMT) | Lab giao tiếp máy tính: đọc AHT20 trên Silicon Labs BLE SoC, LCD, BLE advertising, UART/VCOM, SQLite logger, GIF luồng dữ liệu và release assets | [release](https://github.com/lhlizdabezt/ThucHanhGTMT/releases/latest) · [tags](https://github.com/lhlizdabezt/ThucHanhGTMT/tags) · `ble`, `uart`, `sqlite`, `i2c`, `sensor-logging` |
 | [TruyenThongKhongDay](https://github.com/lhlizdabezt/TruyenThongKhongDay) | Mô phỏng MATLAB cho fading, equalizer, OFDM, MIMO, link budget và BER Monte Carlo | [release](https://github.com/lhlizdabezt/TruyenThongKhongDay/releases/latest) · [tags](https://github.com/lhlizdabezt/TruyenThongKhongDay/tags) · `matlab`, `ofdm`, `mimo`, `wireless-communications` |
