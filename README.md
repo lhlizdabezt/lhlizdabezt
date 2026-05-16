@@ -165,7 +165,7 @@ nguyên_tắc_portfolio: "Repo phải có bài toán, kỹ thuật, bằng chứ
 </p>
 
 <p align="center">
-  <img width="760" src="https://raw.githubusercontent.com/lhlizdabezt/DoAnDienTuYSinh_STM32_MAX30100_LCD/v1.2.0/assets/pulse-wave.gif" alt="GIF motion đồ án Điện tử Y sinh STM32 với MAX30100, SpO2, BPM và LCD1602" />
+  <img width="760" src="https://raw.githubusercontent.com/lhlizdabezt/DoAnDienTuYSinh_STM32_MAX30100_LCD/v1.2.1/assets/pulse-wave.gif" alt="GIF motion đồ án Điện tử Y sinh STM32 với MAX30100, SpO2, BPM và LCD1602" />
 </p>
 
 | Điểm review | Bằng chứng |
