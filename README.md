@@ -43,6 +43,7 @@ trọng_tâm:
   - Trí tuệ nhân tạo, học máy, Python tooling, desktop GUI, kiểm thử, automation
   - Mạng máy tính, TCP/IP, BLE, UART, truyền thông số, truyền thông không dây, DSP, BER
   - FPGA/SoC, embedded Linux, STM32, C/C++, tích hợp phần cứng/phần mềm
+  - Điện tử số, logic tuần tự, bộ đếm, flip-flop, mô phỏng CircuitJS/Falstad
   - Typst, báo cáo kỹ thuật, slide, README, GitHub release
 ```
 
@@ -57,6 +58,7 @@ trọng_tâm:
 | [TruyenThongKhongDay](https://github.com/lhlizdabezt/TruyenThongKhongDay) | MATLAB, fading, equalizer, OFDM, MIMO, link budget, BER Monte Carlo | Nền truyền thông không dây và mô phỏng kênh, giúp hồ sơ không chỉ là phần mềm ứng dụng |
 | [TruyenThongSo](https://github.com/lhlizdabezt/TruyenThongSo) | AWGN, matched filter, BER, BASK/BPSK/BFSK/QPSK, companding, LDPC | Bằng chứng truyền thông số, xử lý tín hiệu và báo cáo kỹ thuật bằng MATLAB |
 | [embedded-systems-fpga-review-labs](https://github.com/lhlizdabezt/embedded-systems-fpga-review-labs) | Quartus, Platform Designer, Verilog Avalon-MM IP, Nios II C, DMA, timer | Bộ lab FPGA/SoPC có cấu trúc, phù hợp để kiểm tra nền tảng HDL và hardware/software integration |
+| [DienTuSo](https://github.com/lhlizdabezt/DienTuSo) | Bộ đếm mod-12, JK flip-flop, Falstad/CircuitJS, Node.js logic test, GIF motion, release `v1.1.0` | Bằng chứng nền tảng về logic tuần tự và cách đóng gói một project mạch số để HR/kỹ sư có thể review nhanh |
 | [ThucHanhDienTuTuongTu](https://github.com/lhlizdabezt/ThucHanhDienTuTuongTu) | LTspice, LM324, LM339, NE555, filters, rectifier, LDO, DAC | Nền tảng mạch tương tự và mô phỏng SPICE, hỗ trợ hướng hardware/validation |
 
 ## 🎞️ Visual motion
@@ -86,6 +88,18 @@ trọng_tâm:
       <p><img src="https://raw.githubusercontent.com/lhlizdabezt/ThucHanhGTMT/v1.2.1/assets/gtmt-data-flow.gif" alt="GIF luồng dữ liệu AHT20 BLE UART SQLite" width="100%" /></p>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚦 Điện tử số và logic tuần tự</h3>
+      <p>Mạch điều khiển đèn giao thông vòng xoay dùng bộ đếm mod-12, JK flip-flop, giải mã trạng thái, CircuitJS/Falstad và kiểm thử Node.js.</p>
+      <p><img src="https://raw.githubusercontent.com/lhlizdabezt/DienTuSo/v1.1.0/assets/roundabout-motion.gif" alt="GIF mô phỏng mạch đèn giao thông vòng xoay bằng Điện tử số" width="100%" /></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📊 Repo được đóng gói để review</h3>
+      <p>Danh mục repo ưu tiên README rõ ràng, description, topics, release/tag, source snapshot, visual asset và phạm vi trung thực cho từng project học phần/prototype.</p>
+      <p><img src="https://raw.githubusercontent.com/lhlizdabezt/lhlizdabezt/main/assets/github-dashboard.svg" alt="Dashboard GitHub portfolio với repo, release và nhóm bằng chứng kỹ thuật" width="100%" /></p>
+    </td>
+  </tr>
 </table>
 
 ## 📌 Tín hiệu cho HR và kỹ sư
@@ -95,6 +109,7 @@ trọng_tâm:
 | Có năng lực thị giác máy tính và AI/ML thực hành | `NhapMonAI`: YOLO, OCR, Kaggle, app Python, dataset, validation metric | Có thể nối mô hình, dữ liệu, demo và báo cáo thành một artifact kiểm tra được |
 | Có nền mạng máy tính và truyền thông | `DoAnHeThongNhung`, `ThucHanhGTMT`, `TruyenThongSo`, `TruyenThongKhongDay` | Có bằng chứng TCP/IP, BLE, UART, MATLAB, BER, OFDM, MIMO và tư duy tín hiệu |
 | Có nền tảng hệ thống nhúng/FPGA | `DoAnHeThongNhung`, `embedded-systems-fpga-review-labs`, `ThucHanhGTMT` | Không chỉ viết code Python; có nền phần cứng, giao tiếp và mô phỏng |
+| Có nền logic số | `DienTuSo`: mod-12 counter, JK flip-flop, CircuitJS/Falstad, Node.js logic test | Có thể trình bày mạch số, trạng thái tuần tự và kiểm thử logic ở mức người xem chạy lại được |
 | Biết đóng gói dự án | README, release, tag, topics, GIF, report, video, source snapshot | Người review không phải đoán file nào quan trọng |
 | Biết nêu giới hạn trung thực | README ghi rõ project học phần/prototype, không quảng cáo như sản phẩm production | Tạo độ tin cậy khi phỏng vấn kỹ thuật |
 | Có trải nghiệm doanh nghiệp | `BCTT-ThucTap-BTPHoldings`: QC, bảo hành sản phẩm, quan sát IoT, report Typst | Có tiếp xúc môi trường kỹ thuật thật ở phạm vi thực tập |

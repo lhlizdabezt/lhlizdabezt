@@ -1,3 +1,20 @@
+# v1.8.0 - DienTuSo spotlight and reviewer-ready portfolio links
+
+## Nội dung chính
+
+- Đưa `DienTuSo` vào nhóm repo nổi bật để profile thể hiện rõ thêm nền Điện tử số, logic tuần tự, bộ đếm mod-12, JK flip-flop và kiểm thử logic bằng Node.js.
+- Thêm visual motion cho mạch đèn giao thông vòng xoay, trỏ tới raw asset theo release tag ổn định của repo `DienTuSo`.
+- Bổ sung tín hiệu review cho HR/kỹ sư: repo có README, description, topics, release/tag, source snapshot, visual asset và phạm vi project học phần/prototype được nêu rõ.
+- Giữ định vị chính: thị giác máy tính, AI/ML và mạng máy tính/truyền thông dẫn trước; embedded/FPGA và Điện tử số là chiều sâu hệ thống hỗ trợ.
+
+## Kiểm tra
+
+- README profile không có ký tự replacement U+FFFD.
+- Link GIF `DienTuSo` được kiểm tra HTTP 200 sau khi release `v1.1.0` tồn tại.
+- Metadata profile và repo `DienTuSo` được kiểm tra lại bằng GitHub CLI.
+
+---
+
 # v1.7.0 - CV AI ML and network communications profile refresh
 
 ## Nội dung chính
