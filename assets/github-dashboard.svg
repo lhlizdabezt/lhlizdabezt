@@ -59,7 +59,7 @@
 
     <g transform="translate(54 118)">
       <rect class="tile" x="0" y="0" width="162" height="54" rx="10"/>
-      <text x="16" y="34" class="metricValue">20</text>
+      <text x="16" y="34" class="metricValue">21</text>
       <text x="72" y="23" class="metricLabel">public repos</text>
       <text x="72" y="39" class="metricSub">labs and tools</text>
 
@@ -69,9 +69,9 @@
       <text x="270" y="39" class="metricSub">review assets</text>
 
       <rect class="tile" x="0" y="70" width="162" height="54" rx="10"/>
-      <text x="16" y="104" class="metricValue">5</text>
+      <text x="16" y="104" class="metricValue">6</text>
       <text x="72" y="93" class="metricLabel">core stacks</text>
-      <text x="72" y="109" class="metricSub">HW + SW + AI</text>
+      <text x="72" y="109" class="metricSub">CV + HW + SW</text>
 
       <rect class="tile" x="184" y="70" width="162" height="54" rx="10"/>
       <text x="200" y="104" class="metricValue">1</text>
