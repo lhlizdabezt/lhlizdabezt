@@ -14,5 +14,5 @@
   </defs>
   <rect width="1200" height="130" rx="24" fill="url(#bg)"/>
   <text x="600" y="54" text-anchor="middle" class="main">Thanks for visiting</text>
-  <text x="600" y="86" text-anchor="middle" class="sub">Electronics &amp; Telecommunications - FPGA/SoC - Embedded Systems - Digital Communications - Applied AI</text>
+  <text x="600" y="86" text-anchor="middle" class="sub">Computer Vision - AI/ML - Network Communications - FPGA/SoC - Embedded Systems</text>
 </svg>

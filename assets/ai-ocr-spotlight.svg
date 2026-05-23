@@ -28,5 +28,5 @@
     <rect x="778" y="198" width="210" height="54" rx="16" fill="#fef2f2"/>
     <text x="817" y="232" fill="#0f172a">Release Ready</text>
   </g>
-  <text x="70" y="286" fill="#e2e8f0" font-family="Segoe UI, Arial, sans-serif" font-size="18">Evidence-first AI/OCR coursework: notebook, dataset link, app demo, Typst report, GIF motion, tags and release.</text>
+  <text x="70" y="286" fill="#e2e8f0" font-family="Segoe UI, Arial, sans-serif" font-size="18">Evidence-first AI/OCR: PyTorch, OpenCV, Kaggle IPYNB, desktop app, LAN demo, report and release.</text>
 </svg>
