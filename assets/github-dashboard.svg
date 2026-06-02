@@ -1,6 +1,6 @@
 <svg width="900" height="280" viewBox="0 0 900 280" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">Luong Hai Long GitHub portfolio status dashboard</title>
-  <desc id="desc">Line-free dashboard showing public repositories, latest releases, topic-ready repositories and contact links for review.</desc>
+  <desc id="desc">Line-free dashboard showing public repositories, topic-ready repositories and evidence tracks for review.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="900" y2="280" gradientUnits="userSpaceOnUse">
       <stop stop-color="#0f172a"/>
@@ -42,25 +42,15 @@
   <text x="54" y="101" class="smallText">Verified on June 3, 2026 for HR and engineering review</text>
 
   <g transform="translate(54 120)">
-    <rect class="tile" x="0" y="0" width="162" height="54" rx="10"/>
+    <rect class="tile" x="0" y="0" width="346" height="54" rx="10"/>
     <text x="16" y="34" class="metricValue">22</text>
-    <text x="72" y="23" class="metricLabel">public repos</text>
-    <text x="72" y="39" class="metricSub">portfolio scope</text>
+    <text x="86" y="23" class="metricLabel">public repos</text>
+    <text x="86" y="39" class="metricSub">portfolio scope</text>
 
-    <rect class="tile" x="184" y="0" width="162" height="54" rx="10"/>
-    <text x="200" y="34" class="metricValue">22</text>
-    <text x="270" y="23" class="metricLabel">latest releases</text>
-    <text x="270" y="39" class="metricSub">release-backed</text>
-
-    <rect class="tile" x="0" y="70" width="162" height="54" rx="10"/>
+    <rect class="tile" x="0" y="70" width="346" height="54" rx="10"/>
     <text x="16" y="104" class="metricValue">22</text>
-    <text x="72" y="93" class="metricLabel">topic ready</text>
-    <text x="72" y="109" class="metricSub">searchable repos</text>
-
-    <rect class="tile" x="184" y="70" width="162" height="54" rx="10"/>
-    <text x="200" y="104" class="metricValue">5</text>
-    <text x="270" y="93" class="metricLabel">social links</text>
-    <text x="270" y="109" class="metricSub">README contact</text>
+    <text x="86" y="93" class="metricLabel">topic ready</text>
+    <text x="86" y="109" class="metricSub">searchable repos</text>
   </g>
 
   <rect class="motion" x="496" y="48" width="92" height="5" rx="2.5" fill="url(#blue)"/>
