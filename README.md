@@ -63,22 +63,6 @@ I am open to internships and junior engineering opportunities in computer vision
 | YouTube | [youtube.com/@lhlizdabezt](https://www.youtube.com/@lhlizdabezt) |
 | TikTok | [tiktok.com/@wageseadrake](https://www.tiktok.com/@wageseadrake) |
 
-## Priority Repository Spotlight
-
-<table>
-  <tr>
-    <td width="42%">
-      <img src="https://raw.githubusercontent.com/lhlizdabezt/NhapMonAI/v1.0.4/assets/portfolio-motion.svg" alt="Line-free NhapMonAI portfolio visual" width="100%" />
-    </td>
-    <td width="58%">
-      <h3><a href="https://github.com/lhlizdabezt/NhapMonAI">Vietnamese ALPR with YOLO and OCR</a></h3>
-      <p>Computer vision portfolio project for Vietnamese license plate recognition with a YOLO/PyTorch detector, OCR/FastALPR path, Kaggle/IPYNB training trace, Python desktop inference and LAN PlateGate PC demo.</p>
-      <p>The repository is documented for HR and engineering review with a US English README, line-free visual assets, quantitative detector metrics, release notes, step-by-step run instructions, Git LFS rules, stable tags and honest academic prototype boundaries.</p>
-      <p><a href="https://github.com/lhlizdabezt/NhapMonAI/releases/latest">Latest release</a> - <a href="https://github.com/lhlizdabezt/NhapMonAI/tags">Tags</a> - <a href="https://github.com/lhlizdabezt/NhapMonAI/blob/main/README.md">README</a></p>
-    </td>
-  </tr>
-</table>
-
 ## Featured Portfolio Repositories
 
 <table>
@@ -152,23 +136,6 @@ I am open to internships and junior engineering opportunities in computer vision
 | [ThucHanhDienTuTuongTu](https://github.com/lhlizdabezt/ThucHanhDienTuTuongTu) | LTspice analog labs, LM324, LM339, NE555, filters, rectifiers and LDO/DAC topics | [release](https://github.com/lhlizdabezt/ThucHanhDienTuTuongTu/releases/latest) - [tags](https://github.com/lhlizdabezt/ThucHanhDienTuTuongTu/tags) |
 | [PhuongPhapTinh-Matlab](https://github.com/lhlizdabezt/PhuongPhapTinh-Matlab) | MATLAB numerical methods, Cholesky methods, Newton interpolation, Euler ODE and GUI | [release](https://github.com/lhlizdabezt/PhuongPhapTinh-Matlab/releases/latest) - [tags](https://github.com/lhlizdabezt/PhuongPhapTinh-Matlab/tags) |
 | [HCMUS-DTVT-BaoCao-Templates](https://github.com/lhlizdabezt/HCMUS-DTVT-BaoCao-Templates) | Reusable ECE report templates, Typst guide and Word-to-Typst workflow notes | [release](https://github.com/lhlizdabezt/HCMUS-DTVT-BaoCao-Templates/releases/latest) - [tags](https://github.com/lhlizdabezt/HCMUS-DTVT-BaoCao-Templates/tags) |
-
-## Supporting And Reference Repositories
-
-| Repository | Portfolio role | Links |
-|---|---|---|
-| [BCTT-ThucTap-BTPHoldings](https://github.com/lhlizdabezt/BCTT-ThucTap-BTPHoldings) | Internship report wrapper for QC observation, warranty-service context and documentation discipline | [release](https://github.com/lhlizdabezt/BCTT-ThucTap-BTPHoldings/releases/latest) - [tags](https://github.com/lhlizdabezt/BCTT-ThucTap-BTPHoldings/tags) |
-| [Slide-DoAnHTN-Nhom17-DE10Standard](https://github.com/lhlizdabezt/Slide-DoAnHTN-Nhom17-DE10Standard) | Typst/Touying technical deck for the DE10-Standard SoC Ethernet project | [release](https://github.com/lhlizdabezt/Slide-DoAnHTN-Nhom17-DE10Standard/releases/latest) - [tags](https://github.com/lhlizdabezt/Slide-DoAnHTN-Nhom17-DE10Standard/tags) |
-| [aegisub-automation-pack](https://github.com/lhlizdabezt/aegisub-automation-pack) | Lua/MoonScript automation pack for subtitle typesetting workflows | [release](https://github.com/lhlizdabezt/aegisub-automation-pack/releases/latest) - [tags](https://github.com/lhlizdabezt/aegisub-automation-pack/tags) |
-| [my-slide](https://github.com/lhlizdabezt/my-slide) | React/Vite/TypeScript slide workspace for technical presentations | [release](https://github.com/lhlizdabezt/my-slide/releases/latest) - [tags](https://github.com/lhlizdabezt/my-slide/tags) |
-| [cloudflare-gateway-pihole-scripts](https://github.com/lhlizdabezt/cloudflare-gateway-pihole-scripts) | Forked DNS filtering script reference for network configuration learning | [release](https://github.com/lhlizdabezt/cloudflare-gateway-pihole-scripts/releases/latest) - [tags](https://github.com/lhlizdabezt/cloudflare-gateway-pihole-scripts/tags) |
-| [device_xiaomi_ginkgo-1](https://github.com/lhlizdabezt/device_xiaomi_ginkgo-1) | Forked Android device-tree reference kept for systems-reading context | [release](https://github.com/lhlizdabezt/device_xiaomi_ginkgo-1/releases/latest) - [tags](https://github.com/lhlizdabezt/device_xiaomi_ginkgo-1/tags) |
-| [open-slide](https://github.com/lhlizdabezt/open-slide) | Forked React/TypeScript slide-framework reference | [release](https://github.com/lhlizdabezt/open-slide/releases/latest) - [tags](https://github.com/lhlizdabezt/open-slide/tags) |
-| [lhlizdabezt](https://github.com/lhlizdabezt/lhlizdabezt) | Profile hub with contacts, reviewer guide, visuals, release notes and portfolio routing | [release](https://github.com/lhlizdabezt/lhlizdabezt/releases/latest) - [tags](https://github.com/lhlizdabezt/lhlizdabezt/tags) |
-
-## Review Standard
-
-This profile is written for HR screening and engineering review: each strong claim links to a repository, report, visual asset, release or bounded prototype note. Course projects are labelled as course projects, forked references are labelled as references, and visual assets are self-hosted where possible.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/lhlizdabezt/lhlizdabezt/main/assets/profile-footer.svg" alt="Footer banner for the engineering portfolio" />

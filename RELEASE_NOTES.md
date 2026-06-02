@@ -1,24 +1,17 @@
-# v2.1.4 - Profile Visual Fit and README Trim
+# v2.1.5 - README Section Cleanup
 
 ## Scope
 
-This release applies a focused profile cleanup requested after visual review of the GitHub profile assets and README structure.
+This release removes additional profile README sections requested after the previous trim pass.
 
 ## Changes
 
-- Shortened the profile hero label from `AI and Machine Learning` to `AI and ML` so the text fits inside its rounded chip.
-- Removed the bottom label chips from `assets/github-dashboard.svg`: `US English`, `Line-free labels`, `CV PDF linked`, and `Profile README complete`.
-- Removed these README sections and their tables/cards:
-  - `Evidence Tracks`
-  - `How To Review This Portfolio`
-  - `Current SoC Project Spotlight`
-  - `Current ECE Lab Spotlight`
-  - `June 2026 Reviewer Guide Sync`
-  - `FAQ`
+- Removed `Priority Repository Spotlight` and its table/card.
+- Removed `Supporting And Reference Repositories` and its table.
+- Removed `Review Standard` and its paragraph.
 
 ## Verification
 
-- Rendered the updated hero SVG and dashboard SVG locally.
-- Confirmed the shortened hero label no longer overflows the rounded chip.
-- Confirmed the dashboard no longer includes the removed bottom label chips.
-- Confirmed SVG text remains ASCII-safe.
+- Confirmed the removed README headings no longer appear locally.
+- Confirmed `git diff --check` passes.
+- Verified the pushed raw README content after publishing.
