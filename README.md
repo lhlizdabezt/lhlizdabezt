@@ -7,7 +7,8 @@
 <p align="center">
   <a href="https://github.com/lhlizdabezt?tab=repositories"><img src="https://img.shields.io/badge/Portfolio-21%20public%20repositories-38BDF8?style=for-the-badge&logo=github&logoColor=0f172a" alt="GitHub portfolio with 21 public repositories" /></a>
   <a href="https://www.linkedin.com/in/lhlizdabezt"><img src="https://img.shields.io/badge/LinkedIn-lhlizdabezt-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile for Luong Hai Long" /></a>
-  <a href="mailto:hotboylong12345@gmail.com"><img src="https://img.shields.io/badge/Email-hotboylong12345%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email hotboylong12345@gmail.com" /></a>
+  <a href="mailto:luonghailong.work@gmail.com"><img src="https://img.shields.io/badge/Work%20Email-luonghailong.work%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Work email luonghailong.work@gmail.com" /></a>
+  <a href="mailto:22207056@student.hcmus.edu.vn"><img src="https://img.shields.io/badge/Student%20Email-22207056%40student.hcmus.edu.vn-2563eb?style=for-the-badge" alt="Student email 22207056@student.hcmus.edu.vn" /></a>
   <a href="tel:+84988114708"><img src="https://img.shields.io/badge/Phone-%2B84%20988%20114%20708-0f766e?style=for-the-badge" alt="Phone +84 988 114 708" /></a>
 </p>
 
@@ -36,7 +37,8 @@ I am open to internships and junior engineering opportunities in computer vision
 
 | Channel | Link |
 |---|---|
-| Email | [hotboylong12345@gmail.com](mailto:hotboylong12345@gmail.com) |
+| Work email | [luonghailong.work@gmail.com](mailto:luonghailong.work@gmail.com) |
+| Student email | [22207056@student.hcmus.edu.vn](mailto:22207056@student.hcmus.edu.vn) |
 | Phone | [+84 988 114 708](tel:+84988114708) |
 | GitHub | [github.com/lhlizdabezt](https://github.com/lhlizdabezt) |
 | LinkedIn | [linkedin.com/in/lhlizdabezt](https://www.linkedin.com/in/lhlizdabezt) |
