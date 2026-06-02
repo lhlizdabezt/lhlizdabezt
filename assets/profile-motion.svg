@@ -1,56 +1,36 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="360" height="300" viewBox="0 0 360 300" role="img" aria-labelledby="title desc">
-  <title id="title">Animated networked AI systems card</title>
-  <desc id="desc">Self-hosted animated card for computer vision, TCP IP and device-side evidence in the profile README.</desc>
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#0f172a"/>
-      <stop offset="58%" stop-color="#112b49"/>
-      <stop offset="100%" stop-color="#0f766e"/>
-    </linearGradient>
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="2.6" result="blur"/>
-      <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-    <style>
-      @keyframes pulse { 0%,100% { opacity:.32; r:4; } 50% { opacity:1; r:7; } }
-      @keyframes dash { to { stroke-dashoffset:-90; } }
-      @keyframes float { 0%,100% { transform:translateY(0); } 50% { transform:translateY(-8px); } }
-      .label { font:700 18px 'Segoe UI', Arial, sans-serif; fill:#fff; }
-      .small { font:600 13px Consolas, monospace; fill:#a7f3d0; }
-      .footer { font:700 10px Consolas, monospace; fill:#a7f3d0; text-anchor:middle; letter-spacing:0; }
-      .tiny { font:600 11px Consolas, monospace; fill:#bfdbfe; }
-      .wire { fill:none; stroke:#22d3ee; stroke-width:3; stroke-linecap:round; stroke-dasharray:12 10; animation:dash 3.4s linear infinite; }
-    </style>
-  </defs>
-  <rect width="360" height="300" rx="24" fill="url(#bg)"/>
-  <rect x="28" y="30" width="304" height="82" rx="18" fill="rgba(255,255,255,.08)" stroke="rgba(255,255,255,.18)"/>
-  <text x="48" y="62" class="label">Networked AI Workflow</text>
-  <text x="48" y="88" class="small">Frame -&gt; YOLO/OCR -&gt; TCP/IP -&gt; Device</text>
-  <g style="animation:float 5.2s ease-in-out infinite">
-    <rect x="42" y="150" width="72" height="48" rx="12" fill="#1e293b" stroke="#38bdf8"/>
-    <text x="54" y="180" class="tiny">Vision</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="320" viewBox="0 0 900 320" role="img" aria-labelledby="title desc">
+  <title id="title">Networked AI systems motion card</title>
+  <desc id="desc">Animated SVG showing computer vision, machine learning, communications, FPGA and embedded systems as connected evidence tracks.</desc>
+  <style>
+    .bg { fill: #0f172a; }
+    .title { font: 800 30px Segoe UI, Arial, sans-serif; fill: #f8fafc; }
+    .label { font: 700 17px Segoe UI, Arial, sans-serif; fill: #e0f2fe; }
+    .small { font: 600 14px Segoe UI, Arial, sans-serif; fill: #bae6fd; }
+    .card { fill: #111827; stroke: #38bdf8; stroke-width: 2; }
+    .card2 { fill: #172554; stroke: #f59e0b; stroke-width: 2; }
+    .line { stroke: #93c5fd; stroke-width: 4; stroke-linecap: round; stroke-dasharray: 12 12; animation: dash 2.8s linear infinite; }
+    .pulse { animation: pulse 2.2s ease-in-out infinite; transform-origin: center; }
+    @keyframes dash { to { stroke-dashoffset: -96; } }
+    @keyframes pulse { 0%, 100% { opacity: .55; transform: scale(.96); } 50% { opacity: 1; transform: scale(1.04); } }
+  </style>
+  <rect class="bg" width="900" height="320" rx="28" />
+  <text x="48" y="58" class="title">Evidence-Backed Engineering Portfolio</text>
+  <text x="48" y="88" class="small">Computer Vision - AI/ML - Network Communications - FPGA/SoC - Embedded Systems</text>
+  <path d="M150 172 H750" class="line" />
+  <path d="M450 172 V252" class="line" />
+  <g>
+    <rect x="52" y="124" width="182" height="96" rx="18" class="card" />
+    <rect x="268" y="124" width="182" height="96" rx="18" class="card2" />
+    <rect x="484" y="124" width="182" height="96" rx="18" class="card" />
+    <rect x="700" y="124" width="148" height="96" rx="18" class="card2" />
+    <circle class="pulse" cx="143" cy="172" r="24" fill="#38bdf8" />
+    <circle class="pulse" cx="359" cy="172" r="24" fill="#f59e0b" />
+    <circle class="pulse" cx="575" cy="172" r="24" fill="#38bdf8" />
+    <circle class="pulse" cx="774" cy="172" r="24" fill="#f59e0b" />
   </g>
-  <g style="animation:float 5.7s ease-in-out infinite">
-    <rect x="146" y="140" width="72" height="68" rx="12" fill="#1e293b" stroke="#a7f3d0"/>
-    <text x="164" y="171" class="tiny">TCP</text>
-    <text x="158" y="190" class="tiny">Bridge</text>
-  </g>
-  <g style="animation:float 6.1s ease-in-out infinite">
-    <rect x="250" y="150" width="72" height="48" rx="12" fill="#1e293b" stroke="#fbbf24"/>
-    <text x="263" y="180" class="tiny">Device</text>
-  </g>
-  <path class="wire" d="M114 174 H146"/>
-  <path class="wire" d="M218 174 H250"/>
-  <g filter="url(#glow)" fill="#a7f3d0">
-    <circle cx="78" cy="232" r="4" style="animation:pulse 2s ease-in-out infinite"/>
-    <circle cx="132" cy="246" r="4" style="animation:pulse 2.4s ease-in-out infinite"/>
-    <circle cx="188" cy="232" r="4" style="animation:pulse 2.8s ease-in-out infinite"/>
-    <circle cx="244" cy="246" r="4" style="animation:pulse 2.2s ease-in-out infinite"/>
-    <circle cx="296" cy="232" r="4" style="animation:pulse 2.6s ease-in-out infinite"/>
-  </g>
-  <text x="180" y="264" class="footer">evidence - reproducible</text>
-  <text x="180" y="280" class="footer">review-ready</text>
+  <text x="143" y="244" text-anchor="middle" class="label">YOLO/OCR</text>
+  <text x="359" y="244" text-anchor="middle" class="label">PyTorch</text>
+  <text x="575" y="244" text-anchor="middle" class="label">TCP/BLE</text>
+  <text x="774" y="244" text-anchor="middle" class="label">FPGA</text>
+  <text x="450" y="292" text-anchor="middle" class="small">Release-backed repositories, visual assets, reports and bounded prototype notes.</text>
 </svg>
