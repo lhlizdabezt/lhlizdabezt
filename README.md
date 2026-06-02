@@ -62,13 +62,13 @@ I am open to internships and junior engineering opportunities in computer vision
 <table>
   <tr>
     <td width="42%">
-      <img src="https://raw.githubusercontent.com/lhlizdabezt/hcmus-auto-dkhp/v4.4.0/assets/portfolio-motion.svg" alt="HCMUS course registration userscript visual" width="100%" />
+      <img src="https://raw.githubusercontent.com/lhlizdabezt/NhapMonAI/v1.0.4/assets/portfolio-motion.svg" alt="Line-free NhapMonAI portfolio visual" width="100%" />
     </td>
     <td width="58%">
-      <h3><a href="https://github.com/lhlizdabezt/hcmus-auto-dkhp">HCMUS Course Registration Userscript</a></h3>
-      <p>Tampermonkey userscript for HCMUS course-registration support with scheduled reload, exact course-row matching, optional checkbox selection and a manual CAPTCHA boundary.</p>
-      <p>The repository is documented for engineering review with a configuration guide, usage checklist, troubleshooting table, FAQ, release notes, stable tags and a clear statement of scope: it supports the browser workflow but does not bypass CAPTCHA or guarantee registration success.</p>
-      <p><a href="https://github.com/lhlizdabezt/hcmus-auto-dkhp/releases/latest">Latest release</a> - <a href="https://github.com/lhlizdabezt/hcmus-auto-dkhp/tags">Tags</a> - <a href="https://github.com/lhlizdabezt/hcmus-auto-dkhp/blob/main/README.md">README</a></p>
+      <h3><a href="https://github.com/lhlizdabezt/NhapMonAI">Vietnamese ALPR with YOLO and OCR</a></h3>
+      <p>Computer vision portfolio project for Vietnamese license plate recognition with a YOLO/PyTorch detector, OCR/FastALPR path, Kaggle/IPYNB training trace, Python desktop inference and LAN PlateGate PC demo.</p>
+      <p>The repository is documented for HR and engineering review with a US English README, line-free visual assets, quantitative detector metrics, release notes, FAQ, step-by-step run instructions, Git LFS rules, stable tags and honest academic prototype boundaries.</p>
+      <p><a href="https://github.com/lhlizdabezt/NhapMonAI/releases/latest">Latest release</a> - <a href="https://github.com/lhlizdabezt/NhapMonAI/tags">Tags</a> - <a href="https://github.com/lhlizdabezt/NhapMonAI/blob/main/README.md">README</a></p>
     </td>
   </tr>
 </table>
@@ -80,7 +80,7 @@ I am open to internships and junior engineering opportunities in computer vision
     <td width="50%">
       <h3><a href="https://github.com/lhlizdabezt/NhapMonAI">Vietnamese ALPR with YOLO and OCR</a></h3>
       <p>Computer vision project using YOLO/PyTorch detection, OCR/FastALPR recognition, Kaggle/IPYNB training evidence, Python desktop inference and LAN demo scope.</p>
-      <p><img src="https://raw.githubusercontent.com/lhlizdabezt/NhapMonAI/v1.0.3/assets/alpr-pipeline-motion.gif" alt="NhapMonAI animated ALPR pipeline" width="100%" /></p>
+      <p><img src="https://raw.githubusercontent.com/lhlizdabezt/NhapMonAI/v1.0.4/assets/alpr-pipeline-motion.gif" alt="Line-free NhapMonAI animated ALPR evidence card" width="100%" /></p>
     </td>
     <td width="50%">
       <h3><a href="https://github.com/lhlizdabezt/DoAnHeThongNhung">SoC Ethernet Controller on DE10-Standard</a></h3>

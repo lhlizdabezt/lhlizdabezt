@@ -1,18 +1,17 @@
-# v2.0.6 - hcmus-auto-dkhp Priority Spotlight
+# v2.0.7 - NhapMonAI English Priority Spotlight
 
 ## Scope
 
-This profile release keeps the English HR and engineering portfolio readable while adding `hcmus-auto-dkhp` as the priority repository spotlight requested for the current portfolio pass.
+This profile release makes `NhapMonAI` the priority GitHub portfolio spotlight and aligns the profile README with the new English, line-free `v1.0.4` project release.
 
 ## Changes
 
-- Added a dedicated `Priority Repository Spotlight` section for `hcmus-auto-dkhp`.
-- Embedded the stable `v4.4.0` SVG asset from the repository release tag.
-- Added `hcmus-auto-dkhp` to the evidence-track table and repository index.
-- Updated Featured Portfolio GIF embeds to corrected English visual tags: `DoAnHeThongNhung` v1.0.5, `DienTuSo` v1.1.1 and `ThucHanhGTMT` v1.2.2.
-- Preserved all public contact channels: GitHub, LinkedIn, Facebook, Instagram, YouTube, TikTok, work email, student email and phone.
-- Kept the profile copy in English with restrained, evidence-first engineering language.
+- Replaced the previous priority spotlight with `NhapMonAI`.
+- Pointed the spotlight visual to the stable `NhapMonAI` `v1.0.4` self-hosted SVG asset.
+- Updated the featured `NhapMonAI` motion GIF embed from `v1.0.3` to `v1.0.4`.
+- Preserved the English contact block with GitHub, LinkedIn, Facebook, Instagram, YouTube, TikTok, work email, student email and phone.
+- Kept the profile copy evidence-first for HR screening and engineering review.
 
 ## Review Context
 
-The profile remains positioned for computer vision, AI/ML and network communications first, with FPGA/SoC, embedded systems and browser workflow tooling as supporting engineering depth.
+The profile remains positioned around computer vision, AI/ML and network communications first, with FPGA/SoC, embedded systems and browser workflow tooling as supporting engineering depth.
