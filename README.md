@@ -119,24 +119,6 @@ I am open to internships and junior engineering opportunities in computer vision
   <img src="https://img.shields.io/badge/MATLAB-DSP%20BER%20Wireless-f59e0b?style=for-the-badge" alt="MATLAB DSP BER Wireless" />
 </p>
 
-## Repository Index
-
-| Repository | Portfolio role | Links |
-|---|---|---|
-| [NhapMonAI](https://github.com/lhlizdabezt/NhapMonAI) | Computer vision, YOLO/OCR, PyTorch, Kaggle/IPYNB and Python desktop inference | [release](https://github.com/lhlizdabezt/NhapMonAI/releases/latest) - [tags](https://github.com/lhlizdabezt/NhapMonAI/tags) |
-| [hcmus-auto-dkhp](https://github.com/lhlizdabezt/hcmus-auto-dkhp) | Tampermonkey userscript, DOM inspection, exact course-row matching, manual CAPTCHA boundary and English usage guide | [release](https://github.com/lhlizdabezt/hcmus-auto-dkhp/releases/latest) - [tags](https://github.com/lhlizdabezt/hcmus-auto-dkhp/tags) |
-| [messenger-edge-tool](https://github.com/lhlizdabezt/messenger-edge-tool) | Python/Tkinter, Edge, Playwright and human-controlled AI drafting workflow | [release](https://github.com/lhlizdabezt/messenger-edge-tool/releases/latest) - [tags](https://github.com/lhlizdabezt/messenger-edge-tool/tags) |
-| [DoAnHeThongNhung](https://github.com/lhlizdabezt/DoAnHeThongNhung) | DE10-Standard Cyclone V SoC, TCP/Ethernet, HPS Linux server, HPS-to-FPGA bridge and HEX display | [release](https://github.com/lhlizdabezt/DoAnHeThongNhung/releases/latest) - [tags](https://github.com/lhlizdabezt/DoAnHeThongNhung/tags) |
-| [ThucHanhGTMT](https://github.com/lhlizdabezt/ThucHanhGTMT) | Silicon Labs BLE SoC, AHT20, I2C, UART/VCOM, Windows C/SQLite logging and reviewer-ready run instructions | [release](https://github.com/lhlizdabezt/ThucHanhGTMT/releases/latest) - [tags](https://github.com/lhlizdabezt/ThucHanhGTMT/tags) |
-| [TruyenThongSo](https://github.com/lhlizdabezt/TruyenThongSo) | Digital communications, AWGN, matched filters, BER, BASK/BPSK/BFSK/QPSK, companding and LDPC | [release](https://github.com/lhlizdabezt/TruyenThongSo/releases/latest) - [tags](https://github.com/lhlizdabezt/TruyenThongSo/tags) |
-| [TruyenThongKhongDay](https://github.com/lhlizdabezt/TruyenThongKhongDay) | Wireless communications, fading channels, equalizers, OFDM, MIMO and link budget | [release](https://github.com/lhlizdabezt/TruyenThongKhongDay/releases/latest) - [tags](https://github.com/lhlizdabezt/TruyenThongKhongDay/tags) |
-| [embedded-systems-fpga-review-labs](https://github.com/lhlizdabezt/embedded-systems-fpga-review-labs) | Quartus, Platform Designer, Verilog custom IP, Avalon-MM and Nios II C | [release](https://github.com/lhlizdabezt/embedded-systems-fpga-review-labs/releases/latest) - [tags](https://github.com/lhlizdabezt/embedded-systems-fpga-review-labs/tags) |
-| [DienTuSo](https://github.com/lhlizdabezt/DienTuSo) | Digital electronics traffic-light controller, JK flip-flops, CircuitJS simulation and Node.js logic verification | [release](https://github.com/lhlizdabezt/DienTuSo/releases/latest) - [tags](https://github.com/lhlizdabezt/DienTuSo/tags) |
-| [DoAnDienTuYSinh_STM32_MAX30100_LCD](https://github.com/lhlizdabezt/DoAnDienTuYSinh_STM32_MAX30100_LCD) | STM32, MAX30100/MAX30102, LCD1602, I2C/GPIO and biomedical electronics | [release](https://github.com/lhlizdabezt/DoAnDienTuYSinh_STM32_MAX30100_LCD/releases/latest) - [tags](https://github.com/lhlizdabezt/DoAnDienTuYSinh_STM32_MAX30100_LCD/tags) |
-| [ThucHanhDienTuTuongTu](https://github.com/lhlizdabezt/ThucHanhDienTuTuongTu) | LTspice analog labs, LM324, LM339, NE555, filters, rectifiers and LDO/DAC topics | [release](https://github.com/lhlizdabezt/ThucHanhDienTuTuongTu/releases/latest) - [tags](https://github.com/lhlizdabezt/ThucHanhDienTuTuongTu/tags) |
-| [PhuongPhapTinh-Matlab](https://github.com/lhlizdabezt/PhuongPhapTinh-Matlab) | MATLAB numerical methods, Cholesky methods, Newton interpolation, Euler ODE and GUI | [release](https://github.com/lhlizdabezt/PhuongPhapTinh-Matlab/releases/latest) - [tags](https://github.com/lhlizdabezt/PhuongPhapTinh-Matlab/tags) |
-| [HCMUS-DTVT-BaoCao-Templates](https://github.com/lhlizdabezt/HCMUS-DTVT-BaoCao-Templates) | Reusable ECE report templates, Typst guide and Word-to-Typst workflow notes | [release](https://github.com/lhlizdabezt/HCMUS-DTVT-BaoCao-Templates/releases/latest) - [tags](https://github.com/lhlizdabezt/HCMUS-DTVT-BaoCao-Templates/tags) |
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/lhlizdabezt/lhlizdabezt/main/assets/profile-footer.svg" alt="Footer banner for the engineering portfolio" />
 </p>
