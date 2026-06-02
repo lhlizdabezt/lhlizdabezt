@@ -1,4 +1,4 @@
-# v2.0.2 - Full Contact and English Portfolio Refresh
+# v2.0.3 - Contact Channel Verification
 
 ## Scope
 
