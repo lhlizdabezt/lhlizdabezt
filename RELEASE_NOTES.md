@@ -1,17 +1,17 @@
-# v2.1.5 - README Section Cleanup
+# v2.1.6 - SoC Ethernet Release Sync
 
 ## Scope
 
-This release removes additional profile README sections requested after the previous trim pass.
+This release keeps the profile README synced with the latest `DoAnHeThongNhung` reviewer release.
 
 ## Changes
 
-- Removed `Priority Repository Spotlight` and its table/card.
-- Removed `Supporting And Reference Repositories` and its table.
-- Removed `Review Standard` and its paragraph.
+- Updated the SoC Ethernet featured project GIF embed from `v1.0.6` to `v1.0.7`.
+- Kept all five social/contact links visible in the profile README.
+- Kept the profile README structure unchanged.
 
 ## Verification
 
-- Confirmed the removed README headings no longer appear locally.
+- Confirmed the profile README references the new `DoAnHeThongNhung` tag.
 - Confirmed `git diff --check` passes.
 - Verified the pushed raw README content after publishing.

@@ -75,7 +75,7 @@ I am open to internships and junior engineering opportunities in computer vision
     <td width="50%">
       <h3><a href="https://github.com/lhlizdabezt/DoAnHeThongNhung">SoC Ethernet Controller on DE10-Standard</a></h3>
       <p>Embedded Linux and FPGA/SoC project where PC or Android clients send TCP payloads to the Cyclone V HPS and then to FPGA-driven seven-segment displays.</p>
-      <p><img src="https://raw.githubusercontent.com/lhlizdabezt/DoAnHeThongNhung/v1.0.6/assets/soc-ethernet-flow.gif" alt="Line-free SoC Ethernet flow on DE10-Standard" width="100%" /></p>
+      <p><img src="https://raw.githubusercontent.com/lhlizdabezt/DoAnHeThongNhung/v1.0.7/assets/soc-ethernet-flow.gif" alt="Line-free SoC Ethernet flow on DE10-Standard" width="100%" /></p>
     </td>
   </tr>
   <tr>
