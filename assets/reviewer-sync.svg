@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 470" role="img" aria-labelledby="title desc">
+  <title id="title">June 2026 reviewer guide sync</title>
+  <desc id="desc">Nine refreshed repositories with English reviewer guides, releases, topics, and professional profile links.</desc>
+  <defs>
+    <style>
+      .bg { fill: #0B3D91; }
+      .panel { fill: #F8FAFC; opacity: 0.98; }
+      .card { fill: #FFFFFF; stroke: #CBD5E1; stroke-width: 1; }
+      .label { fill: #0B3D91; font: 700 18px Arial, Helvetica, sans-serif; letter-spacing: 0; }
+      .title { fill: #111827; font: 700 38px Arial, Helvetica, sans-serif; letter-spacing: 0; }
+      .body { fill: #334155; font: 500 20px Arial, Helvetica, sans-serif; letter-spacing: 0; }
+      .repo { fill: #111827; font: 700 17px Arial, Helvetica, sans-serif; letter-spacing: 0; }
+      .meta { fill: #475569; font: 500 14px Arial, Helvetica, sans-serif; letter-spacing: 0; }
+      .mark { fill: #FFFFFF; opacity: 0.16; animation: fade 5s ease-in-out infinite; }
+      .card { animation: lift 6s ease-in-out infinite; }
+      @keyframes fade { 0%, 100% { opacity: 0.12; } 50% { opacity: 0.24; } }
+      @keyframes lift { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-4px); } }
+    </style>
+  </defs>
+  <rect class="bg" x="0" y="0" width="1200" height="470"/>
+  <rect class="mark" x="950" y="45" width="105" height="105" rx="16"/>
+  <rect class="mark" x="1040" y="205" width="135" height="58" rx="12"/>
+  <rect class="panel" x="44" y="34" width="866" height="120" rx="10"/>
+  <text class="label" x="72" y="74">LHLIZDABEZT ENGINEERING PORTFOLIO</text>
+  <text class="title" x="72" y="118">June 2026 Reviewer Guide Sync</text>
+  <text class="body" x="72" y="144">English README guides, release notes, topics, and public reviewer cards.</text>
+
+  <g>
+    <rect class="card" x="44" y="186" width="340" height="70" rx="8"/>
+    <text class="repo" x="64" y="218">BTP Internship</text>
+    <text class="meta" x="64" y="241">QC, warranty service, documentation</text>
+  </g>
+  <g style="animation-delay:0.12s">
+    <rect class="card" x="430" y="186" width="340" height="70" rx="8"/>
+    <text class="repo" x="450" y="218">STM32 Biomedical</text>
+    <text class="meta" x="450" y="241">MAX30100, LCD1602, I2C</text>
+  </g>
+  <g style="animation-delay:0.24s">
+    <rect class="card" x="816" y="186" width="340" height="70" rx="8"/>
+    <text class="repo" x="836" y="218">HCMUS Templates</text>
+    <text class="meta" x="836" y="241">Typst and report formatting</text>
+  </g>
+  <g style="animation-delay:0.36s">
+    <rect class="card" x="44" y="276" width="340" height="70" rx="8"/>
+    <text class="repo" x="64" y="308">FPGA Review Labs</text>
+    <text class="meta" x="64" y="331">Verilog, Avalon-MM, Nios II</text>
+  </g>
+  <g style="animation-delay:0.48s">
+    <rect class="card" x="430" y="276" width="340" height="70" rx="8"/>
+    <text class="repo" x="450" y="308">Messenger Edge Tool</text>
+    <text class="meta" x="450" y="331">Python, Tkinter, Playwright</text>
+  </g>
+  <g style="animation-delay:0.60s">
+    <rect class="card" x="816" y="276" width="340" height="70" rx="8"/>
+    <text class="repo" x="836" y="308">MATLAB Numerical Methods</text>
+    <text class="meta" x="836" y="331">Cholesky, Newton, Euler</text>
+  </g>
+  <g style="animation-delay:0.72s">
+    <rect class="card" x="44" y="366" width="340" height="70" rx="8"/>
+    <text class="repo" x="64" y="398">DE10 SoC Slides</text>
+    <text class="meta" x="64" y="421">Typst, Touying, Ethernet deck</text>
+  </g>
+  <g style="animation-delay:0.84s">
+    <rect class="card" x="430" y="366" width="340" height="70" rx="8"/>
+    <text class="repo" x="450" y="398">Analog LTspice</text>
+    <text class="meta" x="450" y="421">LM324, LM339, NE555</text>
+  </g>
+  <g style="animation-delay:0.96s">
+    <rect class="card" x="816" y="366" width="340" height="70" rx="8"/>
+    <text class="repo" x="836" y="398">Wireless MATLAB</text>
+    <text class="meta" x="836" y="421">OFDM, MIMO, BER analysis</text>
+  </g>
+</svg>

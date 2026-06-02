@@ -96,6 +96,26 @@ I am open to internships and junior engineering opportunities in computer vision
   </tr>
 </table>
 
+## June 2026 Reviewer Guide Sync
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/lhlizdabezt/lhlizdabezt/main/assets/reviewer-sync.svg" alt="June 2026 reviewer guide sync across nine repositories" />
+</p>
+
+On June 2, 2026, these supporting repositories were refreshed with English README guides, release notes, professional GitHub descriptions, topic sets, stable release tags and repository-local reviewer cards. The public writing is scoped for HR screening, engineering review and academic portfolio verification.
+
+| Repository | Reviewer value | Latest release |
+|---|---|---|
+| [BCTT-ThucTap-BTPHoldings](https://github.com/lhlizdabezt/BCTT-ThucTap-BTPHoldings) | Internship report, QC observation, warranty-service context and technical documentation | [reviewer guide](https://github.com/lhlizdabezt/BCTT-ThucTap-BTPHoldings/releases/tag/reviewer-guide-2026-06-02) |
+| [DoAnDienTuYSinh_STM32_MAX30100_LCD](https://github.com/lhlizdabezt/DoAnDienTuYSinh_STM32_MAX30100_LCD) | STM32 biomedical electronics prototype with MAX30100/MAX30102, LCD1602, I2C and Proteus evidence | [reviewer guide](https://github.com/lhlizdabezt/DoAnDienTuYSinh_STM32_MAX30100_LCD/releases/tag/reviewer-guide-2026-06-02) |
+| [HCMUS-DTVT-BaoCao-Templates](https://github.com/lhlizdabezt/HCMUS-DTVT-BaoCao-Templates) | Reusable Electronics and Telecommunications report templates with Typst and Word-format guidance | [reviewer guide](https://github.com/lhlizdabezt/HCMUS-DTVT-BaoCao-Templates/releases/tag/reviewer-guide-2026-06-02) |
+| [embedded-systems-fpga-review-labs](https://github.com/lhlizdabezt/embedded-systems-fpga-review-labs) | Quartus, Platform Designer, Verilog custom IP, Avalon-MM and Nios II C lab evidence | [reviewer guide](https://github.com/lhlizdabezt/embedded-systems-fpga-review-labs/releases/tag/reviewer-guide-2026-06-02) |
+| [messenger-edge-tool](https://github.com/lhlizdabezt/messenger-edge-tool) | Python/Tkinter desktop tool with Microsoft Edge, Playwright and human-controlled draft support | [reviewer guide](https://github.com/lhlizdabezt/messenger-edge-tool/releases/tag/reviewer-guide-2026-06-02) |
+| [PhuongPhapTinh-Matlab](https://github.com/lhlizdabezt/PhuongPhapTinh-Matlab) | MATLAB numerical methods, Cholesky, Newton interpolation, Euler ODE solving and GUI evidence | [reviewer guide](https://github.com/lhlizdabezt/PhuongPhapTinh-Matlab/releases/tag/reviewer-guide-2026-06-02) |
+| [Slide-DoAnHTN-Nhom17-DE10Standard](https://github.com/lhlizdabezt/Slide-DoAnHTN-Nhom17-DE10Standard) | DE10-Standard SoC Ethernet technical deck with Typst/Touying slide assets | [reviewer guide](https://github.com/lhlizdabezt/Slide-DoAnHTN-Nhom17-DE10Standard/releases/tag/reviewer-guide-2026-06-02) |
+| [ThucHanhDienTuTuongTu](https://github.com/lhlizdabezt/ThucHanhDienTuTuongTu) | LTspice analog lab evidence for LM324, LM339, NE555, filters, rectifiers and converters | [reviewer guide](https://github.com/lhlizdabezt/ThucHanhDienTuTuongTu/releases/tag/reviewer-guide-2026-06-02) |
+| [TruyenThongKhongDay](https://github.com/lhlizdabezt/TruyenThongKhongDay) | Wireless communications MATLAB simulations for fading, OFDM, MIMO, link budget and BER analysis | [reviewer guide](https://github.com/lhlizdabezt/TruyenThongKhongDay/releases/tag/reviewer-guide-2026-06-02) |
+
 ## Priority Repository Spotlight
 
 <table>
