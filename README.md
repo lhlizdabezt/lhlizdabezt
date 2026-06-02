@@ -10,6 +10,7 @@
   <a href="mailto:luonghailong.work@gmail.com"><img src="https://img.shields.io/badge/Work%20Email-luonghailong.work%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Work email luonghailong.work@gmail.com" /></a>
   <a href="mailto:22207056@student.hcmus.edu.vn"><img src="https://img.shields.io/badge/Student%20Email-22207056%40student.hcmus.edu.vn-2563eb?style=for-the-badge" alt="Student email 22207056@student.hcmus.edu.vn" /></a>
   <a href="tel:+84988114708"><img src="https://img.shields.io/badge/Phone-%2B84%20988%20114%20708-0f766e?style=for-the-badge" alt="Phone +84 988 114 708" /></a>
+  <a href="resume/Luong_Hai_Long_CV.pdf"><img src="https://img.shields.io/badge/Resume-PDF%20CV-334155?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume PDF for Luong Hai Long" /></a>
 </p>
 
 <p align="center">
@@ -40,6 +41,7 @@ I am open to internships and junior engineering opportunities in computer vision
 | Work email | [luonghailong.work@gmail.com](mailto:luonghailong.work@gmail.com) |
 | Student email | [22207056@student.hcmus.edu.vn](mailto:22207056@student.hcmus.edu.vn) |
 | Phone | [+84 988 114 708](tel:+84988114708) |
+| Resume | [Luong Hai Long CV](resume/Luong_Hai_Long_CV.pdf) |
 | GitHub | [github.com/lhlizdabezt](https://github.com/lhlizdabezt) |
 | LinkedIn | [linkedin.com/in/lhlizdabezt](https://www.linkedin.com/in/lhlizdabezt) |
 | Facebook | [facebook.com/wageseadrake](https://www.facebook.com/wageseadrake) |
@@ -56,6 +58,27 @@ I am open to internships and junior engineering opportunities in computer vision
 | FPGA/SoC and embedded systems | Cyclone V, HPS/Linux, HPS-to-FPGA bridge, STM32, Silicon Labs BLE SoC, C/C++ and firmware documentation | [embedded-systems-fpga-review-labs](https://github.com/lhlizdabezt/embedded-systems-fpga-review-labs), [DoAnDienTuYSinh_STM32_MAX30100_LCD](https://github.com/lhlizdabezt/DoAnDienTuYSinh_STM32_MAX30100_LCD) |
 | Electronics and documentation | Digital logic, analog circuits, biomedical electronics, Typst reports, slide decks and release-backed assets | [DienTuSo](https://github.com/lhlizdabezt/DienTuSo), [ThucHanhDienTuTuongTu](https://github.com/lhlizdabezt/ThucHanhDienTuTuongTu), [HCMUS-DTVT-BaoCao-Templates](https://github.com/lhlizdabezt/HCMUS-DTVT-BaoCao-Templates) |
 | Browser automation and student tooling | Tampermonkey, DOM inspection, exact row matching, manual CAPTCHA boundary and release-backed usage documentation | [hcmus-auto-dkhp](https://github.com/lhlizdabezt/hcmus-auto-dkhp), [messenger-edge-tool](https://github.com/lhlizdabezt/messenger-edge-tool) |
+
+## Current ECE Lab Spotlight
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/lhlizdabezt/ThucHanhGTMT">BLE Data Acquisition and Computer Interfacing</a></h3>
+      <p>Silicon Labs BLE SoC lab evidence for AHT20 sensor acquisition, I2C, LCD output, BLE advertising payloads, UART/VCOM transport and Windows C/SQLite logging.</p>
+      <p>The repository now includes a US English reviewer map, step-by-step inspection guide, FAQ, release-backed visual assets, full profile/contact links and explicit academic lab boundaries.</p>
+      <p><img src="https://raw.githubusercontent.com/lhlizdabezt/ThucHanhGTMT/v1.2.3/assets/gtmt-data-flow.gif" alt="AHT20 BLE UART SQLite data acquisition visual" width="100%" /></p>
+      <p><a href="https://github.com/lhlizdabezt/ThucHanhGTMT/releases/latest">Latest release</a> - <a href="https://github.com/lhlizdabezt/ThucHanhGTMT/blob/main/README.md">README</a> - <a href="https://github.com/lhlizdabezt/ThucHanhGTMT/tags">Tags</a></p>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/lhlizdabezt/DienTuSo">Digital Electronics Traffic-Light Controller</a></h3>
+      <p>Sequential digital-logic project for a roundabout traffic-light controller with mod-12 state sequencing, JK flip-flop framing, CircuitJS/Falstad simulation and Node.js logic verification.</p>
+      <p>The repository now includes a US English reviewer map, reproducible run commands, FAQ, release-backed visual assets, full profile/contact links and explicit coursework prototype boundaries.</p>
+      <p><img src="https://raw.githubusercontent.com/lhlizdabezt/DienTuSo/v1.1.2/assets/roundabout-motion.gif" alt="Digital electronics roundabout traffic-light visual" width="100%" /></p>
+      <p><a href="https://github.com/lhlizdabezt/DienTuSo/releases/latest">Latest release</a> - <a href="https://github.com/lhlizdabezt/DienTuSo/blob/main/README.md">README</a> - <a href="https://github.com/lhlizdabezt/DienTuSo/tags">Tags</a></p>
+    </td>
+  </tr>
+</table>
 
 ## Priority Repository Spotlight
 
@@ -92,12 +115,12 @@ I am open to internships and junior engineering opportunities in computer vision
     <td width="50%">
       <h3><a href="https://github.com/lhlizdabezt/ThucHanhGTMT">BLE Data Acquisition Lab</a></h3>
       <p>Computer interfacing lab connecting a Silicon Labs BLE SoC, AHT20 sensor data, I2C, UART/VCOM transport and a Windows C/SQLite logger.</p>
-      <p><img src="https://raw.githubusercontent.com/lhlizdabezt/ThucHanhGTMT/v1.2.2/assets/gtmt-data-flow.gif" alt="AHT20 BLE UART SQLite data flow" width="100%" /></p>
+      <p><img src="https://raw.githubusercontent.com/lhlizdabezt/ThucHanhGTMT/v1.2.3/assets/gtmt-data-flow.gif" alt="AHT20 BLE UART SQLite data flow" width="100%" /></p>
     </td>
     <td width="50%">
       <h3><a href="https://github.com/lhlizdabezt/DienTuSo">Digital Electronics Traffic-Light Controller</a></h3>
       <p>Roundabout traffic-light controller using sequential digital logic, a mod-12 counter, JK flip-flops, Falstad/CircuitJS simulation and Node.js logic checks.</p>
-      <p><img src="https://raw.githubusercontent.com/lhlizdabezt/DienTuSo/v1.1.1/assets/roundabout-motion.gif" alt="Digital electronics roundabout traffic-light motion" width="100%" /></p>
+      <p><img src="https://raw.githubusercontent.com/lhlizdabezt/DienTuSo/v1.1.2/assets/roundabout-motion.gif" alt="Digital electronics roundabout traffic-light motion" width="100%" /></p>
     </td>
   </tr>
   <tr>
@@ -137,11 +160,11 @@ I am open to internships and junior engineering opportunities in computer vision
 | [hcmus-auto-dkhp](https://github.com/lhlizdabezt/hcmus-auto-dkhp) | Tampermonkey userscript, DOM inspection, exact course-row matching, manual CAPTCHA boundary and English usage guide | [release](https://github.com/lhlizdabezt/hcmus-auto-dkhp/releases/latest) - [tags](https://github.com/lhlizdabezt/hcmus-auto-dkhp/tags) |
 | [messenger-edge-tool](https://github.com/lhlizdabezt/messenger-edge-tool) | Python/Tkinter, Edge, Playwright and human-controlled AI drafting workflow | [release](https://github.com/lhlizdabezt/messenger-edge-tool/releases/latest) - [tags](https://github.com/lhlizdabezt/messenger-edge-tool/tags) |
 | [DoAnHeThongNhung](https://github.com/lhlizdabezt/DoAnHeThongNhung) | DE10-Standard Cyclone V SoC, TCP/Ethernet, HPS/Linux and HPS-to-FPGA bridge | [release](https://github.com/lhlizdabezt/DoAnHeThongNhung/releases/latest) - [tags](https://github.com/lhlizdabezt/DoAnHeThongNhung/tags) |
-| [ThucHanhGTMT](https://github.com/lhlizdabezt/ThucHanhGTMT) | Silicon Labs BLE SoC, AHT20, I2C, UART/VCOM and Windows C/SQLite logging | [release](https://github.com/lhlizdabezt/ThucHanhGTMT/releases/latest) - [tags](https://github.com/lhlizdabezt/ThucHanhGTMT/tags) |
+| [ThucHanhGTMT](https://github.com/lhlizdabezt/ThucHanhGTMT) | Silicon Labs BLE SoC, AHT20, I2C, UART/VCOM, Windows C/SQLite logging and reviewer-ready run instructions | [release](https://github.com/lhlizdabezt/ThucHanhGTMT/releases/latest) - [tags](https://github.com/lhlizdabezt/ThucHanhGTMT/tags) |
 | [TruyenThongSo](https://github.com/lhlizdabezt/TruyenThongSo) | Digital communications, AWGN, matched filters, BER, BASK/BPSK/BFSK/QPSK, companding and LDPC | [release](https://github.com/lhlizdabezt/TruyenThongSo/releases/latest) - [tags](https://github.com/lhlizdabezt/TruyenThongSo/tags) |
 | [TruyenThongKhongDay](https://github.com/lhlizdabezt/TruyenThongKhongDay) | Wireless communications, fading channels, equalizers, OFDM, MIMO and link budget | [release](https://github.com/lhlizdabezt/TruyenThongKhongDay/releases/latest) - [tags](https://github.com/lhlizdabezt/TruyenThongKhongDay/tags) |
 | [embedded-systems-fpga-review-labs](https://github.com/lhlizdabezt/embedded-systems-fpga-review-labs) | Quartus, Platform Designer, Verilog custom IP, Avalon-MM and Nios II C | [release](https://github.com/lhlizdabezt/embedded-systems-fpga-review-labs/releases/latest) - [tags](https://github.com/lhlizdabezt/embedded-systems-fpga-review-labs/tags) |
-| [DienTuSo](https://github.com/lhlizdabezt/DienTuSo) | Digital electronics traffic-light controller, JK flip-flops and simulation evidence | [release](https://github.com/lhlizdabezt/DienTuSo/releases/latest) - [tags](https://github.com/lhlizdabezt/DienTuSo/tags) |
+| [DienTuSo](https://github.com/lhlizdabezt/DienTuSo) | Digital electronics traffic-light controller, JK flip-flops, CircuitJS simulation and Node.js logic verification | [release](https://github.com/lhlizdabezt/DienTuSo/releases/latest) - [tags](https://github.com/lhlizdabezt/DienTuSo/tags) |
 | [DoAnDienTuYSinh_STM32_MAX30100_LCD](https://github.com/lhlizdabezt/DoAnDienTuYSinh_STM32_MAX30100_LCD) | STM32, MAX30100/MAX30102, LCD1602, I2C/GPIO and biomedical electronics | [release](https://github.com/lhlizdabezt/DoAnDienTuYSinh_STM32_MAX30100_LCD/releases/latest) - [tags](https://github.com/lhlizdabezt/DoAnDienTuYSinh_STM32_MAX30100_LCD/tags) |
 | [ThucHanhDienTuTuongTu](https://github.com/lhlizdabezt/ThucHanhDienTuTuongTu) | LTspice analog labs, LM324, LM339, NE555, filters, rectifiers and LDO/DAC topics | [release](https://github.com/lhlizdabezt/ThucHanhDienTuTuongTu/releases/latest) - [tags](https://github.com/lhlizdabezt/ThucHanhDienTuTuongTu/tags) |
 | [PhuongPhapTinh-Matlab](https://github.com/lhlizdabezt/PhuongPhapTinh-Matlab) | MATLAB numerical methods, Cholesky methods, Newton interpolation, Euler ODE and GUI | [release](https://github.com/lhlizdabezt/PhuongPhapTinh-Matlab/releases/latest) - [tags](https://github.com/lhlizdabezt/PhuongPhapTinh-Matlab/tags) |

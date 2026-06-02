@@ -1,11 +1,10 @@
-* text=auto
-
 *.md text eol=lf
+*.gitattributes text eol=lf
+*.py text eol=lf
 *.svg text eol=lf
+*.pdf binary
 *.gif binary
 *.png binary
 *.jpg binary
 *.jpeg binary
-*.pdf binary
-*.pptx binary
-*.docx binary
+*.zip binary

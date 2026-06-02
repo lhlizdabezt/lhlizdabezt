@@ -54,10 +54,4 @@
       <text x="362" y="20" class="tiny">TCP/IP</text>
     </g>
   </g>
-  <g fill="#e0f2fe" class="soft">
-    <circle cx="318" cy="92" r="5" />
-    <circle cx="842" cy="98" r="5" />
-    <circle cx="782" cy="224" r="5" />
-    <circle cx="338" cy="226" r="5" />
-  </g>
 </svg>
