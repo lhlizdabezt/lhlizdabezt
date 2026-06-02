@@ -28,7 +28,6 @@
       .mono { font: 700 13px Consolas, Monaco, monospace; fill: #e2e8f0; letter-spacing: 0; }
       .tile { fill: #0b1220; stroke: #1e293b; stroke-width: 1; }
       .panel { fill: rgba(2,6,23,.76); stroke: rgba(148,163,184,.30); stroke-width: 1; }
-      .chip { fill: rgba(255,255,255,.10); stroke: rgba(255,255,255,.18); stroke-width: 1; }
       .motion { animation: fade 3s ease-in-out infinite; }
       @keyframes fade { 0%, 100% { opacity: .72; } 50% { opacity: 1; } }
     </style>
@@ -90,14 +89,4 @@
     <rect x="122" y="102" width="126" height="12" rx="6" fill="#22d3ee"/>
   </g>
 
-  <g transform="translate(54 242)">
-    <rect class="chip" x="0" y="0" width="112" height="24" rx="12"/>
-    <text x="16" y="16" class="smallText">US English</text>
-    <rect class="chip" x="126" y="0" width="142" height="24" rx="12"/>
-    <text x="142" y="16" class="smallText">Line-free labels</text>
-    <rect class="chip" x="282" y="0" width="122" height="24" rx="12"/>
-    <text x="298" y="16" class="smallText">CV PDF linked</text>
-    <rect class="chip" x="420" y="0" width="184" height="24" rx="12"/>
-    <text x="436" y="16" class="smallText">Profile README complete</text>
-  </g>
 </svg>

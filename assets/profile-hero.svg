@@ -29,7 +29,7 @@
   </g>
   <g class="soft">
     <rect x="872" y="56" width="244" height="52" rx="16" class="chip" />
-    <text x="898" y="89" class="small">AI and Machine Learning</text>
+    <text x="994" y="89" text-anchor="middle" class="small">AI and ML</text>
   </g>
   <g class="soft">
     <rect x="92" y="196" width="188" height="52" rx="16" class="chip" />

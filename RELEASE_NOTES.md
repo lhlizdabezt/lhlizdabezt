@@ -1,27 +1,24 @@
-# v2.1.3 - Profile Metadata and Reviewer Status
+# v2.1.4 - Profile Visual Fit and README Trim
 
 ## Scope
 
-This profile release refreshes the GitHub profile README, account-facing bio/status, visual dashboard and reviewer routing for HR screening, engineering review and academic portfolio verification.
+This release applies a focused profile cleanup requested after visual review of the GitHub profile assets and README structure.
 
 ## Changes
 
-- Added a compact current-status table covering profile focus, hiring status, repository status, review language and visual policy.
-- Added a self-hosted GitHub portfolio dashboard SVG with verified June 2, 2026 metrics: 21 public repositories, 21 latest releases, 21 topic-ready repositories and five README social/contact links.
-- Added a short step-by-step reviewer path for HR and engineering reviewers.
-- Added a supporting and reference repository index so all public portfolio repositories are represented with release and tag links.
-- Added a compact FAQ for role fit, first repositories to inspect, production-scope boundaries and release/tag navigation.
-- Tightened profile SVG text to US English, ASCII-safe wording and line-free label design.
-- Updated GitHub account bio and status through GitHub CLI while preserving all README contact channels.
+- Shortened the profile hero label from `AI and Machine Learning` to `AI and ML` so the text fits inside its rounded chip.
+- Removed the bottom label chips from `assets/github-dashboard.svg`: `US English`, `Line-free labels`, `CV PDF linked`, and `Profile README complete`.
+- Removed these README sections and their tables/cards:
+  - `Evidence Tracks`
+  - `How To Review This Portfolio`
+  - `Current SoC Project Spotlight`
+  - `Current ECE Lab Spotlight`
+  - `June 2026 Reviewer Guide Sync`
+  - `FAQ`
 
 ## Verification
 
-- Confirmed `gh auth status` for `lhlizdabezt`.
-- Confirmed the profile repo is public, on `main`, and has the current metadata and latest release state.
-- Confirmed all 21 public repositories have topics and latest releases.
-- Confirmed local SVG files contain no non-ASCII characters.
-- Rendered the updated dashboard and profile visuals locally before publishing.
-
-## Review Context
-
-The profile remains evidence-first: computer vision, AI/ML and network communications are the lead signals, with FPGA/SoC, embedded systems, electronics labs, reports and tooling as supporting engineering depth. Course projects and prototypes remain bounded instead of described as production systems.
+- Rendered the updated hero SVG and dashboard SVG locally.
+- Confirmed the shortened hero label no longer overflows the rounded chip.
+- Confirmed the dashboard no longer includes the removed bottom label chips.
+- Confirmed SVG text remains ASCII-safe.

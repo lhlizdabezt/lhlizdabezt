@@ -63,83 +63,6 @@ I am open to internships and junior engineering opportunities in computer vision
 | YouTube | [youtube.com/@lhlizdabezt](https://www.youtube.com/@lhlizdabezt) |
 | TikTok | [tiktok.com/@wageseadrake](https://www.tiktok.com/@wageseadrake) |
 
-## Evidence Tracks
-
-| Track | Evidence | Representative repositories |
-|---|---|---|
-| Computer vision and AI/ML | YOLO/PyTorch, OCR/FastALPR, OpenCV, Kaggle/IPYNB, desktop inference and validation notes | [NhapMonAI](https://github.com/lhlizdabezt/NhapMonAI), [messenger-edge-tool](https://github.com/lhlizdabezt/messenger-edge-tool) |
-| Network and communications | TCP/IP, Ethernet, BLE, UART/VCOM, MATLAB BER, AWGN, OFDM, MIMO and signal-processing reports | [DoAnHeThongNhung](https://github.com/lhlizdabezt/DoAnHeThongNhung), [ThucHanhGTMT](https://github.com/lhlizdabezt/ThucHanhGTMT), [TruyenThongSo](https://github.com/lhlizdabezt/TruyenThongSo), [TruyenThongKhongDay](https://github.com/lhlizdabezt/TruyenThongKhongDay) |
-| FPGA/SoC and embedded systems | Cyclone V, HPS/Linux, HPS-to-FPGA bridge, STM32, Silicon Labs BLE SoC, C/C++ and firmware documentation | [embedded-systems-fpga-review-labs](https://github.com/lhlizdabezt/embedded-systems-fpga-review-labs), [DoAnDienTuYSinh_STM32_MAX30100_LCD](https://github.com/lhlizdabezt/DoAnDienTuYSinh_STM32_MAX30100_LCD) |
-| Electronics and documentation | Digital logic, analog circuits, biomedical electronics, Typst reports, slide decks and release-backed assets | [DienTuSo](https://github.com/lhlizdabezt/DienTuSo), [ThucHanhDienTuTuongTu](https://github.com/lhlizdabezt/ThucHanhDienTuTuongTu), [HCMUS-DTVT-BaoCao-Templates](https://github.com/lhlizdabezt/HCMUS-DTVT-BaoCao-Templates) |
-| Browser automation and student tooling | Tampermonkey, DOM inspection, exact row matching, manual CAPTCHA boundary and release-backed usage documentation | [hcmus-auto-dkhp](https://github.com/lhlizdabezt/hcmus-auto-dkhp), [messenger-edge-tool](https://github.com/lhlizdabezt/messenger-edge-tool) |
-
-## How To Review This Portfolio
-
-| Step | Open | What to check |
-|---|---|---|
-| 1 | [NhapMonAI](https://github.com/lhlizdabezt/NhapMonAI) | Computer vision, YOLO/OCR, Kaggle/IPYNB evidence, desktop demo scope and validation notes |
-| 2 | [DoAnHeThongNhung](https://github.com/lhlizdabezt/DoAnHeThongNhung) | TCP/Ethernet path, Cyclone V HPS, FPGA register output and bounded LAN prototype notes |
-| 3 | [ThucHanhGTMT](https://github.com/lhlizdabezt/ThucHanhGTMT) and [DienTuSo](https://github.com/lhlizdabezt/DienTuSo) | BLE/UART data acquisition, C/SQLite logging, digital-logic simulation and release-backed visuals |
-| 4 | Communications repositories | MATLAB BER, AWGN, OFDM, MIMO and report-backed signal-processing work |
-| 5 | Contact table and resume | Internship fit, current contact channels and PDF CV |
-
-## Current SoC Project Spotlight
-
-<table>
-  <tr>
-    <td width="42%">
-      <img src="https://raw.githubusercontent.com/lhlizdabezt/DoAnHeThongNhung/v1.0.6/assets/soc-ethernet-flow.gif" alt="Line-free SoC Ethernet flow on DE10-Standard" width="100%" />
-    </td>
-    <td width="58%">
-      <h3><a href="https://github.com/lhlizdabezt/DoAnHeThongNhung">SoC Ethernet Controller on Intel DE10-Standard</a></h3>
-      <p>Embedded systems project on the DE10-Standard Cyclone V SoC board. PC or Android clients send short payloads over TCP port 5000 to an HPS Linux server, which writes through the Lightweight HPS-to-FPGA bridge into PIO registers for HEX0 through HEX5.</p>
-      <p>The repository now includes a full US English reviewer guide, address map, run instructions, FAQ, professional contact links, line-free SVG/GIF assets, stable topics and release-backed source packaging.</p>
-      <p><a href="https://github.com/lhlizdabezt/DoAnHeThongNhung/releases/latest">Latest release</a> - <a href="https://github.com/lhlizdabezt/DoAnHeThongNhung/blob/main/README.md">README</a> - <a href="https://github.com/lhlizdabezt/DoAnHeThongNhung/tags">Tags</a></p>
-    </td>
-  </tr>
-</table>
-
-## Current ECE Lab Spotlight
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3><a href="https://github.com/lhlizdabezt/ThucHanhGTMT">BLE Data Acquisition and Computer Interfacing</a></h3>
-      <p>Silicon Labs BLE SoC lab evidence for AHT20 sensor acquisition, I2C, LCD output, BLE advertising payloads, UART/VCOM transport and Windows C/SQLite logging.</p>
-      <p>The repository now includes a US English reviewer map, step-by-step inspection guide, FAQ, release-backed visual assets, full profile/contact links and explicit academic lab boundaries.</p>
-      <p><img src="https://raw.githubusercontent.com/lhlizdabezt/ThucHanhGTMT/v1.2.3/assets/gtmt-data-flow.gif" alt="AHT20 BLE UART SQLite data acquisition visual" width="100%" /></p>
-      <p><a href="https://github.com/lhlizdabezt/ThucHanhGTMT/releases/latest">Latest release</a> - <a href="https://github.com/lhlizdabezt/ThucHanhGTMT/blob/main/README.md">README</a> - <a href="https://github.com/lhlizdabezt/ThucHanhGTMT/tags">Tags</a></p>
-    </td>
-    <td width="50%">
-      <h3><a href="https://github.com/lhlizdabezt/DienTuSo">Digital Electronics Traffic-Light Controller</a></h3>
-      <p>Sequential digital-logic project for a roundabout traffic-light controller with mod-12 state sequencing, JK flip-flop framing, CircuitJS/Falstad simulation and Node.js logic verification.</p>
-      <p>The repository now includes a US English reviewer map, reproducible run commands, FAQ, release-backed visual assets, full profile/contact links and explicit coursework prototype boundaries.</p>
-      <p><img src="https://raw.githubusercontent.com/lhlizdabezt/DienTuSo/v1.1.2/assets/roundabout-motion.gif" alt="Digital electronics roundabout traffic-light visual" width="100%" /></p>
-      <p><a href="https://github.com/lhlizdabezt/DienTuSo/releases/latest">Latest release</a> - <a href="https://github.com/lhlizdabezt/DienTuSo/blob/main/README.md">README</a> - <a href="https://github.com/lhlizdabezt/DienTuSo/tags">Tags</a></p>
-    </td>
-  </tr>
-</table>
-
-## June 2026 Reviewer Guide Sync
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/lhlizdabezt/lhlizdabezt/main/assets/reviewer-sync.svg" alt="June 2026 reviewer guide sync across nine repositories" />
-</p>
-
-On June 2, 2026, these supporting repositories were refreshed with English README guides, release notes, professional GitHub descriptions, topic sets, stable release tags and repository-local reviewer cards. The public writing is scoped for HR screening, engineering review and academic portfolio verification.
-
-| Repository | Reviewer value | Latest release |
-|---|---|---|
-| [BCTT-ThucTap-BTPHoldings](https://github.com/lhlizdabezt/BCTT-ThucTap-BTPHoldings) | Internship report, QC observation, warranty-service context and technical documentation | [reviewer guide](https://github.com/lhlizdabezt/BCTT-ThucTap-BTPHoldings/releases/tag/reviewer-guide-2026-06-02) |
-| [DoAnDienTuYSinh_STM32_MAX30100_LCD](https://github.com/lhlizdabezt/DoAnDienTuYSinh_STM32_MAX30100_LCD) | STM32 biomedical electronics prototype with MAX30100/MAX30102, LCD1602, I2C and Proteus evidence | [reviewer guide](https://github.com/lhlizdabezt/DoAnDienTuYSinh_STM32_MAX30100_LCD/releases/tag/reviewer-guide-2026-06-02) |
-| [HCMUS-DTVT-BaoCao-Templates](https://github.com/lhlizdabezt/HCMUS-DTVT-BaoCao-Templates) | Reusable Electronics and Telecommunications report templates with Typst and Word-format guidance | [reviewer guide](https://github.com/lhlizdabezt/HCMUS-DTVT-BaoCao-Templates/releases/tag/reviewer-guide-2026-06-02) |
-| [embedded-systems-fpga-review-labs](https://github.com/lhlizdabezt/embedded-systems-fpga-review-labs) | Quartus, Platform Designer, Verilog custom IP, Avalon-MM and Nios II C lab evidence | [reviewer guide](https://github.com/lhlizdabezt/embedded-systems-fpga-review-labs/releases/tag/reviewer-guide-2026-06-02) |
-| [messenger-edge-tool](https://github.com/lhlizdabezt/messenger-edge-tool) | Python/Tkinter desktop tool with Microsoft Edge, Playwright and human-controlled draft support | [reviewer guide](https://github.com/lhlizdabezt/messenger-edge-tool/releases/tag/reviewer-guide-2026-06-02) |
-| [PhuongPhapTinh-Matlab](https://github.com/lhlizdabezt/PhuongPhapTinh-Matlab) | MATLAB numerical methods, Cholesky, Newton interpolation, Euler ODE solving and GUI evidence | [reviewer guide](https://github.com/lhlizdabezt/PhuongPhapTinh-Matlab/releases/tag/reviewer-guide-2026-06-02) |
-| [Slide-DoAnHTN-Nhom17-DE10Standard](https://github.com/lhlizdabezt/Slide-DoAnHTN-Nhom17-DE10Standard) | DE10-Standard SoC Ethernet technical deck with Typst/Touying slide assets | [reviewer guide](https://github.com/lhlizdabezt/Slide-DoAnHTN-Nhom17-DE10Standard/releases/tag/reviewer-guide-2026-06-02) |
-| [ThucHanhDienTuTuongTu](https://github.com/lhlizdabezt/ThucHanhDienTuTuongTu) | LTspice analog lab evidence for LM324, LM339, NE555, filters, rectifiers and converters | [reviewer guide](https://github.com/lhlizdabezt/ThucHanhDienTuTuongTu/releases/tag/reviewer-guide-2026-06-02) |
-| [TruyenThongKhongDay](https://github.com/lhlizdabezt/TruyenThongKhongDay) | Wireless communications MATLAB simulations for fading, OFDM, MIMO, link budget and BER analysis | [reviewer guide](https://github.com/lhlizdabezt/TruyenThongKhongDay/releases/tag/reviewer-guide-2026-06-02) |
-
 ## Priority Repository Spotlight
 
 <table>
@@ -150,7 +73,7 @@ On June 2, 2026, these supporting repositories were refreshed with English READM
     <td width="58%">
       <h3><a href="https://github.com/lhlizdabezt/NhapMonAI">Vietnamese ALPR with YOLO and OCR</a></h3>
       <p>Computer vision portfolio project for Vietnamese license plate recognition with a YOLO/PyTorch detector, OCR/FastALPR path, Kaggle/IPYNB training trace, Python desktop inference and LAN PlateGate PC demo.</p>
-      <p>The repository is documented for HR and engineering review with a US English README, line-free visual assets, quantitative detector metrics, release notes, FAQ, step-by-step run instructions, Git LFS rules, stable tags and honest academic prototype boundaries.</p>
+      <p>The repository is documented for HR and engineering review with a US English README, line-free visual assets, quantitative detector metrics, release notes, step-by-step run instructions, Git LFS rules, stable tags and honest academic prototype boundaries.</p>
       <p><a href="https://github.com/lhlizdabezt/NhapMonAI/releases/latest">Latest release</a> - <a href="https://github.com/lhlizdabezt/NhapMonAI/tags">Tags</a> - <a href="https://github.com/lhlizdabezt/NhapMonAI/blob/main/README.md">README</a></p>
     </td>
   </tr>
@@ -242,16 +165,6 @@ On June 2, 2026, these supporting repositories were refreshed with English READM
 | [device_xiaomi_ginkgo-1](https://github.com/lhlizdabezt/device_xiaomi_ginkgo-1) | Forked Android device-tree reference kept for systems-reading context | [release](https://github.com/lhlizdabezt/device_xiaomi_ginkgo-1/releases/latest) - [tags](https://github.com/lhlizdabezt/device_xiaomi_ginkgo-1/tags) |
 | [open-slide](https://github.com/lhlizdabezt/open-slide) | Forked React/TypeScript slide-framework reference | [release](https://github.com/lhlizdabezt/open-slide/releases/latest) - [tags](https://github.com/lhlizdabezt/open-slide/tags) |
 | [lhlizdabezt](https://github.com/lhlizdabezt/lhlizdabezt) | Profile hub with contacts, reviewer guide, visuals, release notes and portfolio routing | [release](https://github.com/lhlizdabezt/lhlizdabezt/releases/latest) - [tags](https://github.com/lhlizdabezt/lhlizdabezt/tags) |
-
-## FAQ
-
-| Question | Answer |
-|---|---|
-| What roles fit this profile? | Computer vision intern, AI/ML intern, network or telecommunications intern, embedded computer vision intern, firmware intern, FPGA/SoC intern and platform validation intern. |
-| Which repository should an HR reviewer open first? | Start with [NhapMonAI](https://github.com/lhlizdabezt/NhapMonAI), then check the contact table, resume and repository index. |
-| Which repository should an engineering reviewer open first? | Start with [NhapMonAI](https://github.com/lhlizdabezt/NhapMonAI) for CV/ML evidence or [DoAnHeThongNhung](https://github.com/lhlizdabezt/DoAnHeThongNhung) for embedded FPGA/SoC evidence. |
-| Are these production systems? | No. The strongest repositories are academic, lab, internship or prototype artifacts with explicit scope boundaries and reviewer notes. |
-| Where are the release assets and tags? | Each index row links to the latest release and tag list; profile release notes summarize profile-level changes. |
 
 ## Review Standard
 
