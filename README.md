@@ -55,6 +55,23 @@ I am open to internships and junior engineering opportunities in computer vision
 | Network and communications | TCP/IP, Ethernet, BLE, UART/VCOM, MATLAB BER, AWGN, OFDM, MIMO and signal-processing reports | [DoAnHeThongNhung](https://github.com/lhlizdabezt/DoAnHeThongNhung), [ThucHanhGTMT](https://github.com/lhlizdabezt/ThucHanhGTMT), [TruyenThongSo](https://github.com/lhlizdabezt/TruyenThongSo), [TruyenThongKhongDay](https://github.com/lhlizdabezt/TruyenThongKhongDay) |
 | FPGA/SoC and embedded systems | Cyclone V, HPS/Linux, HPS-to-FPGA bridge, STM32, Silicon Labs BLE SoC, C/C++ and firmware documentation | [embedded-systems-fpga-review-labs](https://github.com/lhlizdabezt/embedded-systems-fpga-review-labs), [DoAnDienTuYSinh_STM32_MAX30100_LCD](https://github.com/lhlizdabezt/DoAnDienTuYSinh_STM32_MAX30100_LCD) |
 | Electronics and documentation | Digital logic, analog circuits, biomedical electronics, Typst reports, slide decks and release-backed assets | [DienTuSo](https://github.com/lhlizdabezt/DienTuSo), [ThucHanhDienTuTuongTu](https://github.com/lhlizdabezt/ThucHanhDienTuTuongTu), [HCMUS-DTVT-BaoCao-Templates](https://github.com/lhlizdabezt/HCMUS-DTVT-BaoCao-Templates) |
+| Browser automation and student tooling | Tampermonkey, DOM inspection, exact row matching, manual CAPTCHA boundary and release-backed usage documentation | [hcmus-auto-dkhp](https://github.com/lhlizdabezt/hcmus-auto-dkhp), [messenger-edge-tool](https://github.com/lhlizdabezt/messenger-edge-tool) |
+
+## Priority Repository Spotlight
+
+<table>
+  <tr>
+    <td width="42%">
+      <img src="https://raw.githubusercontent.com/lhlizdabezt/hcmus-auto-dkhp/v4.4.0/assets/portfolio-motion.svg" alt="HCMUS course registration userscript visual" width="100%" />
+    </td>
+    <td width="58%">
+      <h3><a href="https://github.com/lhlizdabezt/hcmus-auto-dkhp">HCMUS Course Registration Userscript</a></h3>
+      <p>Tampermonkey userscript for HCMUS course-registration support with scheduled reload, exact course-row matching, optional checkbox selection and a manual CAPTCHA boundary.</p>
+      <p>The repository is documented for engineering review with a configuration guide, usage checklist, troubleshooting table, FAQ, release notes, stable tags and a clear statement of scope: it supports the browser workflow but does not bypass CAPTCHA or guarantee registration success.</p>
+      <p><a href="https://github.com/lhlizdabezt/hcmus-auto-dkhp/releases/latest">Latest release</a> - <a href="https://github.com/lhlizdabezt/hcmus-auto-dkhp/tags">Tags</a> - <a href="https://github.com/lhlizdabezt/hcmus-auto-dkhp/blob/main/README.md">README</a></p>
+    </td>
+  </tr>
+</table>
 
 ## Featured Portfolio Repositories
 
@@ -68,19 +85,19 @@ I am open to internships and junior engineering opportunities in computer vision
     <td width="50%">
       <h3><a href="https://github.com/lhlizdabezt/DoAnHeThongNhung">SoC Ethernet Controller on DE10-Standard</a></h3>
       <p>Embedded Linux and FPGA/SoC project where PC or Android clients send TCP payloads to the Cyclone V HPS and then to FPGA-driven seven-segment displays.</p>
-      <p><img src="https://raw.githubusercontent.com/lhlizdabezt/DoAnHeThongNhung/v1.0.4/assets/soc-ethernet-flow.gif" alt="SoC Ethernet flow on DE10-Standard" width="100%" /></p>
+      <p><img src="https://raw.githubusercontent.com/lhlizdabezt/DoAnHeThongNhung/v1.0.5/assets/soc-ethernet-flow.gif" alt="SoC Ethernet flow on DE10-Standard" width="100%" /></p>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <h3><a href="https://github.com/lhlizdabezt/ThucHanhGTMT">BLE Data Acquisition Lab</a></h3>
       <p>Computer interfacing lab connecting a Silicon Labs BLE SoC, AHT20 sensor data, I2C, UART/VCOM transport and a Windows C/SQLite logger.</p>
-      <p><img src="https://raw.githubusercontent.com/lhlizdabezt/ThucHanhGTMT/v1.2.1/assets/gtmt-data-flow.gif" alt="AHT20 BLE UART SQLite data flow" width="100%" /></p>
+      <p><img src="https://raw.githubusercontent.com/lhlizdabezt/ThucHanhGTMT/v1.2.2/assets/gtmt-data-flow.gif" alt="AHT20 BLE UART SQLite data flow" width="100%" /></p>
     </td>
     <td width="50%">
       <h3><a href="https://github.com/lhlizdabezt/DienTuSo">Digital Electronics Traffic-Light Controller</a></h3>
       <p>Roundabout traffic-light controller using sequential digital logic, a mod-12 counter, JK flip-flops, Falstad/CircuitJS simulation and Node.js logic checks.</p>
-      <p><img src="https://raw.githubusercontent.com/lhlizdabezt/DienTuSo/v1.1.0/assets/roundabout-motion.gif" alt="Digital electronics roundabout traffic-light motion" width="100%" /></p>
+      <p><img src="https://raw.githubusercontent.com/lhlizdabezt/DienTuSo/v1.1.1/assets/roundabout-motion.gif" alt="Digital electronics roundabout traffic-light motion" width="100%" /></p>
     </td>
   </tr>
   <tr>
@@ -117,6 +134,7 @@ I am open to internships and junior engineering opportunities in computer vision
 | Repository | Portfolio role | Links |
 |---|---|---|
 | [NhapMonAI](https://github.com/lhlizdabezt/NhapMonAI) | Computer vision, YOLO/OCR, PyTorch, Kaggle/IPYNB and Python desktop inference | [release](https://github.com/lhlizdabezt/NhapMonAI/releases/latest) - [tags](https://github.com/lhlizdabezt/NhapMonAI/tags) |
+| [hcmus-auto-dkhp](https://github.com/lhlizdabezt/hcmus-auto-dkhp) | Tampermonkey userscript, DOM inspection, exact course-row matching, manual CAPTCHA boundary and English usage guide | [release](https://github.com/lhlizdabezt/hcmus-auto-dkhp/releases/latest) - [tags](https://github.com/lhlizdabezt/hcmus-auto-dkhp/tags) |
 | [messenger-edge-tool](https://github.com/lhlizdabezt/messenger-edge-tool) | Python/Tkinter, Edge, Playwright and human-controlled AI drafting workflow | [release](https://github.com/lhlizdabezt/messenger-edge-tool/releases/latest) - [tags](https://github.com/lhlizdabezt/messenger-edge-tool/tags) |
 | [DoAnHeThongNhung](https://github.com/lhlizdabezt/DoAnHeThongNhung) | DE10-Standard Cyclone V SoC, TCP/Ethernet, HPS/Linux and HPS-to-FPGA bridge | [release](https://github.com/lhlizdabezt/DoAnHeThongNhung/releases/latest) - [tags](https://github.com/lhlizdabezt/DoAnHeThongNhung/tags) |
 | [ThucHanhGTMT](https://github.com/lhlizdabezt/ThucHanhGTMT) | Silicon Labs BLE SoC, AHT20, I2C, UART/VCOM and Windows C/SQLite logging | [release](https://github.com/lhlizdabezt/ThucHanhGTMT/releases/latest) - [tags](https://github.com/lhlizdabezt/ThucHanhGTMT/tags) |

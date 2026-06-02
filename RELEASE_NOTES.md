@@ -1,17 +1,18 @@
-# v2.0.5 - TruyenThongSo Spotlight and Line-Free SVG Pass
+# v2.0.6 - hcmus-auto-dkhp Priority Spotlight
 
 ## Scope
 
-This profile release keeps the English HR and engineering portfolio readable while featuring the Digital Communications MATLAB repository more clearly.
+This profile release keeps the English HR and engineering portfolio readable while adding `hcmus-auto-dkhp` as the priority repository spotlight requested for the current portfolio pass.
 
 ## Changes
 
-- Added `TruyenThongSo` to the visible Featured Portfolio Repositories table with a stable `v1.2.0` SVG asset link.
-- Added a communications companion card for `TruyenThongKhongDay` using the self-hosted `assets/network-communications.svg` visual.
-- Rebuilt `assets/profile-hero.svg`, `assets/network-communications.svg` and `assets/github-dashboard.svg` so the profile SVG set has no `<path>`, `<line>` or `<polyline>` elements.
-- Preserved English ASCII-safe SVG text and restrained, evidence-first profile copy.
-- Kept public contact channels visible: GitHub, LinkedIn, Facebook, Instagram, YouTube, TikTok, work email, student email and phone.
+- Added a dedicated `Priority Repository Spotlight` section for `hcmus-auto-dkhp`.
+- Embedded the stable `v4.4.0` SVG asset from the repository release tag.
+- Added `hcmus-auto-dkhp` to the evidence-track table and repository index.
+- Updated Featured Portfolio GIF embeds to corrected English visual tags: `DoAnHeThongNhung` v1.0.5, `DienTuSo` v1.1.1 and `ThucHanhGTMT` v1.2.2.
+- Preserved all public contact channels: GitHub, LinkedIn, Facebook, Instagram, YouTube, TikTok, work email, student email and phone.
+- Kept the profile copy in English with restrained, evidence-first engineering language.
 
 ## Review Context
 
-The profile remains positioned for computer vision, AI/ML and network communications first, with FPGA/SoC and embedded systems as supporting engineering depth.
+The profile remains positioned for computer vision, AI/ML and network communications first, with FPGA/SoC, embedded systems and browser workflow tooling as supporting engineering depth.
