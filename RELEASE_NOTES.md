@@ -1,3 +1,20 @@
+# v1.9.1 - NhapMonAI v1.0.3 spotlight refresh
+
+## Nội dung chính
+
+- Cập nhật profile README để `NhapMonAI` trỏ tới bản phát hành `v1.0.3`.
+- Thay spotlight AI/OCR bằng GIF pipeline tự host từ repo `NhapMonAI` theo tag release ổn định.
+- Làm rõ tín hiệu reviewer: YOLO/PyTorch, OCR/FastALPR, Kaggle/IPYNB, app Python, PlateGate PC, mAP50 `0.99450`, dữ liệu Drive, báo cáo Typst và release assets.
+- Giữ toàn bộ chữ Markdown bằng tiếng Việt; SVG trong profile vẫn ASCII-safe theo nguyên tắc tránh lỗi dấu.
+
+## Kiểm tra
+
+- README profile không có ký tự replacement U+FFFD.
+- Link GIF `NhapMonAI` theo tag `v1.0.3` đã được kiểm tra HTTP 200.
+- Metadata `NhapMonAI` đã đồng bộ description, homepage, latest release và topics bằng GitHub CLI.
+
+---
+
 # v1.9.0 - Chuẩn hóa tiếng Việt và GIF motion tiếng Việt
 
 ## Nội dung chính

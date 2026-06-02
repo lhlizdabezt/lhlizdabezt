@@ -51,7 +51,7 @@ trọng_tâm:
 
 | Kho mã | Minh chứng nhanh | Vì sao đáng xem |
 |---|---|---|
-| [NhapMonAI](https://github.com/lhlizdabezt/NhapMonAI) | YOLO, OCR/FastALPR, sổ tay Kaggle, ứng dụng Python, demo cổng PC, bản phát hành `v1.0.2` | Minh chứng chính về thị giác máy tính: nhận diện biển số xe Việt Nam, có chỉ số kiểm định, liên kết dữ liệu, báo cáo và tài sản chuyển động |
+| [NhapMonAI](https://github.com/lhlizdabezt/NhapMonAI) | YOLO/PyTorch, OCR/FastALPR, Kaggle/IPYNB, ứng dụng Python, demo cổng PC, bản phát hành `v1.0.3` | Minh chứng chính về thị giác máy tính: nhận diện biển số xe Việt Nam, có mAP50 `0.99450` trên tập kiểm định, liên kết dữ liệu, báo cáo và tài sản chuyển động |
 | [messenger-edge-tool](https://github.com/lhlizdabezt/messenger-edge-tool) | Python, Tkinter, Edge, Playwright, đọc ngữ cảnh, soạn nháp AI, bản phát hành `v1.1.0` | Công cụ máy tính có kiểm soát người dùng, phù hợp để xem cách tôi đóng gói công cụ Python và quy trình AI chạy cục bộ |
 | [DoAnHeThongNhung](https://github.com/lhlizdabezt/DoAnHeThongNhung) | DE10-Standard, Cyclone V, HPS/Linux, TCP/Ethernet, HPS-FPGA bridge | Bằng chứng mạng máy tính + SoC: PC/Android gửi lệnh TCP, HPS xử lý, FPGA hiển thị HEX |
 | [ThucHanhGTMT](https://github.com/lhlizdabezt/ThucHanhGTMT) | Silicon Labs BLE SoC, AHT20, UART/VCOM, bộ ghi SQLite, bản phát hành `v1.2.1` | Cho thấy năng lực giao tiếp máy tính, cảm biến, BLE, ghi log và đóng gói minh chứng có thể thẩm định |
@@ -67,8 +67,8 @@ trọng_tâm:
   <tr>
     <td width="50%" valign="top">
       <h3>🤖 Nhận diện biển số xe Việt Nam</h3>
-      <p>Đồ án AI/OCR dùng YOLO, OCR/FastALPR, ứng dụng máy tính Python, sổ tay Kaggle và demo cổng PC trong mạng LAN.</p>
-      <p><img src="https://raw.githubusercontent.com/lhlizdabezt/lhlizdabezt/main/assets/ai-ocr-spotlight.svg" alt="Thẻ visual AI OCR cho NhapMonAI" width="100%" /></p>
+      <p>Đồ án AI/OCR dùng YOLO/PyTorch, OCR/FastALPR, ứng dụng máy tính Python, sổ tay Kaggle, release assets và demo cổng PC trong mạng LAN.</p>
+      <p><img src="https://raw.githubusercontent.com/lhlizdabezt/NhapMonAI/v1.0.3/assets/alpr-pipeline-motion.gif" alt="GIF pipeline nhận diện biển số xe Việt Nam của NhapMonAI" width="100%" /></p>
     </td>
     <td width="50%" valign="top">
       <h3>📶 Mạng máy tính và truyền thông</h3>
@@ -134,7 +134,7 @@ trọng_tâm:
 
 | Kho mã | Mô tả ngắn | Bản phát hành, thẻ phiên bản, chủ đề |
 |---|---|---|
-| [NhapMonAI](https://github.com/lhlizdabezt/NhapMonAI) | Nhận diện biển số xe Việt Nam bằng YOLO, OCR/FastALPR, ứng dụng Python, sổ tay Kaggle, dữ liệu Drive và báo cáo Typst | [bản phát hành](https://github.com/lhlizdabezt/NhapMonAI/releases/latest) · [thẻ phiên bản](https://github.com/lhlizdabezt/NhapMonAI/tags) · `computer-vision`, `ocr`, `yolo`, `kaggle` |
+| [NhapMonAI](https://github.com/lhlizdabezt/NhapMonAI) | Nhận diện biển số xe Việt Nam bằng YOLO/PyTorch và OCR/FastALPR, có ứng dụng Python, PlateGate PC, Kaggle/IPYNB, dữ liệu Drive, báo cáo Typst và GIF motion | [bản phát hành](https://github.com/lhlizdabezt/NhapMonAI/releases/latest) · [thẻ phiên bản](https://github.com/lhlizdabezt/NhapMonAI/tags) · `computer-vision`, `machine-learning`, `ocr`, `yolo` |
 | [messenger-edge-tool](https://github.com/lhlizdabezt/messenger-edge-tool) | Công cụ máy tính Python/Tkinter dùng Edge và Playwright để đọc ngữ cảnh, soạn nháp AI và tự động hóa có kiểm soát | [bản phát hành](https://github.com/lhlizdabezt/messenger-edge-tool/releases/latest) · [thẻ phiên bản](https://github.com/lhlizdabezt/messenger-edge-tool/tags) · `python`, `playwright`, `desktop-tool` |
 | [DoAnHeThongNhung](https://github.com/lhlizdabezt/DoAnHeThongNhung) | Đồ án DE10-Standard Cyclone V SoC: HPS/Linux, TCP/Ethernet, HPS-FPGA bridge, PC/Android client, LED HEX | [bản phát hành](https://github.com/lhlizdabezt/DoAnHeThongNhung/releases/latest) · [thẻ phiên bản](https://github.com/lhlizdabezt/DoAnHeThongNhung/tags) · `fpga`, `soc-fpga`, `hps`, `tcp-ip` |
 | [ThucHanhGTMT](https://github.com/lhlizdabezt/ThucHanhGTMT) | Lab giao tiếp máy tính: AHT20, Silicon Labs BLE SoC, LCD, UART/VCOM, bộ ghi SQLite và GIF luồng dữ liệu | [bản phát hành](https://github.com/lhlizdabezt/ThucHanhGTMT/releases/latest) · [thẻ phiên bản](https://github.com/lhlizdabezt/ThucHanhGTMT/tags) · `ble`, `uart`, `sqlite`, `i2c` |
