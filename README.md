@@ -100,7 +100,7 @@ I am open to internships and junior engineering opportunities in computer vision
     <td width="50%">
       <h3><a href="https://github.com/lhlizdabezt/ThucHanhTruyenThongKhongDay">Wireless Communications Practice</a></h3>
       <p>MATLAB practice repository with 23 scripts, lecture and exam PDFs, fading-channel BER, OFDM, MIMO SVD, equalizers and diversity review evidence.</p>
-      <p><img src="https://raw.githubusercontent.com/lhlizdabezt/ThucHanhTruyenThongKhongDay/v1.0.0/assets/portfolio-motion.svg" alt="Line-free wireless communications practice portfolio visual" width="100%" /></p>
+      <p><img src="https://raw.githubusercontent.com/lhlizdabezt/ThucHanhTruyenThongKhongDay/v1.0.1/assets/portfolio-motion.svg" alt="Line-free wireless communications practice portfolio visual" width="100%" /></p>
     </td>
   </tr>
 </table>
