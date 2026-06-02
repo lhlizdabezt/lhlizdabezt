@@ -7,6 +7,7 @@
 <p align="center">
   <a href="https://github.com/lhlizdabezt?tab=repositories"><img src="https://img.shields.io/badge/Portfolio-21%20public%20repositories-38BDF8?style=for-the-badge&logo=github&logoColor=0f172a" alt="GitHub portfolio with 21 public repositories" /></a>
   <a href="https://www.linkedin.com/in/lhlizdabezt"><img src="https://img.shields.io/badge/LinkedIn-lhlizdabezt-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile for Luong Hai Long" /></a>
+  <a href="https://www.tiktok.com/@wageseadrake"><img src="https://img.shields.io/badge/TikTok-wageseadrake-111827?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok profile for Luong Hai Long" /></a>
   <img src="https://img.shields.io/badge/Focus-CV%20AI%20ML%20Networks-0f766e?style=for-the-badge" alt="Computer vision, AI, machine learning and network communications focus" />
   <img src="https://komarev.com/ghpvc/?username=lhlizdabezt&label=Profile%20views&color=2563eb&style=for-the-badge" alt="GitHub profile views" />
 </p>
@@ -15,6 +16,7 @@
   <a href="https://www.linkedin.com/in/lhlizdabezt"><img src="https://img.shields.io/badge/LinkedIn-Professional%20profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn professional profile" /></a>
   <a href="https://github.com/lhlizdabezt"><img src="https://img.shields.io/badge/GitHub-lhlizdabezt-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub handle lhlizdabezt" /></a>
   <a href="https://www.youtube.com/@lhlizdabezt"><img src="https://img.shields.io/badge/YouTube-lhlizdabezt-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube channel" /></a>
+  <a href="https://www.tiktok.com/@wageseadrake"><img src="https://img.shields.io/badge/TikTok-wageseadrake-111827?style=flat-square&logo=tiktok&logoColor=white" alt="TikTok profile" /></a>
 </p>
 
 <p align="center">

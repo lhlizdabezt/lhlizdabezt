@@ -1,3 +1,20 @@
+# v2.0.1 - TikTok Social Link Update
+
+## Main updates
+
+- Added the TikTok profile link to the GitHub profile README social badge area.
+- Aligned the README social row with the GitHub account-level social links.
+- Kept the wording restrained and portfolio-facing, with TikTok presented as a secondary social media channel rather than a technical credential.
+
+## Quality checks
+
+- Verified the GitHub account social links through GitHub CLI.
+- Verified the README update locally before committing and pushing.
+
+## Scope
+
+This patch updates the public social-media layer of the GitHub profile. It does not change repository technical positioning, project descriptions or portfolio evidence.
+
 # v2.0.0 - Full English Portfolio Refresh
 
 ## Main updates
