@@ -83,6 +83,18 @@ I am open to internships and junior engineering opportunities in computer vision
       <p><img src="https://raw.githubusercontent.com/lhlizdabezt/DienTuSo/v1.1.0/assets/roundabout-motion.gif" alt="Digital electronics roundabout traffic-light motion" width="100%" /></p>
     </td>
   </tr>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/lhlizdabezt/TruyenThongSo">Digital Communications MATLAB Coursework</a></h3>
+      <p>Telecommunications coursework covering AWGN, matched filters, BER simulation, BASK/BPSK/BFSK/QPSK, companding and LDPC decoding with report-backed evidence.</p>
+      <p><img src="https://raw.githubusercontent.com/lhlizdabezt/TruyenThongSo/v1.2.0/assets/portfolio-motion.svg" alt="Line-free TruyenThongSo digital communications portfolio visual" width="100%" /></p>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/lhlizdabezt/TruyenThongKhongDay">Wireless Communications MATLAB Coursework</a></h3>
+      <p>Wireless communications evidence for fading channels, equalizers, OFDM, MIMO, link budget, BER analysis and communications-engineering report practice.</p>
+      <p><img src="https://raw.githubusercontent.com/lhlizdabezt/lhlizdabezt/main/assets/network-communications.svg" alt="Line-free network and communications portfolio visual" width="100%" /></p>
+    </td>
+  </tr>
 </table>
 
 ## Technical Stack
@@ -108,7 +120,7 @@ I am open to internships and junior engineering opportunities in computer vision
 | [messenger-edge-tool](https://github.com/lhlizdabezt/messenger-edge-tool) | Python/Tkinter, Edge, Playwright and human-controlled AI drafting workflow | [release](https://github.com/lhlizdabezt/messenger-edge-tool/releases/latest) - [tags](https://github.com/lhlizdabezt/messenger-edge-tool/tags) |
 | [DoAnHeThongNhung](https://github.com/lhlizdabezt/DoAnHeThongNhung) | DE10-Standard Cyclone V SoC, TCP/Ethernet, HPS/Linux and HPS-to-FPGA bridge | [release](https://github.com/lhlizdabezt/DoAnHeThongNhung/releases/latest) - [tags](https://github.com/lhlizdabezt/DoAnHeThongNhung/tags) |
 | [ThucHanhGTMT](https://github.com/lhlizdabezt/ThucHanhGTMT) | Silicon Labs BLE SoC, AHT20, I2C, UART/VCOM and Windows C/SQLite logging | [release](https://github.com/lhlizdabezt/ThucHanhGTMT/releases/latest) - [tags](https://github.com/lhlizdabezt/ThucHanhGTMT/tags) |
-| [TruyenThongSo](https://github.com/lhlizdabezt/TruyenThongSo) | Digital communications, AWGN, matched filters, BER, modulation and coding | [release](https://github.com/lhlizdabezt/TruyenThongSo/releases/latest) - [tags](https://github.com/lhlizdabezt/TruyenThongSo/tags) |
+| [TruyenThongSo](https://github.com/lhlizdabezt/TruyenThongSo) | Digital communications, AWGN, matched filters, BER, BASK/BPSK/BFSK/QPSK, companding and LDPC | [release](https://github.com/lhlizdabezt/TruyenThongSo/releases/latest) - [tags](https://github.com/lhlizdabezt/TruyenThongSo/tags) |
 | [TruyenThongKhongDay](https://github.com/lhlizdabezt/TruyenThongKhongDay) | Wireless communications, fading channels, equalizers, OFDM, MIMO and link budget | [release](https://github.com/lhlizdabezt/TruyenThongKhongDay/releases/latest) - [tags](https://github.com/lhlizdabezt/TruyenThongKhongDay/tags) |
 | [embedded-systems-fpga-review-labs](https://github.com/lhlizdabezt/embedded-systems-fpga-review-labs) | Quartus, Platform Designer, Verilog custom IP, Avalon-MM and Nios II C | [release](https://github.com/lhlizdabezt/embedded-systems-fpga-review-labs/releases/latest) - [tags](https://github.com/lhlizdabezt/embedded-systems-fpga-review-labs/tags) |
 | [DienTuSo](https://github.com/lhlizdabezt/DienTuSo) | Digital electronics traffic-light controller, JK flip-flops and simulation evidence | [release](https://github.com/lhlizdabezt/DienTuSo/releases/latest) - [tags](https://github.com/lhlizdabezt/DienTuSo/tags) |

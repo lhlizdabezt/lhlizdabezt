@@ -1,53 +1,48 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1100" height="330" viewBox="0 0 1100 330" role="img" aria-labelledby="title desc">
   <title id="title">Network and communications portfolio card</title>
-  <desc id="desc">ASCII safe portfolio card for TCP IP, BLE, UART, digital communications and wireless communications evidence.</desc>
+  <desc id="desc">ASCII-safe line-free portfolio card for TCP IP, BLE, UART, digital communications and wireless communications evidence.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#0f172a"/>
-      <stop offset="0.48" stop-color="#075985"/>
-      <stop offset="1" stop-color="#0f766e"/>
-    </linearGradient>
-    <linearGradient id="pulse" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#38bdf8"/>
-      <stop offset="0.5" stop-color="#a7f3d0"/>
-      <stop offset="1" stop-color="#fbbf24"/>
+      <stop offset="0%" stop-color="#0f172a" />
+      <stop offset="50%" stop-color="#075985" />
+      <stop offset="100%" stop-color="#0f766e" />
     </linearGradient>
     <style>
-      @keyframes glow { 0%,100% { opacity: .52; } 50% { opacity: 1; } }
-      .title { font: 800 34px 'Segoe UI', Arial, sans-serif; fill: #f8fafc; }
-      .subtitle { font: 650 22px 'Segoe UI', Arial, sans-serif; fill: #dbeafe; }
-      .nodeText { font: 800 17px 'Segoe UI', Arial, sans-serif; fill: #0f172a; text-anchor: middle; }
-      .caption { font: 600 18px 'Segoe UI', Arial, sans-serif; fill: #e2e8f0; }
-      .wire { fill: none; stroke: url(#pulse); stroke-width: 5; stroke-linecap: round; }
-      .node { animation: glow 2.8s ease-in-out infinite; }
+      .title { font: 800 34px Segoe UI, Arial, sans-serif; fill: #f8fafc; letter-spacing: 0; }
+      .subtitle { font: 650 22px Segoe UI, Arial, sans-serif; fill: #dbeafe; letter-spacing: 0; }
+      .nodeText { font: 800 17px Segoe UI, Arial, sans-serif; fill: #0f172a; text-anchor: middle; letter-spacing: 0; }
+      .caption { font: 600 18px Segoe UI, Arial, sans-serif; fill: #e2e8f0; letter-spacing: 0; }
+      .node { animation: glow 2.8s ease-in-out infinite; transform-origin: center; }
+      .panel { fill: rgba(255,255,255,.08); stroke: rgba(255,255,255,.20); stroke-width: 1.2; }
+      @keyframes glow { 0%, 100% { opacity: .76; transform: scale(.985); } 50% { opacity: 1; transform: scale(1.025); } }
     </style>
   </defs>
-  <rect width="1100" height="330" rx="26" fill="url(#bg)"/>
-  <rect x="38" y="38" width="1024" height="254" rx="22" fill="#ffffff" opacity="0.08"/>
+  <rect width="1100" height="330" rx="26" fill="url(#bg)" />
+  <rect x="38" y="38" width="1024" height="254" rx="22" class="panel" />
   <text x="70" y="94" class="title">Network + Communications Evidence</text>
   <text x="70" y="134" class="subtitle">TCP/IP, BLE, UART/VCOM, DSP, BER, OFDM, MIMO</text>
-  <path class="wire" d="M118 210 C230 156 318 254 430 206 C545 156 644 260 760 204 C866 154 944 222 1000 178"/>
   <g font-family="Segoe UI, Arial, sans-serif">
     <g class="node">
-      <circle cx="150" cy="210" r="54" fill="#e0f2fe"/>
+      <circle cx="150" cy="210" r="54" fill="#e0f2fe" />
       <text x="150" y="205" class="nodeText">TCP/IP</text>
       <text x="150" y="228" class="nodeText">SoC</text>
     </g>
     <g class="node">
-      <circle cx="410" cy="205" r="54" fill="#dcfce7"/>
+      <circle cx="410" cy="210" r="54" fill="#dcfce7" />
       <text x="410" y="205" class="nodeText">BLE</text>
       <text x="410" y="228" class="nodeText">UART</text>
     </g>
     <g class="node">
-      <circle cx="670" cy="205" r="54" fill="#fef9c3"/>
+      <circle cx="670" cy="210" r="54" fill="#fef9c3" />
       <text x="670" y="205" class="nodeText">DSP</text>
       <text x="670" y="228" class="nodeText">BER</text>
     </g>
     <g class="node">
-      <circle cx="930" cy="205" r="54" fill="#fee2e2"/>
+      <circle cx="930" cy="210" r="54" fill="#fee2e2" />
       <text x="930" y="205" class="nodeText">OFDM</text>
       <text x="930" y="228" class="nodeText">MIMO</text>
     </g>
   </g>
-  <text x="70" y="286" class="caption">Repositories: DoAnHeThongNhung, ThucHanhGTMT, TruyenThongSo, TruyenThongKhongDay.</text>
+  <rect x="70" y="268" width="890" height="28" rx="14" fill="rgba(15,23,42,.56)" />
+  <text x="515" y="288" text-anchor="middle" class="caption">Repositories: DoAnHeThongNhung, ThucHanhGTMT, TruyenThongSo, TruyenThongKhongDay.</text>
 </svg>

@@ -1,17 +1,17 @@
-# v2.0.4 - Motion Visual Line Safety
+# v2.0.5 - TruyenThongSo Spotlight and Line-Free SVG Pass
 
 ## Scope
 
-This profile release keeps the English HR and engineering portfolio readable while removing dash-line motion from GitHub-facing SVG assets.
+This profile release keeps the English HR and engineering portfolio readable while featuring the Digital Communications MATLAB repository more clearly.
 
 ## Changes
 
-- Cleaned `assets/network-communications.svg` so SVG motion no longer uses moving dashed or dotted line effects.
-- Cleaned `assets/profile-hero.svg` so SVG motion no longer uses moving dashed or dotted line effects.
-- Cleaned `assets/profile-motion.svg` so SVG motion no longer uses moving dashed or dotted line effects.
-- Preserved ASCII-safe English SVG text and existing non-line motion such as pulse, shimmer, float or scan effects.
-- Kept repository claims evidence-first and bounded to the source tree, reports, releases and visual assets.
+- Added `TruyenThongSo` to the visible Featured Portfolio Repositories table with a stable `v1.2.0` SVG asset link.
+- Added a communications companion card for `TruyenThongKhongDay` using the self-hosted `assets/network-communications.svg` visual.
+- Rebuilt `assets/profile-hero.svg`, `assets/network-communications.svg` and `assets/github-dashboard.svg` so the profile SVG set has no `<path>`, `<line>` or `<polyline>` elements.
+- Preserved English ASCII-safe SVG text and restrained, evidence-first profile copy.
+- Kept public contact channels visible: GitHub, LinkedIn, Facebook, Instagram, YouTube, TikTok, work email, student email and phone.
 
 ## Review Context
 
-The latest release points to the commit containing this visual cleanup, so GitHub README embeds and release assets can be reviewed from a stable tag.
+The profile remains positioned for computer vision, AI/ML and network communications first, with FPGA/SoC and embedded systems as supporting engineering depth.
