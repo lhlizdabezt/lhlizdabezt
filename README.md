@@ -5,7 +5,8 @@
 <h1 align="center">Luong Hai Long - Computer Vision, AI/ML, Network Communications, FPGA/SoC</h1>
 
 <p align="center">
-  <a href="https://github.com/lhlizdabezt?tab=repositories"><img src="https://img.shields.io/badge/Portfolio-21%20public%20repositories-38BDF8?style=for-the-badge&logo=github&logoColor=0f172a" alt="GitHub portfolio with 21 public repositories" /></a>
+  <a href="https://github.com/lhlizdabezt?tab=repositories"><img src="https://img.shields.io/badge/Portfolio-22%20public%20repositories-38BDF8?style=for-the-badge&logo=github&logoColor=0f172a" alt="GitHub portfolio with 22 public repositories" /></a>
+  <a href="https://github.com/lhlizdabezt"><img src="https://komarev.com/ghpvc/?username=lhlizdabezt&label=Profile%20Views&color=0f766e&style=for-the-badge" alt="GitHub profile views counter" /></a>
   <a href="https://www.linkedin.com/in/lhlizdabezt"><img src="https://img.shields.io/badge/LinkedIn-lhlizdabezt-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile for Luong Hai Long" /></a>
   <a href="mailto:luonghailong.work@gmail.com"><img src="https://img.shields.io/badge/Work%20Email-luonghailong.work%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Work email luonghailong.work@gmail.com" /></a>
   <a href="mailto:22207056@student.hcmus.edu.vn"><img src="https://img.shields.io/badge/Student%20Email-22207056%40student.hcmus.edu.vn-2563eb?style=for-the-badge" alt="Student email 22207056@student.hcmus.edu.vn" /></a>
@@ -22,7 +23,7 @@
 </p>
 
 <p align="center">
-  <img width="900" src="https://raw.githubusercontent.com/lhlizdabezt/lhlizdabezt/main/assets/github-dashboard.svg" alt="GitHub portfolio status dashboard with 21 public repositories, 21 releases, topic-ready repositories and full contact links" />
+  <img width="900" src="https://raw.githubusercontent.com/lhlizdabezt/lhlizdabezt/main/assets/github-dashboard.svg" alt="GitHub portfolio status dashboard with 22 public repositories, 22 releases, topic-ready repositories and full contact links" />
 </p>
 
 <p align="center">
@@ -44,7 +45,7 @@ I am open to internships and junior engineering opportunities in computer vision
 |---|---|
 | Profile focus | Computer vision, AI/ML, network communications, FPGA/SoC and embedded systems |
 | Hiring status | Open to engineering internships and junior engineering opportunities |
-| Public repository status | 21 public repositories, each with topics and a latest release |
+| Public repository status | 22 public repositories, each with topics and a latest release |
 | Review language | US English across profile text, tables, captions, labels and release notes |
 | Visual policy | Self-hosted SVG/GIF assets with ASCII-safe SVG text and no line paths behind labels |
 
@@ -97,9 +98,9 @@ I am open to internships and junior engineering opportunities in computer vision
       <p><img src="https://raw.githubusercontent.com/lhlizdabezt/TruyenThongSo/v1.2.0/assets/portfolio-motion.svg" alt="Line-free TruyenThongSo digital communications portfolio visual" width="100%" /></p>
     </td>
     <td width="50%">
-      <h3><a href="https://github.com/lhlizdabezt/TruyenThongKhongDay">Wireless Communications MATLAB Coursework</a></h3>
-      <p>Wireless communications evidence for fading channels, equalizers, OFDM, MIMO, link budget, BER analysis and communications-engineering report practice.</p>
-      <p><img src="https://raw.githubusercontent.com/lhlizdabezt/lhlizdabezt/main/assets/network-communications.svg" alt="Line-free network and communications portfolio visual" width="100%" /></p>
+      <h3><a href="https://github.com/lhlizdabezt/ThucHanhTruyenThongKhongDay">Wireless Communications Practice</a></h3>
+      <p>MATLAB practice repository with 23 scripts, lecture and exam PDFs, fading-channel BER, OFDM, MIMO SVD, equalizers and diversity review evidence.</p>
+      <p><img src="https://raw.githubusercontent.com/lhlizdabezt/ThucHanhTruyenThongKhongDay/v1.0.0/assets/portfolio-motion.svg" alt="Line-free wireless communications practice portfolio visual" width="100%" /></p>
     </td>
   </tr>
 </table>
