@@ -82,8 +82,8 @@ I am open to internships and junior engineering opportunities in computer vision
   <tr>
     <td width="50%">
       <h3><a href="https://github.com/lhlizdabezt/ThucHanhGTMT">BLE Data Acquisition Lab</a></h3>
-      <p>Computer interfacing lab connecting a Silicon Labs BLE SoC, AHT20 sensor data, I2C, UART/VCOM transport and a Windows C/SQLite logger.</p>
-      <p><img src="https://raw.githubusercontent.com/lhlizdabezt/ThucHanhGTMT/v1.2.3/assets/gtmt-data-flow.gif" alt="AHT20 BLE UART SQLite data flow" width="100%" /></p>
+      <p>Computer interfacing lab connecting a Silicon Labs BLE SoC, AHT20 sensor data, I2C, UART/VCOM, SQLite logging and BLE RSSI indoor-positioning evidence.</p>
+      <p><img src="https://raw.githubusercontent.com/lhlizdabezt/ThucHanhGTMT/v1.2.4/assets/gtmt-data-flow.gif" alt="AHT20 BLE RSSI Android map UART SQLite evidence flow" width="100%" /></p>
     </td>
     <td width="50%">
       <h3><a href="https://github.com/lhlizdabezt/DienTuSo">Digital Electronics Traffic-Light Controller</a></h3>
