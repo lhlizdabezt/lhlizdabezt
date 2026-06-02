@@ -49,25 +49,6 @@ I am open to internships and junior engineering opportunities in computer vision
 | YouTube | [youtube.com/@lhlizdabezt](https://www.youtube.com/@lhlizdabezt) |
 | TikTok | [tiktok.com/@wageseadrake](https://www.tiktok.com/@wageseadrake) |
 
-## GitHub Achievement Roadmap
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/lhlizdabezt/lhlizdabezt/main/assets/github-achievement-roadmap.svg" alt="GitHub achievement roadmap for legitimate profile activity" />
-</p>
-
-GitHub achievements are earned from qualifying platform events; they are not manually granted through Git, GitHub CLI or profile README editing. I treat them as secondary evidence of real workflow quality: meaningful pull requests, quick issue resolution, accepted technical answers, co-authored work and repositories useful enough to attract public stars.
-
-| Target | Legitimate path | Current portfolio move |
-|---|---|---|
-| Pull Shark | Merge meaningful pull requests | Use PRs for profile and portfolio updates instead of only direct pushes |
-| YOLO | Merge a solo-owned pull request without review when appropriate | Keep this limited to low-risk owner-controlled changes |
-| Quickdraw | Close a real issue or pull request within five minutes after it is opened and resolved | Track small verified fixes honestly |
-| Pair Extraordinaire | Merge co-authored pull requests | Use co-authored commits for real teammate or maintainer collaboration |
-| Starstruck | Grow useful repositories to public star thresholds | Improve README quality, release assets, demos and technical clarity |
-| Galaxy Brain | Provide accepted GitHub Discussions answers | Answer only where the response is technically useful |
-
-Detailed plan: [GitHub Achievement Roadmap](docs/github-achievement-roadmap.md).
-
 ## Evidence Tracks
 
 | Track | Evidence | Representative repositories |
