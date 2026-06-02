@@ -59,6 +59,22 @@ I am open to internships and junior engineering opportunities in computer vision
 | Electronics and documentation | Digital logic, analog circuits, biomedical electronics, Typst reports, slide decks and release-backed assets | [DienTuSo](https://github.com/lhlizdabezt/DienTuSo), [ThucHanhDienTuTuongTu](https://github.com/lhlizdabezt/ThucHanhDienTuTuongTu), [HCMUS-DTVT-BaoCao-Templates](https://github.com/lhlizdabezt/HCMUS-DTVT-BaoCao-Templates) |
 | Browser automation and student tooling | Tampermonkey, DOM inspection, exact row matching, manual CAPTCHA boundary and release-backed usage documentation | [hcmus-auto-dkhp](https://github.com/lhlizdabezt/hcmus-auto-dkhp), [messenger-edge-tool](https://github.com/lhlizdabezt/messenger-edge-tool) |
 
+## Current SoC Project Spotlight
+
+<table>
+  <tr>
+    <td width="42%">
+      <img src="https://raw.githubusercontent.com/lhlizdabezt/DoAnHeThongNhung/v1.0.6/assets/soc-ethernet-flow.gif" alt="Line-free SoC Ethernet flow on DE10-Standard" width="100%" />
+    </td>
+    <td width="58%">
+      <h3><a href="https://github.com/lhlizdabezt/DoAnHeThongNhung">SoC Ethernet Controller on Intel DE10-Standard</a></h3>
+      <p>Embedded systems project on the DE10-Standard Cyclone V SoC board. PC or Android clients send short payloads over TCP port 5000 to an HPS Linux server, which writes through the Lightweight HPS-to-FPGA bridge into PIO registers for HEX0 through HEX5.</p>
+      <p>The repository now includes a full US English reviewer guide, address map, run instructions, FAQ, professional contact links, line-free SVG/GIF assets, stable topics and release-backed source packaging.</p>
+      <p><a href="https://github.com/lhlizdabezt/DoAnHeThongNhung/releases/latest">Latest release</a> - <a href="https://github.com/lhlizdabezt/DoAnHeThongNhung/blob/main/README.md">README</a> - <a href="https://github.com/lhlizdabezt/DoAnHeThongNhung/tags">Tags</a></p>
+    </td>
+  </tr>
+</table>
+
 ## Current ECE Lab Spotlight
 
 <table>
@@ -108,7 +124,7 @@ I am open to internships and junior engineering opportunities in computer vision
     <td width="50%">
       <h3><a href="https://github.com/lhlizdabezt/DoAnHeThongNhung">SoC Ethernet Controller on DE10-Standard</a></h3>
       <p>Embedded Linux and FPGA/SoC project where PC or Android clients send TCP payloads to the Cyclone V HPS and then to FPGA-driven seven-segment displays.</p>
-      <p><img src="https://raw.githubusercontent.com/lhlizdabezt/DoAnHeThongNhung/v1.0.5/assets/soc-ethernet-flow.gif" alt="SoC Ethernet flow on DE10-Standard" width="100%" /></p>
+      <p><img src="https://raw.githubusercontent.com/lhlizdabezt/DoAnHeThongNhung/v1.0.6/assets/soc-ethernet-flow.gif" alt="Line-free SoC Ethernet flow on DE10-Standard" width="100%" /></p>
     </td>
   </tr>
   <tr>
@@ -159,7 +175,7 @@ I am open to internships and junior engineering opportunities in computer vision
 | [NhapMonAI](https://github.com/lhlizdabezt/NhapMonAI) | Computer vision, YOLO/OCR, PyTorch, Kaggle/IPYNB and Python desktop inference | [release](https://github.com/lhlizdabezt/NhapMonAI/releases/latest) - [tags](https://github.com/lhlizdabezt/NhapMonAI/tags) |
 | [hcmus-auto-dkhp](https://github.com/lhlizdabezt/hcmus-auto-dkhp) | Tampermonkey userscript, DOM inspection, exact course-row matching, manual CAPTCHA boundary and English usage guide | [release](https://github.com/lhlizdabezt/hcmus-auto-dkhp/releases/latest) - [tags](https://github.com/lhlizdabezt/hcmus-auto-dkhp/tags) |
 | [messenger-edge-tool](https://github.com/lhlizdabezt/messenger-edge-tool) | Python/Tkinter, Edge, Playwright and human-controlled AI drafting workflow | [release](https://github.com/lhlizdabezt/messenger-edge-tool/releases/latest) - [tags](https://github.com/lhlizdabezt/messenger-edge-tool/tags) |
-| [DoAnHeThongNhung](https://github.com/lhlizdabezt/DoAnHeThongNhung) | DE10-Standard Cyclone V SoC, TCP/Ethernet, HPS/Linux and HPS-to-FPGA bridge | [release](https://github.com/lhlizdabezt/DoAnHeThongNhung/releases/latest) - [tags](https://github.com/lhlizdabezt/DoAnHeThongNhung/tags) |
+| [DoAnHeThongNhung](https://github.com/lhlizdabezt/DoAnHeThongNhung) | DE10-Standard Cyclone V SoC, TCP/Ethernet, HPS Linux server, HPS-to-FPGA bridge and HEX display | [release](https://github.com/lhlizdabezt/DoAnHeThongNhung/releases/latest) - [tags](https://github.com/lhlizdabezt/DoAnHeThongNhung/tags) |
 | [ThucHanhGTMT](https://github.com/lhlizdabezt/ThucHanhGTMT) | Silicon Labs BLE SoC, AHT20, I2C, UART/VCOM, Windows C/SQLite logging and reviewer-ready run instructions | [release](https://github.com/lhlizdabezt/ThucHanhGTMT/releases/latest) - [tags](https://github.com/lhlizdabezt/ThucHanhGTMT/tags) |
 | [TruyenThongSo](https://github.com/lhlizdabezt/TruyenThongSo) | Digital communications, AWGN, matched filters, BER, BASK/BPSK/BFSK/QPSK, companding and LDPC | [release](https://github.com/lhlizdabezt/TruyenThongSo/releases/latest) - [tags](https://github.com/lhlizdabezt/TruyenThongSo/tags) |
 | [TruyenThongKhongDay](https://github.com/lhlizdabezt/TruyenThongKhongDay) | Wireless communications, fading channels, equalizers, OFDM, MIMO and link budget | [release](https://github.com/lhlizdabezt/TruyenThongKhongDay/releases/latest) - [tags](https://github.com/lhlizdabezt/TruyenThongKhongDay/tags) |
