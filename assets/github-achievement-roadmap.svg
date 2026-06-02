@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 430" role="img" aria-labelledby="title desc">
+  <title id="title">GitHub achievement roadmap</title>
+  <desc id="desc">Profile roadmap for legitimate GitHub achievements through pull requests, issues, discussions, stars and public portfolio quality.</desc>
+  <defs>
+    <style>
+      .bg { fill: #0B1220; }
+      .panel { fill: #F8FAFC; }
+      .card { fill: #FFFFFF; stroke: #CBD5E1; stroke-width: 1; animation: lift 5.8s ease-in-out infinite; }
+      .label { fill: #2563EB; font: 700 17px Arial, Helvetica, sans-serif; letter-spacing: 0; }
+      .title { fill: #111827; font: 700 38px Arial, Helvetica, sans-serif; letter-spacing: 0; }
+      .body { fill: #334155; font: 500 19px Arial, Helvetica, sans-serif; letter-spacing: 0; }
+      .name { fill: #0F172A; font: 700 21px Arial, Helvetica, sans-serif; letter-spacing: 0; }
+      .hint { fill: #475569; font: 500 16px Arial, Helvetica, sans-serif; letter-spacing: 0; }
+      .status { fill: #FFFFFF; font: 700 18px Arial, Helvetica, sans-serif; letter-spacing: 0; }
+      .soft { fill: #FFFFFF; opacity: 0.12; animation: fade 4.8s ease-in-out infinite; }
+      @keyframes lift { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-4px); } }
+      @keyframes fade { 0%, 100% { opacity: 0.10; } 50% { opacity: 0.22; } }
+    </style>
+  </defs>
+  <rect class="bg" x="0" y="0" width="1200" height="430"/>
+  <rect class="soft" x="945" y="44" width="122" height="122" rx="18"/>
+  <rect class="soft" x="1015" y="265" width="142" height="58" rx="12"/>
+  <rect class="panel" x="42" y="34" width="830" height="116" rx="10"/>
+  <text class="label" x="70" y="72">LHLIZDABEZT PROFILE QUALITY</text>
+  <text class="title" x="70" y="116">GitHub Achievement Roadmap</text>
+  <text class="body" x="70" y="141">Earned through real PRs, issues, discussions, stars and useful repositories.</text>
+
+  <g>
+    <rect class="card" x="42" y="190" width="350" height="84" rx="9"/>
+    <text class="name" x="66" y="224">Pull Shark</text>
+    <text class="hint" x="66" y="250">Merge meaningful pull requests.</text>
+  </g>
+  <g style="animation-delay:0.14s">
+    <rect class="card" x="425" y="190" width="350" height="84" rx="9"/>
+    <text class="name" x="449" y="224">YOLO</text>
+    <text class="hint" x="449" y="250">Merge a solo-owned PR without review.</text>
+  </g>
+  <g style="animation-delay:0.28s">
+    <rect class="card" x="808" y="190" width="350" height="84" rx="9"/>
+    <text class="name" x="832" y="224">Quickdraw</text>
+    <text class="hint" x="832" y="250">Close a real quick issue or PR.</text>
+  </g>
+  <g style="animation-delay:0.42s">
+    <rect class="card" x="42" y="304" width="350" height="84" rx="9"/>
+    <text class="name" x="66" y="338">Pair Extraordinaire</text>
+    <text class="hint" x="66" y="364">Use co-authored commits in PRs.</text>
+  </g>
+  <g style="animation-delay:0.56s">
+    <rect class="card" x="425" y="304" width="350" height="84" rx="9"/>
+    <text class="name" x="449" y="338">Starstruck</text>
+    <text class="hint" x="449" y="364">Grow useful repos to 16+ stars.</text>
+  </g>
+  <g style="animation-delay:0.70s">
+    <rect class="card" x="808" y="304" width="350" height="84" rx="9"/>
+    <text class="name" x="832" y="338">Galaxy Brain</text>
+    <text class="hint" x="832" y="364">Give accepted discussion answers.</text>
+  </g>
+
+  <text class="status" x="928" y="95">No fake badges</text>
+  <text class="status" x="928" y="124">No manual grants</text>
+  <text class="status" x="928" y="153">Evidence first</text>
+</svg>
