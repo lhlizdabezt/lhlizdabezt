@@ -1,109 +1,103 @@
 <svg width="900" height="280" viewBox="0 0 900 280" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">Luong Hai Long GitHub portfolio dashboard</title>
-  <desc id="desc">GitHub portfolio dashboard showing public repositories, releases, CV AI ML, network communications and top languages.</desc>
+  <title id="title">Luong Hai Long GitHub portfolio status dashboard</title>
+  <desc id="desc">Line-free dashboard showing public repositories, latest releases, topic-ready repositories and contact links for review.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="900" y2="280" gradientUnits="userSpaceOnUse">
       <stop stop-color="#0f172a"/>
-      <stop offset="0.52" stop-color="#111827"/>
-      <stop offset="1" stop-color="#082f49"/>
+      <stop offset="0.48" stop-color="#082f49"/>
+      <stop offset="1" stop-color="#0f766e"/>
     </linearGradient>
-    <linearGradient id="accentBlue" x1="0" y1="0" x2="1" y2="0">
+    <linearGradient id="blue" x1="0" y1="0" x2="1" y2="0">
       <stop stop-color="#38bdf8"/>
       <stop offset="1" stop-color="#2563eb"/>
     </linearGradient>
-    <linearGradient id="accentGreen" x1="0" y1="0" x2="1" y2="0">
+    <linearGradient id="green" x1="0" y1="0" x2="1" y2="0">
       <stop stop-color="#34d399"/>
       <stop offset="1" stop-color="#0f766e"/>
     </linearGradient>
-    <linearGradient id="accentAmber" x1="0" y1="0" x2="1" y2="0">
+    <linearGradient id="amber" x1="0" y1="0" x2="1" y2="0">
       <stop stop-color="#fbbf24"/>
       <stop offset="1" stop-color="#f97316"/>
     </linearGradient>
-    <linearGradient id="accentPurple" x1="0" y1="0" x2="1" y2="0">
-      <stop stop-color="#c084fc"/>
-      <stop offset="1" stop-color="#8b5cf6"/>
-    </linearGradient>
-    <filter id="shadow" x="-12%" y="-16%" width="124%" height="136%" color-interpolation-filters="sRGB">
-      <feDropShadow dx="0" dy="14" stdDeviation="15" flood-color="#020617" flood-opacity="0.32"/>
-    </filter>
     <style>
-      .titleText { font: 800 22px Inter, Segoe UI, Arial, sans-serif; fill: #f8fafc; letter-spacing: .2px; }
-      .smallText { font: 500 12px Inter, Segoe UI, Arial, sans-serif; fill: #94a3b8; }
-      .metricValue { font: 900 28px Inter, Segoe UI, Arial, sans-serif; fill: #ffffff; }
-      .metricLabel { font: 700 12px Inter, Segoe UI, Arial, sans-serif; fill: #cbd5e1; }
-      .metricSub { font: 500 10.5px Inter, Segoe UI, Arial, sans-serif; fill: #94a3b8; }
-      .mono { font: 700 13px Consolas, Monaco, monospace; fill: #e2e8f0; }
-      .track { fill: #1e293b; }
-      .tile { fill: #0b1220; stroke: #1e293b; }
-      @keyframes shimmer {
-        0%, 100% { opacity: .72; }
-        50% { opacity: 1; }
-      }
-      .motion { animation: shimmer 2.8s ease-in-out infinite; }
+      .titleText { font: 800 24px Arial, Helvetica, sans-serif; fill: #f8fafc; letter-spacing: 0; }
+      .smallText { font: 600 12px Arial, Helvetica, sans-serif; fill: #bae6fd; letter-spacing: 0; }
+      .metricValue { font: 900 30px Arial, Helvetica, sans-serif; fill: #ffffff; letter-spacing: 0; }
+      .metricLabel { font: 700 12px Arial, Helvetica, sans-serif; fill: #dbeafe; letter-spacing: 0; }
+      .metricSub { font: 500 10.5px Arial, Helvetica, sans-serif; fill: #93c5fd; letter-spacing: 0; }
+      .mono { font: 700 13px Consolas, Monaco, monospace; fill: #e2e8f0; letter-spacing: 0; }
+      .tile { fill: #0b1220; stroke: #1e293b; stroke-width: 1; }
+      .panel { fill: rgba(2,6,23,.76); stroke: rgba(148,163,184,.30); stroke-width: 1; }
+      .chip { fill: rgba(255,255,255,.10); stroke: rgba(255,255,255,.18); stroke-width: 1; }
+      .motion { animation: fade 3s ease-in-out infinite; }
+      @keyframes fade { 0%, 100% { opacity: .72; } 50% { opacity: 1; } }
     </style>
   </defs>
 
   <rect width="900" height="280" rx="24" fill="url(#bg)"/>
-  <rect x="34" y="42" width="210" height="10" rx="5" fill="#38bdf8" opacity="0.10"/>
-  <rect x="260" y="42" width="176" height="10" rx="5" fill="#34d399" opacity="0.10"/>
-  <rect x="476" y="228" width="182" height="10" rx="5" fill="#38bdf8" opacity="0.10"/>
-  <rect x="674" y="228" width="184" height="10" rx="5" fill="#34d399" opacity="0.10"/>
+  <rect x="28" y="28" width="402" height="224" rx="18" class="panel"/>
+  <rect x="470" y="28" width="402" height="224" rx="18" class="panel"/>
 
-  <g filter="url(#shadow)">
-    <rect x="28" y="28" width="402" height="224" rx="18" fill="#020617" opacity="0.78" stroke="#1e293b"/>
-    <rect class="motion" x="54" y="48" width="82" height="4" rx="2" fill="url(#accentGreen)"/>
-    <text x="54" y="76" class="titleText">GitHub stats</text>
-    <text x="54" y="99" class="smallText">Portfolio snapshot for engineering review</text>
+  <rect class="motion" x="54" y="48" width="92" height="5" rx="2.5" fill="url(#green)"/>
+  <text x="54" y="78" class="titleText">Profile status</text>
+  <text x="54" y="101" class="smallText">Verified on June 2, 2026 for HR and engineering review</text>
 
-    <g transform="translate(54 118)">
-      <rect class="tile" x="0" y="0" width="162" height="54" rx="10"/>
-      <text x="16" y="34" class="metricValue">21</text>
-      <text x="72" y="23" class="metricLabel">public repos</text>
-      <text x="72" y="39" class="metricSub">labs and tools</text>
+  <g transform="translate(54 120)">
+    <rect class="tile" x="0" y="0" width="162" height="54" rx="10"/>
+    <text x="16" y="34" class="metricValue">21</text>
+    <text x="72" y="23" class="metricLabel">public repos</text>
+    <text x="72" y="39" class="metricSub">portfolio scope</text>
 
-      <rect class="tile" x="184" y="0" width="162" height="54" rx="10"/>
-      <text x="200" y="34" class="metricValue">18</text>
-      <text x="270" y="23" class="metricLabel">release repos</text>
-      <text x="270" y="39" class="metricSub">review-ready</text>
+    <rect class="tile" x="184" y="0" width="162" height="54" rx="10"/>
+    <text x="200" y="34" class="metricValue">21</text>
+    <text x="270" y="23" class="metricLabel">latest releases</text>
+    <text x="270" y="39" class="metricSub">release-backed</text>
 
-      <rect class="tile" x="0" y="70" width="162" height="54" rx="10"/>
-      <text x="16" y="104" class="metricValue">4</text>
-      <text x="72" y="93" class="metricLabel">focus tracks</text>
-      <text x="72" y="109" class="metricSub">CV AI Net HW</text>
+    <rect class="tile" x="0" y="70" width="162" height="54" rx="10"/>
+    <text x="16" y="104" class="metricValue">21</text>
+    <text x="72" y="93" class="metricLabel">topic ready</text>
+    <text x="72" y="109" class="metricSub">searchable repos</text>
 
-      <rect class="tile" x="184" y="70" width="162" height="54" rx="10"/>
-      <text x="200" y="104" class="metricValue">1</text>
-      <text x="270" y="93" class="metricLabel">profile hub</text>
-      <text x="270" y="109" class="metricSub">clean portfolio</text>
-    </g>
+    <rect class="tile" x="184" y="70" width="162" height="54" rx="10"/>
+    <text x="200" y="104" class="metricValue">5</text>
+    <text x="270" y="93" class="metricLabel">social links</text>
+    <text x="270" y="109" class="metricSub">README contact</text>
   </g>
 
-  <g filter="url(#shadow)">
-    <rect x="470" y="28" width="402" height="224" rx="18" fill="#020617" opacity="0.78" stroke="#1e293b"/>
-    <rect class="motion" x="496" y="48" width="82" height="4" rx="2" fill="url(#accentBlue)"/>
-    <text x="496" y="76" class="titleText">Top evidence tracks</text>
-    <text x="496" y="99" class="smallText">Main review signals across the portfolio</text>
+  <rect class="motion" x="496" y="48" width="92" height="5" rx="2.5" fill="url(#blue)"/>
+  <text x="496" y="78" class="titleText">Evidence tracks</text>
+  <text x="496" y="101" class="smallText">Main signals kept above general coursework</text>
 
-    <g transform="translate(496 123)">
-      <text x="0" y="0" class="mono">CV / AI / ML</text>
-      <rect class="track" x="118" y="-10" width="226" height="12" rx="6"/>
-      <rect class="motion" x="118" y="-10" width="204" height="12" rx="6" fill="url(#accentBlue)"/>
+  <g transform="translate(496 124)">
+    <text x="0" y="0" class="mono">Vision ML</text>
+    <rect x="122" y="-10" width="226" height="12" rx="6" fill="#1e293b"/>
+    <rect class="motion" x="122" y="-10" width="206" height="12" rx="6" fill="url(#blue)"/>
 
-      <text x="0" y="28" class="mono">Networks</text>
-      <rect class="track" x="118" y="18" width="226" height="12" rx="6"/>
-      <rect x="118" y="18" width="178" height="12" rx="6" fill="url(#accentAmber)"/>
+    <text x="0" y="28" class="mono">Networks</text>
+    <rect x="122" y="18" width="226" height="12" rx="6" fill="#1e293b"/>
+    <rect x="122" y="18" width="184" height="12" rx="6" fill="url(#amber)"/>
 
-      <text x="0" y="56" class="mono">C/C++</text>
-      <rect class="track" x="118" y="46" width="226" height="12" rx="6"/>
-      <rect x="118" y="46" width="150" height="12" rx="6" fill="url(#accentGreen)"/>
+    <text x="0" y="56" class="mono">Embedded</text>
+    <rect x="122" y="46" width="226" height="12" rx="6" fill="#1e293b"/>
+    <rect x="122" y="46" width="158" height="12" rx="6" fill="url(#green)"/>
 
-      <text x="0" y="84" class="mono">FPGA/SoC</text>
-      <rect class="track" x="118" y="74" width="226" height="12" rx="6"/>
-      <rect x="118" y="74" width="134" height="12" rx="6" fill="url(#accentPurple)"/>
+    <text x="0" y="84" class="mono">FPGA SoC</text>
+    <rect x="122" y="74" width="226" height="12" rx="6" fill="#1e293b"/>
+    <rect x="122" y="74" width="142" height="12" rx="6" fill="#a78bfa"/>
 
-      <text x="0" y="112" class="mono">Typst</text>
-      <rect class="track" x="118" y="102" width="226" height="12" rx="6"/>
-      <rect x="118" y="102" width="118" height="12" rx="6" fill="#22d3ee"/>
-    </g>
+    <text x="0" y="112" class="mono">Reports</text>
+    <rect x="122" y="102" width="226" height="12" rx="6" fill="#1e293b"/>
+    <rect x="122" y="102" width="126" height="12" rx="6" fill="#22d3ee"/>
+  </g>
+
+  <g transform="translate(54 242)">
+    <rect class="chip" x="0" y="0" width="112" height="24" rx="12"/>
+    <text x="16" y="16" class="smallText">US English</text>
+    <rect class="chip" x="126" y="0" width="142" height="24" rx="12"/>
+    <text x="142" y="16" class="smallText">Line-free labels</text>
+    <rect class="chip" x="282" y="0" width="122" height="24" rx="12"/>
+    <text x="298" y="16" class="smallText">CV PDF linked</text>
+    <rect class="chip" x="420" y="0" width="184" height="24" rx="12"/>
+    <text x="436" y="16" class="smallText">Profile README complete</text>
   </g>
 </svg>

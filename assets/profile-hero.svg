@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
   <title id="title">Luong Hai Long engineering portfolio banner</title>
-  <desc id="desc">Self-hosted line-free banner for Computer Vision, AI, Machine Learning, network communications, FPGA SoC and embedded systems.</desc>
+  <desc id="desc">Self-hosted line-free banner for computer vision, AI, machine learning, network communications, FPGA SoC and embedded systems.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%" stop-color="#0f172a" />
       <stop offset="40%" stop-color="#0f766e" />
       <stop offset="72%" stop-color="#2563eb" />
-      <stop offset="100%" stop-color="#7c3aed" />
+      <stop offset="100%" stop-color="#0f172a" />
     </linearGradient>
     <style>
       .chip { fill: rgba(15,23,42,.50); stroke: rgba(255,255,255,.24); stroke-width: 1.2; }
@@ -17,8 +17,8 @@
       .mono { font: 700 17px Consolas, Monaco, monospace; fill: #a7f3d0; }
       .pulse { animation: pulse 3.8s ease-in-out infinite; transform-origin: center; }
       .soft { animation: soft 5.2s ease-in-out infinite; transform-origin: center; }
-      @keyframes pulse { 0%, 100% { opacity: .72; transform: scale(.985); } 50% { opacity: 1; transform: scale(1.025); } }
-      @keyframes soft { 0%, 100% { opacity: .62; } 50% { opacity: 1; } }
+      @keyframes pulse { 0%, 100% { opacity: .90; transform: scale(.99); } 50% { opacity: 1; transform: scale(1.012); } }
+      @keyframes soft { 0%, 100% { opacity: .88; } 50% { opacity: 1; } }
     </style>
   </defs>
   <rect width="1200" height="300" rx="28" fill="url(#bg)" />
@@ -29,18 +29,18 @@
   </g>
   <g class="soft">
     <rect x="872" y="56" width="244" height="52" rx="16" class="chip" />
-    <text x="898" y="89" class="small">AI / Machine Learning</text>
+    <text x="898" y="89" class="small">AI and Machine Learning</text>
   </g>
   <g class="soft">
     <rect x="92" y="196" width="188" height="52" rx="16" class="chip" />
-    <text x="120" y="229" class="small">FPGA / SoC</text>
+    <text x="120" y="229" class="small">FPGA and SoC</text>
   </g>
   <g class="pulse">
     <rect x="826" y="196" width="290" height="52" rx="16" class="chip" />
     <text x="856" y="229" class="small">Network Communications</text>
   </g>
   <g transform="translate(352 66)">
-    <text x="0" y="0" class="mono">vision -> model -> networked system -> proof</text>
+    <text x="0" y="0" class="mono">vision models, networked systems, release proof</text>
     <text x="0" y="72" class="name">Luong Hai Long</text>
     <text x="0" y="116" class="desc">Electronics and Telecommunications @ HCMUS</text>
     <g transform="translate(0 146)">

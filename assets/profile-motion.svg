@@ -13,7 +13,7 @@
   </style>
   <rect class="bg" width="900" height="320" rx="28" />
   <text x="48" y="58" class="title">Evidence-Backed Engineering Portfolio</text>
-  <text x="48" y="88" class="small">Computer Vision - AI/ML - Network Communications - FPGA/SoC - Embedded Systems</text>
+  <text x="48" y="88" class="small">Computer Vision - AI and ML - Network Communications - FPGA SoC - Embedded Systems</text>
   <rect x="40" y="112" width="820" height="132" rx="26" fill="#0b1220" stroke="#1e293b" stroke-width="2" opacity=".72" />
   <g>
     <rect x="52" y="124" width="182" height="96" rx="18" class="card" />
@@ -25,9 +25,9 @@
     <circle class="pulse" cx="575" cy="172" r="24" fill="#38bdf8" />
     <circle class="pulse" cx="774" cy="172" r="24" fill="#f59e0b" />
   </g>
-  <text x="143" y="244" text-anchor="middle" class="label">YOLO/OCR</text>
+  <text x="143" y="244" text-anchor="middle" class="label">YOLO OCR</text>
   <text x="359" y="244" text-anchor="middle" class="label">PyTorch</text>
-  <text x="575" y="244" text-anchor="middle" class="label">TCP/BLE</text>
+  <text x="575" y="244" text-anchor="middle" class="label">TCP BLE</text>
   <text x="774" y="244" text-anchor="middle" class="label">FPGA</text>
   <text x="450" y="292" text-anchor="middle" class="small">Release-backed repositories, visual assets, reports and bounded prototype notes.</text>
 </svg>

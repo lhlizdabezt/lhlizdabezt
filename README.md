@@ -22,6 +22,10 @@
 </p>
 
 <p align="center">
+  <img width="900" src="https://raw.githubusercontent.com/lhlizdabezt/lhlizdabezt/main/assets/github-dashboard.svg" alt="GitHub portfolio status dashboard with 21 public repositories, 21 releases, topic-ready repositories and full contact links" />
+</p>
+
+<p align="center">
   <img width="420" src="https://raw.githubusercontent.com/lhlizdabezt/lhlizdabezt/main/assets/profile-motion.svg" alt="Animated SVG card for networked AI systems" />
   <img width="760" src="https://raw.githubusercontent.com/lhlizdabezt/lhlizdabezt/main/assets/signal-flow.gif" alt="Animated portfolio flow across computer vision, communications, FPGA and embedded tools" />
 </p>
@@ -33,6 +37,16 @@ I am an Electronics and Telecommunications Engineering senior at VNUHCM - Univer
 My strongest work is in Vietnamese automatic license plate recognition with YOLO/PyTorch and OCR/FastALPR, Python desktop tooling, MATLAB communications simulations, TCP/IP and BLE data paths, FPGA/SoC integration on the Intel DE10-Standard, and STM32 or Silicon Labs embedded workflows. I keep embedded and FPGA work visible because it supports system-level reasoning around AI, communications and hardware-adjacent software.
 
 I am open to internships and junior engineering opportunities in computer vision, machine learning, network/telecommunications engineering, embedded computer vision, firmware, FPGA/SoC systems and platform validation.
+
+## Current Status
+
+| Item | Current value |
+|---|---|
+| Profile focus | Computer vision, AI/ML, network communications, FPGA/SoC and embedded systems |
+| Hiring status | Open to engineering internships and junior engineering opportunities |
+| Public repository status | 21 public repositories, each with topics and a latest release |
+| Review language | US English across profile text, tables, captions, labels and release notes |
+| Visual policy | Self-hosted SVG/GIF assets with ASCII-safe SVG text and no line paths behind labels |
 
 ## Contact
 
@@ -58,6 +72,16 @@ I am open to internships and junior engineering opportunities in computer vision
 | FPGA/SoC and embedded systems | Cyclone V, HPS/Linux, HPS-to-FPGA bridge, STM32, Silicon Labs BLE SoC, C/C++ and firmware documentation | [embedded-systems-fpga-review-labs](https://github.com/lhlizdabezt/embedded-systems-fpga-review-labs), [DoAnDienTuYSinh_STM32_MAX30100_LCD](https://github.com/lhlizdabezt/DoAnDienTuYSinh_STM32_MAX30100_LCD) |
 | Electronics and documentation | Digital logic, analog circuits, biomedical electronics, Typst reports, slide decks and release-backed assets | [DienTuSo](https://github.com/lhlizdabezt/DienTuSo), [ThucHanhDienTuTuongTu](https://github.com/lhlizdabezt/ThucHanhDienTuTuongTu), [HCMUS-DTVT-BaoCao-Templates](https://github.com/lhlizdabezt/HCMUS-DTVT-BaoCao-Templates) |
 | Browser automation and student tooling | Tampermonkey, DOM inspection, exact row matching, manual CAPTCHA boundary and release-backed usage documentation | [hcmus-auto-dkhp](https://github.com/lhlizdabezt/hcmus-auto-dkhp), [messenger-edge-tool](https://github.com/lhlizdabezt/messenger-edge-tool) |
+
+## How To Review This Portfolio
+
+| Step | Open | What to check |
+|---|---|---|
+| 1 | [NhapMonAI](https://github.com/lhlizdabezt/NhapMonAI) | Computer vision, YOLO/OCR, Kaggle/IPYNB evidence, desktop demo scope and validation notes |
+| 2 | [DoAnHeThongNhung](https://github.com/lhlizdabezt/DoAnHeThongNhung) | TCP/Ethernet path, Cyclone V HPS, FPGA register output and bounded LAN prototype notes |
+| 3 | [ThucHanhGTMT](https://github.com/lhlizdabezt/ThucHanhGTMT) and [DienTuSo](https://github.com/lhlizdabezt/DienTuSo) | BLE/UART data acquisition, C/SQLite logging, digital-logic simulation and release-backed visuals |
+| 4 | Communications repositories | MATLAB BER, AWGN, OFDM, MIMO and report-backed signal-processing work |
+| 5 | Contact table and resume | Internship fit, current contact channels and PDF CV |
 
 ## Current SoC Project Spotlight
 
@@ -205,6 +229,29 @@ On June 2, 2026, these supporting repositories were refreshed with English READM
 | [ThucHanhDienTuTuongTu](https://github.com/lhlizdabezt/ThucHanhDienTuTuongTu) | LTspice analog labs, LM324, LM339, NE555, filters, rectifiers and LDO/DAC topics | [release](https://github.com/lhlizdabezt/ThucHanhDienTuTuongTu/releases/latest) - [tags](https://github.com/lhlizdabezt/ThucHanhDienTuTuongTu/tags) |
 | [PhuongPhapTinh-Matlab](https://github.com/lhlizdabezt/PhuongPhapTinh-Matlab) | MATLAB numerical methods, Cholesky methods, Newton interpolation, Euler ODE and GUI | [release](https://github.com/lhlizdabezt/PhuongPhapTinh-Matlab/releases/latest) - [tags](https://github.com/lhlizdabezt/PhuongPhapTinh-Matlab/tags) |
 | [HCMUS-DTVT-BaoCao-Templates](https://github.com/lhlizdabezt/HCMUS-DTVT-BaoCao-Templates) | Reusable ECE report templates, Typst guide and Word-to-Typst workflow notes | [release](https://github.com/lhlizdabezt/HCMUS-DTVT-BaoCao-Templates/releases/latest) - [tags](https://github.com/lhlizdabezt/HCMUS-DTVT-BaoCao-Templates/tags) |
+
+## Supporting And Reference Repositories
+
+| Repository | Portfolio role | Links |
+|---|---|---|
+| [BCTT-ThucTap-BTPHoldings](https://github.com/lhlizdabezt/BCTT-ThucTap-BTPHoldings) | Internship report wrapper for QC observation, warranty-service context and documentation discipline | [release](https://github.com/lhlizdabezt/BCTT-ThucTap-BTPHoldings/releases/latest) - [tags](https://github.com/lhlizdabezt/BCTT-ThucTap-BTPHoldings/tags) |
+| [Slide-DoAnHTN-Nhom17-DE10Standard](https://github.com/lhlizdabezt/Slide-DoAnHTN-Nhom17-DE10Standard) | Typst/Touying technical deck for the DE10-Standard SoC Ethernet project | [release](https://github.com/lhlizdabezt/Slide-DoAnHTN-Nhom17-DE10Standard/releases/latest) - [tags](https://github.com/lhlizdabezt/Slide-DoAnHTN-Nhom17-DE10Standard/tags) |
+| [aegisub-automation-pack](https://github.com/lhlizdabezt/aegisub-automation-pack) | Lua/MoonScript automation pack for subtitle typesetting workflows | [release](https://github.com/lhlizdabezt/aegisub-automation-pack/releases/latest) - [tags](https://github.com/lhlizdabezt/aegisub-automation-pack/tags) |
+| [my-slide](https://github.com/lhlizdabezt/my-slide) | React/Vite/TypeScript slide workspace for technical presentations | [release](https://github.com/lhlizdabezt/my-slide/releases/latest) - [tags](https://github.com/lhlizdabezt/my-slide/tags) |
+| [cloudflare-gateway-pihole-scripts](https://github.com/lhlizdabezt/cloudflare-gateway-pihole-scripts) | Forked DNS filtering script reference for network configuration learning | [release](https://github.com/lhlizdabezt/cloudflare-gateway-pihole-scripts/releases/latest) - [tags](https://github.com/lhlizdabezt/cloudflare-gateway-pihole-scripts/tags) |
+| [device_xiaomi_ginkgo-1](https://github.com/lhlizdabezt/device_xiaomi_ginkgo-1) | Forked Android device-tree reference kept for systems-reading context | [release](https://github.com/lhlizdabezt/device_xiaomi_ginkgo-1/releases/latest) - [tags](https://github.com/lhlizdabezt/device_xiaomi_ginkgo-1/tags) |
+| [open-slide](https://github.com/lhlizdabezt/open-slide) | Forked React/TypeScript slide-framework reference | [release](https://github.com/lhlizdabezt/open-slide/releases/latest) - [tags](https://github.com/lhlizdabezt/open-slide/tags) |
+| [lhlizdabezt](https://github.com/lhlizdabezt/lhlizdabezt) | Profile hub with contacts, reviewer guide, visuals, release notes and portfolio routing | [release](https://github.com/lhlizdabezt/lhlizdabezt/releases/latest) - [tags](https://github.com/lhlizdabezt/lhlizdabezt/tags) |
+
+## FAQ
+
+| Question | Answer |
+|---|---|
+| What roles fit this profile? | Computer vision intern, AI/ML intern, network or telecommunications intern, embedded computer vision intern, firmware intern, FPGA/SoC intern and platform validation intern. |
+| Which repository should an HR reviewer open first? | Start with [NhapMonAI](https://github.com/lhlizdabezt/NhapMonAI), then check the contact table, resume and repository index. |
+| Which repository should an engineering reviewer open first? | Start with [NhapMonAI](https://github.com/lhlizdabezt/NhapMonAI) for CV/ML evidence or [DoAnHeThongNhung](https://github.com/lhlizdabezt/DoAnHeThongNhung) for embedded FPGA/SoC evidence. |
+| Are these production systems? | No. The strongest repositories are academic, lab, internship or prototype artifacts with explicit scope boundaries and reviewer notes. |
+| Where are the release assets and tags? | Each index row links to the latest release and tag list; profile release notes summarize profile-level changes. |
 
 ## Review Standard
 
