@@ -8,16 +8,13 @@
     .small { font: 600 14px Segoe UI, Arial, sans-serif; fill: #bae6fd; }
     .card { fill: #111827; stroke: #38bdf8; stroke-width: 2; }
     .card2 { fill: #172554; stroke: #f59e0b; stroke-width: 2; }
-    .line { stroke: #93c5fd; stroke-width: 4; stroke-linecap: round; stroke-dasharray: 12 12; animation: dash 2.8s linear infinite; }
     .pulse { animation: pulse 2.2s ease-in-out infinite; transform-origin: center; }
-    @keyframes dash { to { stroke-dashoffset: -96; } }
     @keyframes pulse { 0%, 100% { opacity: .55; transform: scale(.96); } 50% { opacity: 1; transform: scale(1.04); } }
   </style>
   <rect class="bg" width="900" height="320" rx="28" />
   <text x="48" y="58" class="title">Evidence-Backed Engineering Portfolio</text>
   <text x="48" y="88" class="small">Computer Vision - AI/ML - Network Communications - FPGA/SoC - Embedded Systems</text>
-  <path d="M150 172 H750" class="line" />
-  <path d="M450 172 V252" class="line" />
+  <rect x="40" y="112" width="820" height="132" rx="26" fill="#0b1220" stroke="#1e293b" stroke-width="2" opacity=".72" />
   <g>
     <rect x="52" y="124" width="182" height="96" rx="18" class="card" />
     <rect x="268" y="124" width="182" height="96" rx="18" class="card2" />

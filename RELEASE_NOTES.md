@@ -1,9 +1,17 @@
-# v2.0.3 - Contact Channel Verification
+# v2.0.4 - Motion Visual Line Safety
 
 ## Scope
 
-- Rebuilt the profile README in English for HR and engineering review.
-- Added full social links: Facebook, Instagram, LinkedIn, YouTube and TikTok.
-- Added direct contact links for professional email, student email and phone.
-- Kept the public positioning focused on computer vision, AI/ML, network communications, FPGA/SoC and embedded systems.
-- Updated the animated SVG profile motion card with ASCII-safe English text.
+This profile release keeps the English HR and engineering portfolio readable while removing dash-line motion from GitHub-facing SVG assets.
+
+## Changes
+
+- Cleaned `assets/network-communications.svg` so SVG motion no longer uses moving dashed or dotted line effects.
+- Cleaned `assets/profile-hero.svg` so SVG motion no longer uses moving dashed or dotted line effects.
+- Cleaned `assets/profile-motion.svg` so SVG motion no longer uses moving dashed or dotted line effects.
+- Preserved ASCII-safe English SVG text and existing non-line motion such as pulse, shimmer, float or scan effects.
+- Kept repository claims evidence-first and bounded to the source tree, reports, releases and visual assets.
+
+## Review Context
+
+The latest release points to the commit containing this visual cleanup, so GitHub README embeds and release assets can be reviewed from a stable tag.
