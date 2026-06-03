@@ -1,19 +1,20 @@
-# v2.2.0 - Wireless Communications Release Sync
+# v2.2.2 - Aegisub Automation Profile Sync
 
 ## Scope
 
-This release keeps the profile README synchronized with the latest wireless communications portfolio release.
+This release keeps the profile README synchronized with the latest `aegisub-automation-pack` portfolio release and the current public GitHub account metadata.
 
 ## Changes
 
-- Updated the featured `ThucHanhTruyenThongKhongDay` visual embed from `v1.0.1` to `v1.0.2`.
-- Kept all five social/contact links visible in the profile README contact area.
-- Preserved the current profile positioning: computer vision, AI/ML, network communications, FPGA/SoC, and embedded systems.
-- Kept the GitHub profile bio and repository metadata aligned with English reviewer-ready portfolio language.
+- Added a workflow automation evidence block for `aegisub-automation-pack`.
+- Pointed the Aegisub profile visual to the stable `portfolio-review-2026-06-03` release tag.
+- Updated the repository status wording to say `topic-indexed and release-backed for review`.
+- Kept all requested contact and social links visible: Facebook, Instagram, LinkedIn, YouTube, TikTok, work email, student email and phone.
+- Preserved the main positioning around computer vision, AI/ML, network communications, FPGA/SoC and embedded systems.
 
 ## Verification
 
-- Confirmed the profile README points to the fixed `ThucHanhTruyenThongKhongDay` `v1.0.2` SVG asset.
-- Confirmed all five README social/contact links remain visible.
+- Confirmed the Aegisub tag raw SVG URL returns HTTP 200.
+- Confirmed the profile README keeps the profile views counter badge and all contact/social links.
 - Confirmed `git diff --check` passes before publishing.
-- Verify raw profile README and wireless communications SVG after publishing.
+- Confirm the profile release points to the final pushed commit.
