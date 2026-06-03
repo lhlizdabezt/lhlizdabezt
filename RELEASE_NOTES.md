@@ -1,20 +1,20 @@
-# v2.2.2 - Aegisub Automation Profile Sync
+# v2.2.3 - Profile Core Evidence Cleanup
 
 ## Scope
 
-This release keeps the profile README synchronized with the latest `aegisub-automation-pack` portfolio release and the current public GitHub account metadata.
+This release keeps the profile README focused on core engineering evidence: computer vision, AI/ML, network communications, FPGA/SoC and embedded systems.
 
 ## Changes
 
-- Added a workflow automation evidence block for `aegisub-automation-pack`.
-- Pointed the Aegisub profile visual to the stable `portfolio-review-2026-06-03` release tag.
-- Updated the repository status wording to say `topic-indexed and release-backed for review`.
+- Removed the non-core evidence category and its table from the profile README.
+- Updated the repository status wording to separate 22 total public repositories from 19 owned evidence repositories.
+- Updated the profile dashboard SVG to avoid overstating topic-ready repository coverage.
 - Kept all requested contact and social links visible: Facebook, Instagram, LinkedIn, YouTube, TikTok, work email, student email and phone.
 - Preserved the main positioning around computer vision, AI/ML, network communications, FPGA/SoC and embedded systems.
 
 ## Verification
 
-- Confirmed the Aegisub tag raw SVG URL returns HTTP 200.
 - Confirmed the profile README keeps the profile views counter badge and all contact/social links.
+- Confirmed profile SVG assets use ASCII-safe text.
 - Confirmed `git diff --check` passes before publishing.
-- Confirm the profile release points to the final pushed commit.
+- Confirmed the profile release points to the final pushed commit.

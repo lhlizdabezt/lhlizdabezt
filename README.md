@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  <img width="900" src="https://raw.githubusercontent.com/lhlizdabezt/lhlizdabezt/main/assets/github-dashboard.svg" alt="GitHub portfolio status dashboard with 22 public repositories, topic-ready repositories and evidence tracks" />
+  <img width="900" src="https://raw.githubusercontent.com/lhlizdabezt/lhlizdabezt/main/assets/github-dashboard.svg" alt="GitHub portfolio status dashboard with 22 public repositories, 19 owned evidence repositories and core engineering tracks" />
 </p>
 
 <p align="center">
@@ -45,7 +45,7 @@ I am open to internships and junior engineering opportunities in computer vision
 |---|---|
 | Profile focus | Computer vision, AI/ML, network communications, FPGA/SoC and embedded systems |
 | Hiring status | Open to engineering internships and junior engineering opportunities |
-| Public repository status | 22 public repositories, topic-indexed and release-backed for review |
+| Public repository status | 22 public repositories total, including 19 owned evidence repositories and 3 public forks |
 | Review language | US English across profile text, tables, captions, labels and release notes |
 | Visual policy | Self-hosted SVG/GIF assets with ASCII-safe SVG text and no line paths behind labels |
 
@@ -101,21 +101,6 @@ I am open to internships and junior engineering opportunities in computer vision
       <h3><a href="https://github.com/lhlizdabezt/ThucHanhTruyenThongKhongDay">Wireless Communications Practice</a></h3>
       <p>MATLAB practice repository with 23 scripts, lecture and exam PDFs, fading-channel BER, OFDM, MIMO SVD, equalizers and diversity review evidence.</p>
       <p><img src="https://raw.githubusercontent.com/lhlizdabezt/ThucHanhTruyenThongKhongDay/v1.0.2/assets/portfolio-motion.svg" alt="Line-free wireless communications practice portfolio visual" width="100%" /></p>
-    </td>
-  </tr>
-</table>
-
-## Workflow Automation Evidence
-
-<table>
-  <tr>
-    <td width="44%">
-      <img src="https://raw.githubusercontent.com/lhlizdabezt/aegisub-automation-pack/portfolio-review-2026-06-03/assets/portfolio-motion.svg" alt="Line-free Aegisub automation workflow visual" width="100%" />
-    </td>
-    <td width="56%">
-      <h3><a href="https://github.com/lhlizdabezt/aegisub-automation-pack">Aegisub Automation Pack</a></h3>
-      <p>Subtitle workflow tooling repository for Lua and MoonScript automation in Aegisub, ASS effect helpers, timing utilities, motion-tracking support, synthetic previews and release-backed documentation.</p>
-      <p>Portfolio signal: scripting discipline, workflow QA, visual documentation and careful public packaging outside coursework.</p>
     </td>
   </tr>
 </table>
