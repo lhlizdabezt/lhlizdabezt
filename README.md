@@ -5,7 +5,7 @@
 <h1 align="center">Luong Hai Long - Computer Vision, AI/ML, Network Communications, FPGA/SoC</h1>
 
 <p align="center">
-  <a href="https://github.com/lhlizdabezt?tab=repositories"><img src="https://img.shields.io/badge/Portfolio-22%20public%20repositories-38BDF8?style=for-the-badge&logo=github&logoColor=0f172a" alt="GitHub portfolio with 22 public repositories" /></a>
+  <a href="https://github.com/lhlizdabezt?tab=repositories"><img src="https://img.shields.io/badge/Portfolio-24%20public%20repositories-38BDF8?style=for-the-badge&logo=github&logoColor=0f172a" alt="GitHub portfolio with 24 public repositories" /></a>
   <a href="https://github.com/lhlizdabezt"><img src="https://komarev.com/ghpvc/?username=lhlizdabezt&label=Profile%20Views&color=0f766e&style=for-the-badge" alt="GitHub profile views counter" /></a>
   <a href="https://www.linkedin.com/in/lhlizdabezt"><img src="https://img.shields.io/badge/LinkedIn-lhlizdabezt-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile for Luong Hai Long" /></a>
   <a href="mailto:luonghailong.work@gmail.com"><img src="https://img.shields.io/badge/Work%20Email-luonghailong.work%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Work email luonghailong.work@gmail.com" /></a>
@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  <img width="900" src="https://raw.githubusercontent.com/lhlizdabezt/lhlizdabezt/main/assets/github-dashboard.svg" alt="GitHub portfolio status dashboard with 22 public repositories, 19 owned evidence repositories and core engineering tracks" />
+  <img width="900" src="https://raw.githubusercontent.com/lhlizdabezt/lhlizdabezt/main/assets/github-dashboard.svg" alt="GitHub portfolio status dashboard with 24 public repositories, 21 owned evidence repositories and core engineering tracks" />
 </p>
 
 <p align="center">
@@ -33,7 +33,7 @@
 
 ## About
 
-I am an Electronics and Telecommunications Engineering senior at VNUHCM - University of Science, focused on applied computer vision, machine learning, network communications and embedded systems. My current portfolio is built around evidence-backed repositories rather than broad claims: source code, reports, release assets, visual flows and bounded prototype notes.
+I am an Electronics and Telecommunications Engineering senior at VNUHCM - University of Science, focused on applied computer vision, machine learning, network communications, embedded systems and electronic instrumentation. My current portfolio is built around evidence-backed repositories rather than broad claims: source code, reports, release assets, visual flows and bounded prototype notes.
 
 My strongest work is in Vietnamese automatic license plate recognition with YOLO/PyTorch and OCR/FastALPR, Python desktop tooling, MATLAB communications simulations, TCP/IP and BLE data paths, FPGA/SoC integration on the Intel DE10-Standard, and STM32 or Silicon Labs embedded workflows. I keep embedded and FPGA work visible because it supports system-level reasoning around AI, communications and hardware-adjacent software.
 
@@ -45,7 +45,7 @@ I am open to internships and junior engineering opportunities in computer vision
 |---|---|
 | Profile focus | Computer vision, AI/ML, network communications, FPGA/SoC and embedded systems |
 | Hiring status | Open to engineering internships and junior engineering opportunities |
-| Public repository status | 22 public repositories total, including 19 owned evidence repositories and 3 public forks |
+| Public repository status | 24 public repositories total, including 21 owned evidence repositories and 3 public forks |
 | Review language | US English across profile text, tables, captions, labels and release notes |
 | Visual policy | Self-hosted SVG/GIF assets with ASCII-safe SVG text and no line paths behind labels |
 
@@ -103,6 +103,18 @@ I am open to internships and junior engineering opportunities in computer vision
       <p><img src="https://raw.githubusercontent.com/lhlizdabezt/ThucHanhTruyenThongKhongDay/v1.0.2/assets/portfolio-motion.svg" alt="Line-free wireless communications practice portfolio visual" width="100%" /></p>
     </td>
   </tr>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/lhlizdabezt/ETC00021-Sensors-Measurement-Instrumentation">AgriEye Sensors and Instrumentation</a></h3>
+      <p>ESP32-CAM edge vision, a custom-driver sensor node, a 38-class model audit, KiCad hardware and Typst reports with an explicit deployment-gate decision.</p>
+      <p><img src="https://raw.githubusercontent.com/lhlizdabezt/ETC00021-Sensors-Measurement-Instrumentation/v1.0.0/assets/course-hero.svg" alt="ETC00021 AgriEye sensors and instrumentation portfolio" width="100%" /></p>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/lhlizdabezt/ETC00085-Sensors-Measurement-Lab">Sensors and Measurement Laboratory</a></h3>
+      <p>Nine privacy-preserving public reports covering analog measurement, optical sensors, AC current, RMS analysis, ACS712, NTC compensation and Arduino evidence.</p>
+      <p><img src="https://raw.githubusercontent.com/lhlizdabezt/ETC00085-Sensors-Measurement-Lab/v1.0.0/assets/course-hero.svg" alt="ETC00085 sensors and measurement laboratory portfolio" width="100%" /></p>
+    </td>
+  </tr>
 </table>
 
 ## Technical Stack
@@ -117,6 +129,7 @@ I am open to internships and junior engineering opportunities in computer vision
   <img src="https://img.shields.io/badge/Networks%20%2F%20Comms-TCP%20BLE%20OFDM-0ea5e9?style=for-the-badge" alt="Networks and communications: TCP BLE OFDM" />
   <img src="https://img.shields.io/badge/FPGA%20%2F%20SoC-Quartus%20Cyclone%20V-334155?style=for-the-badge" alt="FPGA SoC Quartus Cyclone V" />
   <img src="https://img.shields.io/badge/Embedded-STM32%20BLE%20UART-0f766e?style=for-the-badge" alt="Embedded systems STM32 BLE UART" />
+  <img src="https://img.shields.io/badge/Instrumentation-Sensors%20ADC%20Calibration-7c3aed?style=for-the-badge" alt="Instrumentation sensors ADC calibration" />
   <img src="https://img.shields.io/badge/MATLAB-DSP%20BER%20Wireless-f59e0b?style=for-the-badge" alt="MATLAB DSP BER Wireless" />
 </p>
 
