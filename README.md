@@ -2,10 +2,10 @@
   <img src="https://raw.githubusercontent.com/lhlizdabezt/lhlizdabezt/main/assets/profile-hero.svg" alt="Luong Hai Long engineering portfolio banner" />
 </p>
 
-<h1 align="center">Luong Hai Long - Computer Vision, AI/ML, Network Communications, FPGA/SoC</h1>
+<h1 align="center">Luong Hai Long - Computer Vision, AI/ML, DSP, Communications, FPGA/SoC</h1>
 
 <p align="center">
-  <a href="https://github.com/lhlizdabezt?tab=repositories"><img src="https://img.shields.io/badge/Portfolio-24%20public%20repositories-38BDF8?style=for-the-badge&logo=github&logoColor=0f172a" alt="GitHub portfolio with 24 public repositories" /></a>
+  <a href="https://github.com/lhlizdabezt?tab=repositories"><img src="https://img.shields.io/badge/Portfolio-25%20public%20repositories-38BDF8?style=for-the-badge&logo=github&logoColor=0f172a" alt="GitHub portfolio with 25 public repositories" /></a>
   <a href="https://github.com/lhlizdabezt"><img src="https://komarev.com/ghpvc/?username=lhlizdabezt&label=Profile%20Views&color=0f766e&style=for-the-badge" alt="GitHub profile views counter" /></a>
   <a href="https://www.linkedin.com/in/lhlizdabezt"><img src="https://img.shields.io/badge/LinkedIn-lhlizdabezt-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile for Luong Hai Long" /></a>
   <a href="mailto:luonghailong.work@gmail.com"><img src="https://img.shields.io/badge/Work%20Email-luonghailong.work%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Work email luonghailong.work@gmail.com" /></a>
@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  <img width="900" src="https://raw.githubusercontent.com/lhlizdabezt/lhlizdabezt/main/assets/github-dashboard.svg" alt="GitHub portfolio status dashboard with 24 public repositories, 21 owned evidence repositories and core engineering tracks" />
+  <img width="900" src="https://raw.githubusercontent.com/lhlizdabezt/lhlizdabezt/main/assets/github-dashboard.svg" alt="GitHub portfolio status dashboard with 25 public repositories, 22 owned evidence repositories and core engineering tracks" />
 </p>
 
 <p align="center">
@@ -33,7 +33,7 @@
 
 ## About
 
-I am an Electronics and Telecommunications Engineering senior at VNUHCM - University of Science, focused on applied computer vision, machine learning, network communications, embedded systems and electronic instrumentation. My current portfolio is built around evidence-backed repositories rather than broad claims: source code, reports, release assets, visual flows and bounded prototype notes.
+I am an Electronics and Telecommunications Engineering senior at VNUHCM - University of Science, focused on applied computer vision, machine learning, digital signal processing, network communications, embedded systems and electronic instrumentation. My portfolio is built around evidence-backed repositories: source code, reports, release assets, visual flows and bounded prototype notes.
 
 My strongest work is in Vietnamese automatic license plate recognition with YOLO/PyTorch and OCR/FastALPR, Python desktop tooling, MATLAB communications simulations, TCP/IP and BLE data paths, FPGA/SoC integration on the Intel DE10-Standard, and STM32 or Silicon Labs embedded workflows. I keep embedded and FPGA work visible because it supports system-level reasoning around AI, communications and hardware-adjacent software.
 
@@ -43,9 +43,9 @@ I am open to internships and junior engineering opportunities in computer vision
 
 | Item | Current value |
 |---|---|
-| Profile focus | Computer vision, AI/ML, network communications, FPGA/SoC and embedded systems |
+| Profile focus | Computer vision, AI/ML, DSP, network communications, FPGA/SoC and embedded systems |
 | Hiring status | Open to engineering internships and junior engineering opportunities |
-| Public repository status | 24 public repositories total, including 21 owned evidence repositories and 3 public forks |
+| Public repository status | 25 public repositories total, including 22 owned evidence repositories and 3 public forks |
 | Review language | US English across profile text, tables, captions, labels and release notes |
 | Visual policy | Self-hosted SVG/GIF assets with ASCII-safe SVG text and no line paths behind labels |
 
@@ -101,6 +101,13 @@ I am open to internships and junior engineering opportunities in computer vision
       <h3><a href="https://github.com/lhlizdabezt/ThucHanhTruyenThongKhongDay">Wireless Communications Practice</a></h3>
       <p>MATLAB practice repository with 23 scripts, lecture and exam PDFs, fading-channel BER, OFDM, MIMO SVD, equalizers and diversity review evidence.</p>
       <p><img src="https://raw.githubusercontent.com/lhlizdabezt/ThucHanhTruyenThongKhongDay/v1.0.2/assets/portfolio-motion.svg" alt="Line-free wireless communications practice portfolio visual" width="100%" /></p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <h3><a href="https://github.com/lhlizdabezt/Digital-Signal-Processing-Seminar-2026">Digital Signal Processing Seminar 2026</a></h3>
+      <p>Five reviewed MATLAB and Jupyter studies covering normalized cross-correlation, FFT note analysis, finite equalization, audio low-pass filtering and manual ECG notch-filter design. The public release includes reports, reproducible evidence and explicit verification limits.</p>
+      <p align="center"><img src="https://raw.githubusercontent.com/lhlizdabezt/Digital-Signal-Processing-Seminar-2026/v1.0.0/assets/dsp-seminar-motion.gif" alt="Five-study digital signal processing seminar evidence overview" width="72%" /></p>
     </td>
   </tr>
   <tr>

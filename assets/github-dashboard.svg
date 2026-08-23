@@ -43,12 +43,12 @@
 
   <g transform="translate(54 120)">
     <rect class="tile" x="0" y="0" width="346" height="54" rx="10"/>
-    <text x="16" y="34" class="metricValue">24</text>
+    <text x="16" y="34" class="metricValue">25</text>
     <text x="86" y="23" class="metricLabel">public repos</text>
     <text x="86" y="39" class="metricSub">portfolio scope</text>
 
     <rect class="tile" x="0" y="70" width="346" height="54" rx="10"/>
-    <text x="16" y="104" class="metricValue">21</text>
+    <text x="16" y="104" class="metricValue">22</text>
     <text x="86" y="93" class="metricLabel">owned repos</text>
     <text x="86" y="109" class="metricSub">core evidence</text>
   </g>
@@ -74,7 +74,7 @@
     <rect x="122" y="74" width="226" height="12" rx="6" fill="#1e293b"/>
     <rect x="122" y="74" width="142" height="12" rx="6" fill="#a78bfa"/>
 
-    <text x="0" y="112" class="mono">Reports</text>
+    <text x="0" y="112" class="mono">DSP MATLAB</text>
     <rect x="122" y="102" width="226" height="12" rx="6" fill="#1e293b"/>
     <rect x="122" y="102" width="126" height="12" rx="6" fill="#22d3ee"/>
   </g>
