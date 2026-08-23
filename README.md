@@ -5,7 +5,7 @@
 <h1 align="center">Luong Hai Long - Computer Vision, AI/ML, DSP, Communications, FPGA/SoC</h1>
 
 <p align="center">
-  <a href="https://github.com/lhlizdabezt?tab=repositories"><img src="https://img.shields.io/badge/Portfolio-26%20public%20repositories-38BDF8?style=for-the-badge&logo=github&logoColor=0f172a" alt="GitHub portfolio with 26 public repositories" /></a>
+  <a href="https://github.com/lhlizdabezt?tab=repositories"><img src="https://img.shields.io/badge/Portfolio-27%20public%20repositories-38BDF8?style=for-the-badge&logo=github&logoColor=0f172a" alt="GitHub portfolio with 27 public repositories" /></a>
   <a href="https://github.com/lhlizdabezt"><img src="https://komarev.com/ghpvc/?username=lhlizdabezt&label=Profile%20Views&color=0f766e&style=for-the-badge" alt="GitHub profile views counter" /></a>
   <a href="https://www.linkedin.com/in/lhlizdabezt"><img src="https://img.shields.io/badge/LinkedIn-lhlizdabezt-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile for Luong Hai Long" /></a>
   <a href="mailto:luonghailong.work@gmail.com"><img src="https://img.shields.io/badge/Work%20Email-luonghailong.work%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Work email luonghailong.work@gmail.com" /></a>
@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  <img width="900" src="https://raw.githubusercontent.com/lhlizdabezt/lhlizdabezt/main/assets/github-dashboard.svg" alt="GitHub portfolio status dashboard with 26 public repositories, 23 owned evidence repositories and core engineering tracks" />
+  <img width="900" src="https://raw.githubusercontent.com/lhlizdabezt/lhlizdabezt/main/assets/github-dashboard.svg" alt="GitHub portfolio status dashboard with 27 public repositories, 24 owned evidence repositories and core engineering tracks" />
 </p>
 
 <p align="center">
@@ -35,7 +35,7 @@
 
 I am an Electronics and Telecommunications Engineering senior at VNUHCM - University of Science, focused on applied computer vision, machine learning, digital signal processing, network communications, embedded systems and electronic instrumentation. My portfolio is built around evidence-backed repositories: source code, reports, release assets, visual flows and bounded prototype notes.
 
-My strongest work is in Vietnamese automatic license plate recognition with YOLO/PyTorch and OCR/FastALPR, Python desktop tooling, MATLAB communications simulations, TCP/IP and BLE data paths, FPGA/SoC integration on the Intel DE10-Standard, and STM32 or Silicon Labs embedded workflows. I keep embedded and FPGA work visible because it supports system-level reasoning around AI, communications and hardware-adjacent software.
+My strongest work is in Vietnamese automatic license plate recognition with YOLO/PyTorch and OCR/FastALPR, automatic modulation classification with DSP and PyTorch, Python desktop tooling, MATLAB communications simulations, TCP/IP and BLE data paths, FPGA/SoC integration on the Intel DE10-Standard, and STM32 or Silicon Labs embedded workflows. I keep embedded and FPGA work visible because it supports system-level reasoning around AI, communications and hardware-adjacent software.
 
 I am open to internships and junior engineering opportunities in computer vision, machine learning, network/telecommunications engineering, embedded computer vision, firmware, FPGA/SoC systems and platform validation.
 
@@ -45,7 +45,7 @@ I am open to internships and junior engineering opportunities in computer vision
 |---|---|
 | Profile focus | Computer vision, AI/ML, DSP, network communications, FPGA/SoC and embedded systems |
 | Hiring status | Open to engineering internships and junior engineering opportunities |
-| Public repository status | 26 public repositories total, including 23 owned evidence repositories and 3 public forks |
+| Public repository status | 27 public repositories total, including 24 owned evidence repositories and 3 public forks |
 | Review language | US English across profile text, tables, captions, labels and release notes |
 | Visual policy | Self-hosted SVG/GIF assets with ASCII-safe SVG text and no line paths behind labels |
 
@@ -67,6 +67,13 @@ I am open to internships and junior engineering opportunities in computer vision
 ## Featured Portfolio Repositories
 
 <table>
+  <tr>
+    <td colspan="2">
+      <h3><a href="https://github.com/lhlizdabezt/DEEPDSP-Automatic-Modulation-Classification">DEEPDSP-AMC Automatic Modulation Classification</a></h3>
+      <p>Six-class I/Q signal classifier combining 18 DSP features, a 400-tree Random Forest, an 81,030-parameter 1D CNN and validation-selected probability fusion. The verified release includes a 44-page report, executed notebook, trained Streamlit workbench, fixed test predictions and explicit synthetic-data limits.</p>
+      <p><img src="https://raw.githubusercontent.com/lhlizdabezt/DEEPDSP-Automatic-Modulation-Classification/v1.0.0/assets/deepdsp-amc-banner.svg" alt="DEEPDSP AMC automatic modulation classification evidence overview" width="100%" /></p>
+    </td>
+  </tr>
   <tr>
     <td width="50%">
       <h3><a href="https://github.com/lhlizdabezt/NhapMonAI">Vietnamese ALPR with YOLO and OCR</a></h3>
