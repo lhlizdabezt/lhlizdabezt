@@ -5,7 +5,7 @@
 <h1 align="center">Luong Hai Long - Computer Vision, AI/ML, DSP, Communications, FPGA/SoC</h1>
 
 <p align="center">
-  <a href="https://github.com/lhlizdabezt?tab=repositories"><img src="https://img.shields.io/badge/Portfolio-25%20public%20repositories-38BDF8?style=for-the-badge&logo=github&logoColor=0f172a" alt="GitHub portfolio with 25 public repositories" /></a>
+  <a href="https://github.com/lhlizdabezt?tab=repositories"><img src="https://img.shields.io/badge/Portfolio-26%20public%20repositories-38BDF8?style=for-the-badge&logo=github&logoColor=0f172a" alt="GitHub portfolio with 26 public repositories" /></a>
   <a href="https://github.com/lhlizdabezt"><img src="https://komarev.com/ghpvc/?username=lhlizdabezt&label=Profile%20Views&color=0f766e&style=for-the-badge" alt="GitHub profile views counter" /></a>
   <a href="https://www.linkedin.com/in/lhlizdabezt"><img src="https://img.shields.io/badge/LinkedIn-lhlizdabezt-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile for Luong Hai Long" /></a>
   <a href="mailto:luonghailong.work@gmail.com"><img src="https://img.shields.io/badge/Work%20Email-luonghailong.work%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Work email luonghailong.work@gmail.com" /></a>
@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  <img width="900" src="https://raw.githubusercontent.com/lhlizdabezt/lhlizdabezt/main/assets/github-dashboard.svg" alt="GitHub portfolio status dashboard with 25 public repositories, 22 owned evidence repositories and core engineering tracks" />
+  <img width="900" src="https://raw.githubusercontent.com/lhlizdabezt/lhlizdabezt/main/assets/github-dashboard.svg" alt="GitHub portfolio status dashboard with 26 public repositories, 23 owned evidence repositories and core engineering tracks" />
 </p>
 
 <p align="center">
@@ -45,7 +45,7 @@ I am open to internships and junior engineering opportunities in computer vision
 |---|---|
 | Profile focus | Computer vision, AI/ML, DSP, network communications, FPGA/SoC and embedded systems |
 | Hiring status | Open to engineering internships and junior engineering opportunities |
-| Public repository status | 25 public repositories total, including 22 owned evidence repositories and 3 public forks |
+| Public repository status | 26 public repositories total, including 23 owned evidence repositories and 3 public forks |
 | Review language | US English across profile text, tables, captions, labels and release notes |
 | Visual policy | Self-hosted SVG/GIF assets with ASCII-safe SVG text and no line paths behind labels |
 
@@ -104,10 +104,15 @@ I am open to internships and junior engineering opportunities in computer vision
     </td>
   </tr>
   <tr>
-    <td colspan="2">
+    <td width="50%">
       <h3><a href="https://github.com/lhlizdabezt/Digital-Signal-Processing-Seminar-2026">Digital Signal Processing Seminar 2026</a></h3>
       <p>Five reviewed MATLAB and Jupyter studies covering normalized cross-correlation, FFT note analysis, finite equalization, audio low-pass filtering and manual ECG notch-filter design. The public release includes reports, reproducible evidence and explicit verification limits.</p>
-      <p align="center"><img src="https://raw.githubusercontent.com/lhlizdabezt/Digital-Signal-Processing-Seminar-2026/v1.0.0/assets/dsp-seminar-motion.gif" alt="Five-study digital signal processing seminar evidence overview" width="72%" /></p>
+      <p><img src="https://raw.githubusercontent.com/lhlizdabezt/Digital-Signal-Processing-Seminar-2026/v1.0.0/assets/dsp-seminar-motion.gif" alt="Five-study digital signal processing seminar evidence overview" width="100%" /></p>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/lhlizdabezt/Digital-Signal-Processing-Laboratory-2026">Digital Signal Processing Laboratory 2026</a></h3>
+      <p>Executed Jupyter notebooks and searchable reports for Labs 2-6, covering LTI systems, Fourier analysis, frequency response, FIR/IIR design and audio filtering. The verified release includes 139 report pages, audio artifacts and automated validation.</p>
+      <p><img src="https://raw.githubusercontent.com/lhlizdabezt/Digital-Signal-Processing-Laboratory-2026/v1.0.0/assets/dsp-lab-motion.svg" alt="Digital signal processing laboratory evidence overview" width="100%" /></p>
     </td>
   </tr>
   <tr>
