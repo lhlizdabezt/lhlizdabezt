@@ -71,7 +71,7 @@ I am open to internships and junior engineering opportunities in computer vision
     <td colspan="2">
       <h3><a href="https://github.com/lhlizdabezt/DEEPDSP-Automatic-Modulation-Classification">DEEPDSP-AMC Automatic Modulation Classification</a></h3>
       <p>Six-class I/Q signal classifier combining 18 DSP features, a 400-tree Random Forest, an 81,030-parameter 1D CNN and validation-selected probability fusion. The verified release includes a 44-page report, executed notebook, trained Streamlit workbench, fixed test predictions and explicit synthetic-data limits.</p>
-      <p><img src="https://raw.githubusercontent.com/lhlizdabezt/DEEPDSP-Automatic-Modulation-Classification/v1.0.0/assets/deepdsp-amc-banner.svg" alt="DEEPDSP AMC automatic modulation classification evidence overview" width="100%" /></p>
+      <p><img src="https://raw.githubusercontent.com/lhlizdabezt/DEEPDSP-Automatic-Modulation-Classification/v1.0.1/assets/deepdsp-amc-banner.svg" alt="DEEPDSP AMC automatic modulation classification evidence overview" width="100%" /></p>
     </td>
   </tr>
   <tr>

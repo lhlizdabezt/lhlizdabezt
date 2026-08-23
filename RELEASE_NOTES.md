@@ -1,22 +1,17 @@
-# v2.2.8 - DEEPDSP-AMC Integration
+# v2.2.9 - DEEPDSP-AMC Banner Layout Fix
 
 ## Scope
 
-This release integrates the verified DEEPDSP-AMC automatic modulation classification repository into the profile while preserving the existing evidence-first engineering focus.
+This patch updates the profile to use the corrected DEEPDSP-AMC banner from the immutable `v1.0.1` project release.
 
 ## Changes
 
-- Added DEEPDSP-AMC as a full-width featured project with an immutable release-linked motion preview and concise technical description.
-- Added automatic modulation classification with DSP and PyTorch to the profile's strongest-work summary.
-- Updated the repository status to 27 public repositories: 24 owned evidence repositories and 3 public forks.
-- Updated the self-hosted dashboard with ASCII-safe English text and verified spacing.
-- Kept all requested contact and social links visible: Facebook, Instagram, LinkedIn, YouTube, TikTok, work email, student email and phone.
-- Preserved the existing computer vision, communications, FPGA/SoC, embedded and instrumentation project evidence.
+- Replaced the DEEPDSP-AMC `v1.0.0` banner URL with the `v1.0.1` tag URL.
+- Preserved the featured-project description, ordering, contact links and profile views counter.
+- Confirmed that all three banner labels are centered and remain inside their cards.
 
 ## Verification
 
-- Confirmed the profile views counter appears only in the profile README and all requested contact/social links remain visible.
-- Confirmed the DEEPDSP-AMC release visual resolves from the immutable `v1.0.0` tag.
-- Confirmed profile SVG assets use ASCII-safe text.
-- Confirmed `git diff --check` passes before publishing.
-- Confirmed the profile release points to the final pushed commit.
+- Confirmed the tagged raw SVG returns HTTP 200.
+- Confirmed the tagged SVG blob matches the validated project commit.
+- Confirmed the profile README references only the corrected DEEPDSP-AMC tag.
