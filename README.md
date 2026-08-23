@@ -87,8 +87,8 @@ I am open to internships and junior engineering opportunities in computer vision
     </td>
     <td width="50%">
       <h3><a href="https://github.com/lhlizdabezt/DienTuSo">Digital Electronics Traffic-Light Controller</a></h3>
-      <p>Roundabout traffic-light controller using sequential digital logic, a mod-12 counter, JK flip-flops, Falstad/CircuitJS simulation and Node.js logic checks.</p>
-      <p><img src="https://raw.githubusercontent.com/lhlizdabezt/DienTuSo/v1.1.2/assets/roundabout-motion.gif" alt="Digital electronics roundabout traffic-light motion" width="100%" /></p>
+      <p>Ten-state gate-level controller with automatic/manual clock selection, JK flip-flops, a minimized decoder, CircuitJS simulation, breadboard evidence and deterministic logic checks.</p>
+      <p><img src="https://raw.githubusercontent.com/lhlizdabezt/DienTuSo/v1.2.0/assets/roundabout-motion.gif" alt="Ten-state digital electronics roundabout traffic-light sequence" width="100%" /></p>
     </td>
   </tr>
   <tr>
