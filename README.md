@@ -2,10 +2,10 @@
   <img src="https://raw.githubusercontent.com/lhlizdabezt/lhlizdabezt/main/assets/profile-hero.svg" alt="Luong Hai Long engineering portfolio banner" />
 </p>
 
-<h1 align="center">Luong Hai Long - Computer Vision, AI/ML, DSP, Communications, FPGA/SoC</h1>
+<h1 align="center">Luong Hai Long - Computer Vision, AI/ML, DSP, Communications, FPGA/SoC, ASIC</h1>
 
 <p align="center">
-  <a href="https://github.com/lhlizdabezt?tab=repositories"><img src="https://img.shields.io/badge/Portfolio-27%20public%20repositories-38BDF8?style=for-the-badge&logo=github&logoColor=0f172a" alt="GitHub portfolio with 27 public repositories" /></a>
+  <a href="https://github.com/lhlizdabezt?tab=repositories"><img src="https://img.shields.io/badge/Portfolio-29%20public%20repositories-38BDF8?style=for-the-badge&logo=github&logoColor=0f172a" alt="GitHub portfolio with 29 public repositories" /></a>
   <a href="https://github.com/lhlizdabezt"><img src="https://komarev.com/ghpvc/?username=lhlizdabezt&label=Profile%20Views&color=0f766e&style=for-the-badge" alt="GitHub profile views counter" /></a>
   <a href="https://www.linkedin.com/in/lhlizdabezt"><img src="https://img.shields.io/badge/LinkedIn-lhlizdabezt-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile for Luong Hai Long" /></a>
   <a href="mailto:luonghailong.work@gmail.com"><img src="https://img.shields.io/badge/Work%20Email-luonghailong.work%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Work email luonghailong.work@gmail.com" /></a>
@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  <img width="900" src="https://raw.githubusercontent.com/lhlizdabezt/lhlizdabezt/main/assets/github-dashboard.svg" alt="GitHub portfolio status dashboard with 27 public repositories, 24 owned evidence repositories and core engineering tracks" />
+  <img width="900" src="https://raw.githubusercontent.com/lhlizdabezt/lhlizdabezt/main/assets/github-dashboard.svg" alt="GitHub portfolio status dashboard with 29 public repositories, 26 owned evidence repositories and core engineering tracks" />
 </p>
 
 <p align="center">
@@ -33,19 +33,19 @@
 
 ## About
 
-I am an Electronics and Telecommunications Engineering senior at VNUHCM - University of Science, focused on applied computer vision, machine learning, digital signal processing, network communications, embedded systems and electronic instrumentation. My portfolio is built around evidence-backed repositories: source code, reports, release assets, visual flows and bounded prototype notes.
+I am an Electronics and Telecommunications Engineering senior at VNUHCM - University of Science, focused on applied computer vision, machine learning, digital signal processing, network communications, embedded systems, FPGA/SoC integration, ASIC RTL design and electronic instrumentation. My portfolio is built around evidence-backed repositories: source code, reports, release assets, visual flows and bounded implementation notes.
 
-My strongest work is in Vietnamese automatic license plate recognition with YOLO/PyTorch and OCR/FastALPR, automatic modulation classification with DSP and PyTorch, Python desktop tooling, MATLAB communications simulations, TCP/IP and BLE data paths, FPGA/SoC integration on the Intel DE10-Standard, and STM32 or Silicon Labs embedded workflows. I keep embedded and FPGA work visible because it supports system-level reasoning around AI, communications and hardware-adjacent software.
+My strongest work is in Vietnamese automatic license plate recognition with YOLO/PyTorch and OCR/FastALPR, automatic modulation classification with DSP and PyTorch, Python desktop tooling, MATLAB communications simulations, TCP/IP and BLE data paths, FPGA/SoC integration on the Intel DE10-Standard, ASIC RTL-to-route coursework with Verilog and Synopsys tools, and STM32 or Silicon Labs embedded workflows.
 
-I am open to internships and junior engineering opportunities in computer vision, machine learning, network/telecommunications engineering, embedded computer vision, firmware, FPGA/SoC systems and platform validation.
+I am open to internships and junior engineering opportunities in computer vision, machine learning, network/telecommunications engineering, embedded computer vision, firmware, FPGA/SoC systems, digital IC/RTL engineering and platform validation.
 
 ## Current Status
 
 | Item | Current value |
 |---|---|
-| Profile focus | Computer vision, AI/ML, DSP, network communications, FPGA/SoC and embedded systems |
+| Profile focus | Computer vision, AI/ML, DSP, network communications, FPGA/SoC, ASIC RTL and embedded systems |
 | Hiring status | Open to engineering internships and junior engineering opportunities |
-| Public repository status | 27 public repositories total, including 24 owned evidence repositories and 3 public forks |
+| Public repository status | 29 public repositories total, including 26 owned evidence repositories and 3 public forks |
 | Review language | US English across profile text, tables, captions, labels and release notes |
 | Visual policy | Self-hosted SVG/GIF assets with ASCII-safe SVG text and no line paths behind labels |
 
@@ -134,6 +134,18 @@ I am open to internships and junior engineering opportunities in computer vision
       <p><img src="https://raw.githubusercontent.com/lhlizdabezt/ETC00085-Sensors-Measurement-Lab/v1.0.0/assets/course-hero.svg" alt="ETC00085 sensors and measurement laboratory portfolio" width="100%" /></p>
     </td>
   </tr>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/lhlizdabezt/ETC10122-Electronic-IC-Design">ETC10122 Electronic Integrated Circuit Design</a></h3>
+      <p>Dual-port RAM RTL and verification portfolio with a 12-check self-checking testbench, Design Compiler and Formality evidence, portable ICC2 handoff, worked exercises and a detailed 2020 examination solution.</p>
+      <p><img src="https://raw.githubusercontent.com/lhlizdabezt/ETC10122-Electronic-IC-Design/v1.0.0/assets/course-hero.svg" alt="ETC10122 electronic integrated circuit design portfolio" width="100%" /></p>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/lhlizdabezt/ETC10123-Electronic-IC-Design-Laboratory">ETC10123 Electronic IC Design Laboratory</a></h3>
+      <p>Eight-bit SPI Master ASIC project with eight directed RTL transactions, synthesis and dual-boundary Formality evidence, ICC2 implementation scripts, six weekly reports and explicit signoff limitations.</p>
+      <p><img src="https://raw.githubusercontent.com/lhlizdabezt/ETC10123-Electronic-IC-Design-Laboratory/v1.0.0/assets/course-hero.svg" alt="ETC10123 electronic integrated circuit design laboratory portfolio" width="100%" /></p>
+    </td>
+  </tr>
 </table>
 
 ## Technical Stack
@@ -147,6 +159,7 @@ I am open to internships and junior engineering opportunities in computer vision
   <img src="https://img.shields.io/badge/AI%20%2F%20ML-PyTorch%20Kaggle-D95319?style=for-the-badge" alt="AI and machine learning: PyTorch Kaggle" />
   <img src="https://img.shields.io/badge/Networks%20%2F%20Comms-TCP%20BLE%20OFDM-0ea5e9?style=for-the-badge" alt="Networks and communications: TCP BLE OFDM" />
   <img src="https://img.shields.io/badge/FPGA%20%2F%20SoC-Quartus%20Cyclone%20V-334155?style=for-the-badge" alt="FPGA SoC Quartus Cyclone V" />
+  <img src="https://img.shields.io/badge/ASIC%20%2F%20RTL-Verilog%20Formality%20ICC2-5e6ad2?style=for-the-badge" alt="ASIC RTL Verilog Formality ICC2" />
   <img src="https://img.shields.io/badge/Embedded-STM32%20BLE%20UART-0f766e?style=for-the-badge" alt="Embedded systems STM32 BLE UART" />
   <img src="https://img.shields.io/badge/Instrumentation-Sensors%20ADC%20Calibration-7c3aed?style=for-the-badge" alt="Instrumentation sensors ADC calibration" />
   <img src="https://img.shields.io/badge/MATLAB-DSP%20BER%20Wireless-f59e0b?style=for-the-badge" alt="MATLAB DSP BER Wireless" />
