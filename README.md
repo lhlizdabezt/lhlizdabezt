@@ -124,8 +124,8 @@ I am open to internships and junior engineering opportunities in computer vision
     </td>
     <td width="50%">
       <h3><a href="https://github.com/lhlizdabezt/Network-Technology-Laboratory-2026">Network Technology Laboratory 2026</a></h3>
-      <p>Six Packet Tracer laboratories covering dual-stack access, VLANs, inter-VLAN routing, STP, EtherChannel, DHCP, OSPF, NAT, WLAN and application services, with reproducible Typst reports and an eight-PDF release bundle.</p>
-      <p><img src="https://raw.githubusercontent.com/lhlizdabezt/Network-Technology-Laboratory-2026/v1.0.0/assets/course-hero.svg" alt="Network Technology Laboratory 2026 portfolio banner" width="100%" /></p>
+      <p>Six Packet Tracer laboratories covering dual-stack access, VLANs, inter-VLAN routing, STP, EtherChannel, DHCP, OSPF, NAT, WLAN and application services, with 14 checked Typst sources, eight compiled coursework PDFs and a complete final-review PDF, DOCX and PKA package.</p>
+      <p><img src="https://raw.githubusercontent.com/lhlizdabezt/Network-Technology-Laboratory-2026/v1.1.0/assets/course-hero.svg" alt="Network Technology Laboratory 2026 portfolio banner" width="100%" /></p>
     </td>
   </tr>
   <tr>
