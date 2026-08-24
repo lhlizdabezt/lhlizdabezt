@@ -1,27 +1,19 @@
-# v2.6.2 - Network Coursework Portfolio Update
+# v2.6.3 - Complete Network Security Evidence Set
 
 ## Scope
 
-This patch adds the two independently curated networking course repositories and
-synchronizes the verified public portfolio count.
+This patch synchronizes the profile with the complete Network Security Coursework 2026 release.
 
 ## Changes
 
-- Added Network Security Coursework 2026 with secure-management, SSH,
-  assessment-evidence, cryptanalysis, and academic-integrity boundaries.
-- Added Network Technology Laboratory 2026 with six switching, routing,
-  service, and verification laboratories.
-- Synchronized the status dashboard to 34 public repositories, including 31
-  owned evidence repositories and 3 public forks.
-- Added Cisco IOS, SSH, OSPF, and NAT to the visible network-security stack.
-- Extended the profile summary without changing the evidence-backed positioning.
-- Preserved the single profile views counter and all requested contact and
-  social links.
+- Updated the Network Security featured card from one documented lab to four Packet Tracer assessment files.
+- Added restrained evidence for SSH hardening, centralized AAA, IP ACL mitigation, and Layer 2 VLAN security.
+- Added the verified 26-page laboratory report and 39-page and 105-page final-review guide scope.
+- Moved the featured banner to the immutable repository tag `v1.1.0`.
+- Preserved the verified portfolio count, profile positioning, single profile views badge, and all requested contact and social links.
 
 ## Verification
 
-- Confirmed both public repositories, v1.0.0 tags, release assets, topics, and
-  successful report-build workflows.
-- Confirmed both immutable v1.0.0 course-banner URLs return HTTP 200.
-- Confirmed the profile contains exactly one profile views badge and retains all
-  requested social, email, and telephone links.
+- Confirmed repository release `v1.1.0` targets commit `53079634d1064b6614604335f593021f8cea09a0` and contains ten release assets.
+- Confirmed the four Packet Tracer hashes, three PDF builds, two review datasets, and 31 source figures pass the repository QA gate.
+- Confirmed the immutable `v1.1.0` banner renders without clipping, overlap, dotted paths, curved paths, or non-ASCII SVG text.

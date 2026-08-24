@@ -119,8 +119,8 @@ I am open to internships and junior engineering opportunities in computer vision
   <tr>
     <td width="50%">
       <h3><a href="https://github.com/lhlizdabezt/Network-Security-Coursework-2026">Network Security Coursework 2026</a></h3>
-      <p>Evidence-bound Cisco IOS hardening portfolio covering secure credentials, SSH-only management, login protection, unused-port shutdown, Packet Tracer assessment evidence and a constrained Vigenere glossary. Official activities and answer banks remain private.</p>
-      <p><img src="https://raw.githubusercontent.com/lhlizdabezt/Network-Security-Coursework-2026/v1.0.0/assets/course-hero.svg" alt="Network Security Coursework 2026 portfolio banner" width="100%" /></p>
+      <p>Four Cisco Packet Tracer assessments covering SSH hardening, centralized AAA, IP ACL mitigation and Layer 2 VLAN security, supported by a 26-page report and source-checked 39-page and 105-page final-review guides.</p>
+      <p><img src="https://raw.githubusercontent.com/lhlizdabezt/Network-Security-Coursework-2026/v1.1.0/assets/course-hero.svg" alt="Network Security Coursework 2026 portfolio banner" width="100%" /></p>
     </td>
     <td width="50%">
       <h3><a href="https://github.com/lhlizdabezt/Network-Technology-Laboratory-2026">Network Technology Laboratory 2026</a></h3>
