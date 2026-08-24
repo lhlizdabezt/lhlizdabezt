@@ -182,7 +182,7 @@ I am open to internships and junior engineering opportunities in computer vision
     <td colspan="2">
       <h3><a href="https://github.com/lhlizdabezt/Data-Structures-and-Algorithms-Coursework-2026">Data Structures and Algorithms Coursework 2026</a></h3>
       <p>Nine C11 foundation labs, six advanced C/C++ submissions, seven SHA-256-pinned reports, and a Group 08 C++17 Smart Campus Parking simulation with 24/24 tests and 21-event browser evidence.</p>
-      <p><img src="https://raw.githubusercontent.com/lhlizdabezt/Data-Structures-and-Algorithms-Coursework-2026/v1.0.0/assets/course-hero.svg" alt="Data Structures and Algorithms Coursework 2026 portfolio" width="100%" /></p>
+      <p><img src="https://raw.githubusercontent.com/lhlizdabezt/Data-Structures-and-Algorithms-Coursework-2026/v1.0.1/assets/course-hero.svg" alt="Data Structures and Algorithms Coursework 2026 portfolio" width="100%" /></p>
     </td>
   </tr>
 </table>

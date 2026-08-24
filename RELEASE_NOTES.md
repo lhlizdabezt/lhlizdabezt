@@ -1,3 +1,22 @@
+# v2.6.7 - Data Structures Banner Layout Fix
+
+## Scope
+
+This patch points the featured Data Structures and Algorithms card to the corrected immutable course banner.
+
+## Changes
+
+- Updated the banner reference from project tag `v1.0.0` to `v1.0.1`.
+- Preserved every other featured card, portfolio counter, contact link, social link, and profile position.
+
+## Verification
+
+- Confirmed project `main`, tag `v1.0.1`, and release `v1.0.1` target commit `8d6bc366dd3fac1c71b9be4838762f5b0120d5c6`.
+- Sampled the banner from 0 through 6 seconds at full and profile-card widths; all four cards remain separated and inside the view box.
+- Confirmed the SVG is valid XML, ASCII-only, accessible, and free of geometric animation.
+
+---
+
 # v2.6.6 - Biomedical Portfolio Visual Fix
 
 ## Scope
@@ -35,7 +54,7 @@ This patch synchronizes the profile with the verified Data Structures and Algori
 
 - Confirmed repository tag `v1.0.0` and `main` both target commit `8460a2ab675c382991a1971f84b9c6c8855e3b3a`.
 - Confirmed 24/24 Smart Campus Parking tests, 21 exported C++ events, 153-file repository validation, successful CI, and successful GitHub Pages deployment.
-- Confirmed the tagged SVG banner returns HTTP 200 and renders without clipping, overlap, dotted motion paths, curved motion paths, or non-ASCII SVG text.
+- Confirmed the tagged SVG banner returns HTTP 200 and uses ASCII-only SVG text.
 
 ---
 
