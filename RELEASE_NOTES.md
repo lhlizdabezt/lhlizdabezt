@@ -1,3 +1,28 @@
+# v2.6.9 - Focused CV, ML and Communications Portfolio
+
+## Scope
+
+This patch reduces the profile's Featured Portfolio Repositories section to five projects aligned with computer vision, deep learning, machine learning, computer networks and telecommunications.
+
+## Changes
+
+- Retained `NhapMonAI` as the primary computer-vision and YOLO/OCR project.
+- Retained `DEEPDSP-Automatic-Modulation-Classification` as the cross-domain deep-learning, machine-learning and telecommunications project.
+- Retained `Network-Technology-Laboratory-2026` for Cisco IOS, Packet Tracer and network-protocol evidence.
+- Retained `TruyenThongSo` and `ThucHanhTruyenThongKhongDay` for digital and wireless communications evidence.
+- Removed 15 less relevant cards from the featured section without deleting or changing their repositories.
+- Tightened the heading, About copy and profile-focus status to match the selected career direction.
+- Preserved the profile-view counter, contact details, social links, resume link and existing self-hosted profile visuals.
+
+## Verification
+
+- Confirmed that the featured table contains exactly five distinct public repositories and no empty cells.
+- Confirmed that every featured repository has a public latest release and a version-pinned visual reference.
+- Confirmed US-English visible copy, ASCII-safe local SVG assets and the absence of placeholder or leaked tool text.
+- Confirmed all five version-pinned visual URLs return HTTP 200 before release publication.
+
+---
+
 # v2.6.8 - HCMUS Auto DKHP v5.4.0
 
 ## Scope

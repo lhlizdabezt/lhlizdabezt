@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/lhlizdabezt/lhlizdabezt/main/assets/profile-hero.svg" alt="Luong Hai Long engineering portfolio banner" />
 </p>
 
-<h1 align="center">Luong Hai Long - Computer Vision, AI/ML, DSP, Networks, FPGA/SoC, ASIC</h1>
+<h1 align="center">Luong Hai Long - Computer Vision, Deep Learning, Machine Learning, Networks and Telecommunications</h1>
 
 <p align="center">
   <a href="https://github.com/lhlizdabezt?tab=repositories"><img src="https://img.shields.io/badge/Portfolio-35%20public%20repositories-38BDF8?style=for-the-badge&logo=github&logoColor=0f172a" alt="GitHub portfolio with 35 public repositories" /></a>
@@ -33,17 +33,17 @@
 
 ## About
 
-I am an Electronics and Telecommunications Engineering senior at VNUHCM - University of Science, focused on applied computer vision, biomedical image processing, machine learning, digital signal processing, antenna and radio-wave propagation, network communications and security, embedded systems, FPGA/SoC integration, ASIC RTL design and electronic instrumentation. My portfolio is built around evidence-backed repositories: source code, reports, release assets, visual flows and bounded implementation notes.
+I am an Electronics and Telecommunications Engineering senior at VNUHCM - University of Science. I work on computer vision, deep learning, machine learning, network communications and telecommunications systems.
 
-My strongest work is in Vietnamese automatic license plate recognition with YOLO/PyTorch and OCR/FastALPR, manual CT image processing with quantitative validation, automatic modulation classification with DSP and PyTorch, MATLAB communications and antenna-pattern studies, Cisco IOS and Packet Tracer network laboratories, TCP/IP and BLE data paths, FPGA/SoC integration on the Intel DE10-Standard, ASIC RTL-to-route coursework with Verilog and Synopsys tools, and STM32 or Silicon Labs embedded workflows.
+My current work includes Vietnamese automatic license plate recognition with YOLO/PyTorch and OCR/FastALPR, automatic modulation classification with DSP features and a 1D CNN, Cisco IOS and Packet Tracer network laboratories, and MATLAB studies of digital and wireless communications. Each featured repository links to code, reports, visual evidence, release history and stated prototype limits where relevant.
 
-I am open to internships and junior engineering opportunities in computer vision, machine learning, network/telecommunications engineering, embedded computer vision, firmware, FPGA/SoC systems, digital IC/RTL engineering and platform validation.
+I am seeking internships and junior roles in computer vision, machine learning, network engineering and telecommunications. FPGA/SoC and embedded work remain supporting evidence of hardware-software systems experience.
 
 ## Current Status
 
 | Item | Current value |
 |---|---|
-| Profile focus | Computer vision, biomedical imaging, AI/ML, DSP, antennas and propagation, network communications and security, FPGA/SoC, ASIC RTL and embedded systems |
+| Profile focus | Computer vision, deep learning, machine learning, network communications and telecommunications |
 | Hiring status | Open to engineering internships and junior engineering opportunities |
 | Public repository status | 35 public repositories total, including 32 owned evidence repositories and 3 public forks |
 | Review language | US English across profile text, tables, captions, labels and release notes |
@@ -67,129 +67,33 @@ I am open to internships and junior engineering opportunities in computer vision
 
 <table>
   <tr>
-    <td colspan="2">
+    <td width="50%">
       <h3><a href="https://github.com/lhlizdabezt/DEEPDSP-Automatic-Modulation-Classification">DEEPDSP-AMC Automatic Modulation Classification</a></h3>
-      <p>Six-class I/Q signal classifier combining 18 DSP features, a 400-tree Random Forest, an 81,030-parameter 1D CNN and validation-selected probability fusion. The verified release includes a 44-page report, executed notebook, trained Streamlit workbench, fixed test predictions and explicit synthetic-data limits.</p>
+      <p>Six-class I/Q signal classification using 18 DSP features, a 400-tree Random Forest, a compact 1D CNN and validation-selected probability fusion, with explicit synthetic-data limits.</p>
       <p><img src="https://raw.githubusercontent.com/lhlizdabezt/DEEPDSP-Automatic-Modulation-Classification/v1.0.1/assets/deepdsp-amc-banner.svg" alt="DEEPDSP AMC automatic modulation classification evidence overview" width="100%" /></p>
     </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <h3><a href="https://github.com/lhlizdabezt/Biomedical-Image-Processing-Laboratory-2026">Biomedical Image Processing Laboratory 2026</a></h3>
-      <p>Two executed Jupyter laboratories and Typst/PDF reports covering manual ROI and histogram analysis, 5 x 5 spatial filtering, radix-2 FFT/IDFT, Butterworth high-pass sharpening, resampling, and SSIM/MSE/PSNR validation on attributed CT samples. The public release excludes lecturer and assessment material.</p>
-      <p><img src="https://raw.githubusercontent.com/lhlizdabezt/Biomedical-Image-Processing-Laboratory-2026/v1.0.1/assets/portfolio-motion.svg" alt="Biomedical image processing laboratory evidence overview" width="100%" /></p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <h3><a href="https://github.com/lhlizdabezt/hcmus-auto-dkhp">HCMUS Auto DKHP v5.4.0</a></h3>
-      <p>Fail-closed Tampermonkey workflow for the 20 official HTTPS HCMUS course-registration portal hosts. The release retains manual CAPTCHA, requires exact course, class, timetable, credit and control identities, applies a credit guard and bounded submit backoff, and ships with 29 dependency-free regression checks.</p>
-      <p><img src="https://raw.githubusercontent.com/lhlizdabezt/hcmus-auto-dkhp/v5.4.0/assets/portfolio-motion.svg" alt="HCMUS Auto DKHP version 5.4.0 safety controls" width="100%" /></p>
-    </td>
-  </tr>
-  <tr>
     <td width="50%">
       <h3><a href="https://github.com/lhlizdabezt/NhapMonAI">Vietnamese ALPR with YOLO and OCR</a></h3>
-      <p>Computer vision project using YOLO/PyTorch detection, OCR/FastALPR recognition, Kaggle/IPYNB training evidence, Python desktop inference and LAN demo scope.</p>
+      <p>Computer vision project using YOLO/PyTorch detection, OCR/FastALPR recognition, Kaggle/IPYNB training evidence, Python desktop inference and a bounded LAN demonstration.</p>
       <p><img src="https://raw.githubusercontent.com/lhlizdabezt/NhapMonAI/v1.0.4/assets/alpr-pipeline-motion.gif" alt="Line-free NhapMonAI animated ALPR evidence card" width="100%" /></p>
     </td>
-    <td width="50%">
-      <h3><a href="https://github.com/lhlizdabezt/DoAnHeThongNhung">SoC Ethernet Controller on DE10-Standard</a></h3>
-      <p>Embedded Linux and FPGA/SoC project where PC or Android clients send TCP payloads to the Cyclone V HPS and then to FPGA-driven seven-segment displays.</p>
-      <p><img src="https://raw.githubusercontent.com/lhlizdabezt/DoAnHeThongNhung/v1.0.7/assets/soc-ethernet-flow.gif" alt="Line-free SoC Ethernet flow on DE10-Standard" width="100%" /></p>
-    </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3><a href="https://github.com/lhlizdabezt/ThucHanhGTMT">BLE Data Acquisition Lab</a></h3>
-      <p>Computer interfacing lab connecting a Silicon Labs BLE SoC, AHT20 sensor data, I2C, UART/VCOM, SQLite logging and BLE RSSI indoor-positioning evidence.</p>
-      <p><img src="https://raw.githubusercontent.com/lhlizdabezt/ThucHanhGTMT/v1.2.4/assets/gtmt-data-flow.gif" alt="AHT20 BLE RSSI Android map UART SQLite evidence flow" width="100%" /></p>
+      <h3><a href="https://github.com/lhlizdabezt/Network-Technology-Laboratory-2026">Network Technology Laboratory 2026</a></h3>
+      <p>Six Cisco Packet Tracer laboratories covering dual-stack access, VLANs, inter-VLAN routing, STP, EtherChannel, DHCP, OSPF, NAT, WLAN and application services.</p>
+      <p><img src="https://raw.githubusercontent.com/lhlizdabezt/Network-Technology-Laboratory-2026/v1.1.0/assets/course-hero.svg" alt="Network Technology Laboratory 2026 evidence overview" width="100%" /></p>
     </td>
-    <td width="50%">
-      <h3><a href="https://github.com/lhlizdabezt/DienTuSo">Digital Electronics Traffic-Light Controller</a></h3>
-      <p>Ten-state gate-level controller with automatic/manual clock selection, JK flip-flops, a minimized decoder, CircuitJS simulation, breadboard evidence and deterministic logic checks.</p>
-      <p><img src="https://raw.githubusercontent.com/lhlizdabezt/DienTuSo/v1.2.0/assets/roundabout-motion.gif" alt="Ten-state digital electronics roundabout traffic-light sequence" width="100%" /></p>
-    </td>
-  </tr>
-  <tr>
     <td width="50%">
       <h3><a href="https://github.com/lhlizdabezt/TruyenThongSo">Digital Communications MATLAB Coursework</a></h3>
       <p>Telecommunications coursework covering AWGN, matched filters, BER simulation, BASK/BPSK/BFSK/QPSK, companding and LDPC decoding with report-backed evidence.</p>
       <p><img src="https://raw.githubusercontent.com/lhlizdabezt/TruyenThongSo/v1.2.0/assets/portfolio-motion.svg" alt="Line-free TruyenThongSo digital communications portfolio visual" width="100%" /></p>
     </td>
-    <td width="50%">
-      <h3><a href="https://github.com/lhlizdabezt/ThucHanhTruyenThongKhongDay">Wireless Communications Practice</a></h3>
-      <p>MATLAB practice repository with 23 scripts, lecture and exam PDFs, fading-channel BER, OFDM, MIMO SVD, equalizers and diversity review evidence.</p>
-      <p><img src="https://raw.githubusercontent.com/lhlizdabezt/ThucHanhTruyenThongKhongDay/v1.0.2/assets/portfolio-motion.svg" alt="Line-free wireless communications practice portfolio visual" width="100%" /></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3><a href="https://github.com/lhlizdabezt/Network-Security-Coursework-2026">Network Security Coursework 2026</a></h3>
-      <p>Four Cisco Packet Tracer assessments covering SSH hardening, centralized AAA, IP ACL mitigation and Layer 2 VLAN security, supported by a 26-page report and source-checked 39-page and 105-page final-review guides.</p>
-      <p><img src="https://raw.githubusercontent.com/lhlizdabezt/Network-Security-Coursework-2026/v1.1.0/assets/course-hero.svg" alt="Network Security Coursework 2026 portfolio banner" width="100%" /></p>
-    </td>
-    <td width="50%">
-      <h3><a href="https://github.com/lhlizdabezt/Network-Technology-Laboratory-2026">Network Technology Laboratory 2026</a></h3>
-      <p>Six Packet Tracer laboratories covering dual-stack access, VLANs, inter-VLAN routing, STP, EtherChannel, DHCP, OSPF, NAT, WLAN and application services, with 14 checked Typst sources, eight compiled coursework PDFs and a complete final-review PDF, DOCX and PKA package.</p>
-      <p><img src="https://raw.githubusercontent.com/lhlizdabezt/Network-Technology-Laboratory-2026/v1.1.0/assets/course-hero.svg" alt="Network Technology Laboratory 2026 portfolio banner" width="100%" /></p>
-    </td>
-  </tr>
   <tr>
     <td colspan="2">
-      <h3><a href="https://github.com/lhlizdabezt/ETC10126-Antenna-and-Radio-Wave-Propagation">ETC10126 Antenna and Radio-Wave Propagation</a></h3>
-      <p>Lecturer-aligned course portfolio for class 23DTV_CLC1 with 15 Typst/PDF study pairs, seven MATLAB studies, antenna-parameter and linear-wire derivations, array-factor sign checks, Friis and polarization workflows, and explicit academic-use boundaries.</p>
-      <p><img src="https://raw.githubusercontent.com/lhlizdabezt/ETC10126-Antenna-and-Radio-Wave-Propagation/v1.0.0/assets/github/course-evidence-motion.gif" alt="ETC10126 antenna and radio-wave propagation evidence overview" width="100%" /></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3><a href="https://github.com/lhlizdabezt/Digital-Signal-Processing-Seminar-2026">Digital Signal Processing Seminar 2026</a></h3>
-      <p>Five reviewed MATLAB and Jupyter studies covering normalized cross-correlation, FFT note analysis, finite equalization, audio low-pass filtering and manual ECG notch-filter design. The public release includes reports, reproducible evidence and explicit verification limits.</p>
-      <p><img src="https://raw.githubusercontent.com/lhlizdabezt/Digital-Signal-Processing-Seminar-2026/v1.0.0/assets/dsp-seminar-motion.gif" alt="Five-study digital signal processing seminar evidence overview" width="100%" /></p>
-    </td>
-    <td width="50%">
-      <h3><a href="https://github.com/lhlizdabezt/Digital-Signal-Processing-Laboratory-2026">Digital Signal Processing Laboratory 2026</a></h3>
-      <p>Executed Jupyter notebooks and searchable reports for Labs 2-6, covering LTI systems, Fourier analysis, frequency response, FIR/IIR design and audio filtering. The verified release includes 139 report pages, audio artifacts and automated validation.</p>
-      <p><img src="https://raw.githubusercontent.com/lhlizdabezt/Digital-Signal-Processing-Laboratory-2026/v1.0.0/assets/dsp-lab-motion.svg" alt="Digital signal processing laboratory evidence overview" width="100%" /></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3><a href="https://github.com/lhlizdabezt/ETC00021-Sensors-Measurement-Instrumentation">AgriEye Sensors and Instrumentation</a></h3>
-      <p>ESP32-CAM edge vision, a custom-driver sensor node, a 38-class model audit, KiCad hardware and Typst reports with an explicit deployment-gate decision.</p>
-      <p><img src="https://raw.githubusercontent.com/lhlizdabezt/ETC00021-Sensors-Measurement-Instrumentation/v1.0.0/assets/course-hero.svg" alt="ETC00021 AgriEye sensors and instrumentation portfolio" width="100%" /></p>
-    </td>
-    <td width="50%">
-      <h3><a href="https://github.com/lhlizdabezt/ETC00085-Sensors-Measurement-Lab">Sensors and Measurement Laboratory</a></h3>
-      <p>Nine privacy-preserving public reports covering analog measurement, optical sensors, AC current, RMS analysis, ACS712, NTC compensation and Arduino evidence.</p>
-      <p><img src="https://raw.githubusercontent.com/lhlizdabezt/ETC00085-Sensors-Measurement-Lab/v1.0.0/assets/course-hero.svg" alt="ETC00085 sensors and measurement laboratory portfolio" width="100%" /></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3><a href="https://github.com/lhlizdabezt/ETC10122-Electronic-IC-Design">ETC10122 Electronic Integrated Circuit Design</a></h3>
-      <p>Dual-port RAM RTL and verification portfolio with a 12-check self-checking testbench, Design Compiler and Formality evidence, portable ICC2 handoff, worked exercises and a detailed 2020 examination solution.</p>
-      <p><img src="https://raw.githubusercontent.com/lhlizdabezt/ETC10122-Electronic-IC-Design/v1.0.0/assets/course-hero.svg" alt="ETC10122 electronic integrated circuit design portfolio" width="100%" /></p>
-    </td>
-    <td width="50%">
-      <h3><a href="https://github.com/lhlizdabezt/ETC10123-Electronic-IC-Design-Laboratory">ETC10123 Electronic IC Design Laboratory</a></h3>
-      <p>Eight-bit SPI Master ASIC project with eight directed RTL transactions, synthesis and dual-boundary Formality evidence, ICC2 implementation scripts, six weekly reports and explicit signoff limitations.</p>
-      <p><img src="https://raw.githubusercontent.com/lhlizdabezt/ETC10123-Electronic-IC-Design-Laboratory/v1.0.0/assets/course-hero.svg" alt="ETC10123 electronic integrated circuit design laboratory portfolio" width="100%" /></p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <h3><a href="https://github.com/lhlizdabezt/ETC10133-Computer-Memory-Systems">ETC10133 Computer Memory Systems</a></h3>
-      <p>Curated course portfolio with a 97-page Typst study guide, a 100-question review pack, and editable 47-slide SRAM, 25-slide DRAM, and 21-slide Data Layer presentations backed by rendered PDF validation.</p>
-      <p><img src="https://raw.githubusercontent.com/lhlizdabezt/ETC10133-Computer-Memory-Systems/v1.1.0/assets/course-hero.svg" alt="ETC10133 computer memory systems course portfolio" width="100%" /></p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <h3><a href="https://github.com/lhlizdabezt/Data-Structures-and-Algorithms-Coursework-2026">Data Structures and Algorithms Coursework 2026</a></h3>
-      <p>Nine C11 foundation labs, six advanced C/C++ submissions, seven SHA-256-pinned reports, and a Group 08 C++17 Smart Campus Parking simulation with 24/24 tests and 21-event browser evidence.</p>
-      <p><img src="https://raw.githubusercontent.com/lhlizdabezt/Data-Structures-and-Algorithms-Coursework-2026/v1.0.1/assets/course-hero.svg" alt="Data Structures and Algorithms Coursework 2026 portfolio" width="100%" /></p>
+      <h3><a href="https://github.com/lhlizdabezt/ThucHanhTruyenThongKhongDay">Wireless Communications MATLAB Practice</a></h3>
+      <p>Twenty-three MATLAB scripts covering Rayleigh and Rician fading, BER Monte Carlo studies, OFDM, MIMO, SVD precoding, equalizers and diversity techniques.</p>
+      <p><img src="https://raw.githubusercontent.com/lhlizdabezt/ThucHanhTruyenThongKhongDay/v1.0.3/assets/portfolio-motion.svg" alt="Wireless communications MATLAB portfolio visual" width="100%" /></p>
     </td>
   </tr>
 </table>
