@@ -43,12 +43,12 @@
 
   <g transform="translate(54 120)">
     <rect class="tile" x="0" y="0" width="346" height="54" rx="10"/>
-    <text x="16" y="34" class="metricValue">32</text>
+    <text x="16" y="34" class="metricValue">33</text>
     <text x="86" y="23" class="metricLabel">public repos</text>
     <text x="86" y="39" class="metricSub">portfolio scope</text>
 
     <rect class="tile" x="0" y="70" width="346" height="54" rx="10"/>
-    <text x="16" y="104" class="metricValue">29</text>
+    <text x="16" y="104" class="metricValue">30</text>
     <text x="86" y="93" class="metricLabel">owned repos</text>
     <text x="86" y="109" class="metricSub">core evidence</text>
   </g>
