@@ -2,10 +2,10 @@
   <img src="https://raw.githubusercontent.com/lhlizdabezt/lhlizdabezt/main/assets/profile-hero.svg" alt="Luong Hai Long engineering portfolio banner" />
 </p>
 
-<h1 align="center">Luong Hai Long - Computer Vision, AI/ML, DSP, Communications, FPGA/SoC, ASIC</h1>
+<h1 align="center">Luong Hai Long - Computer Vision, AI/ML, DSP, Networks, FPGA/SoC, ASIC</h1>
 
 <p align="center">
-  <a href="https://github.com/lhlizdabezt?tab=repositories"><img src="https://img.shields.io/badge/Portfolio-33%20public%20repositories-38BDF8?style=for-the-badge&logo=github&logoColor=0f172a" alt="GitHub portfolio with 33 public repositories" /></a>
+  <a href="https://github.com/lhlizdabezt?tab=repositories"><img src="https://img.shields.io/badge/Portfolio-34%20public%20repositories-38BDF8?style=for-the-badge&logo=github&logoColor=0f172a" alt="GitHub portfolio with 34 public repositories" /></a>
   <a href="https://github.com/lhlizdabezt"><img src="https://komarev.com/ghpvc/?username=lhlizdabezt&label=Profile%20Views&color=0f766e&style=for-the-badge" alt="GitHub profile views counter" /></a>
   <a href="https://www.linkedin.com/in/lhlizdabezt"><img src="https://img.shields.io/badge/LinkedIn-lhlizdabezt-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile for Luong Hai Long" /></a>
   <a href="mailto:luonghailong.work@gmail.com"><img src="https://img.shields.io/badge/Work%20Email-luonghailong.work%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Work email luonghailong.work@gmail.com" /></a>
@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  <img width="900" src="https://raw.githubusercontent.com/lhlizdabezt/lhlizdabezt/main/assets/github-dashboard.svg" alt="GitHub portfolio status dashboard with 33 public repositories, 30 owned evidence repositories and core engineering tracks" />
+  <img width="900" src="https://raw.githubusercontent.com/lhlizdabezt/lhlizdabezt/main/assets/github-dashboard.svg" alt="GitHub portfolio status dashboard with 34 public repositories, 31 owned evidence repositories and core engineering tracks" />
 </p>
 
 <p align="center">
@@ -33,9 +33,9 @@
 
 ## About
 
-I am an Electronics and Telecommunications Engineering senior at VNUHCM - University of Science, focused on applied computer vision, biomedical image processing, machine learning, digital signal processing, antenna and radio-wave propagation, network communications, embedded systems, FPGA/SoC integration, ASIC RTL design and electronic instrumentation. My portfolio is built around evidence-backed repositories: source code, reports, release assets, visual flows and bounded implementation notes.
+I am an Electronics and Telecommunications Engineering senior at VNUHCM - University of Science, focused on applied computer vision, biomedical image processing, machine learning, digital signal processing, antenna and radio-wave propagation, network communications and security, embedded systems, FPGA/SoC integration, ASIC RTL design and electronic instrumentation. My portfolio is built around evidence-backed repositories: source code, reports, release assets, visual flows and bounded implementation notes.
 
-My strongest work is in Vietnamese automatic license plate recognition with YOLO/PyTorch and OCR/FastALPR, manual CT image processing with quantitative validation, automatic modulation classification with DSP and PyTorch, MATLAB communications and antenna-pattern studies, TCP/IP and BLE data paths, FPGA/SoC integration on the Intel DE10-Standard, ASIC RTL-to-route coursework with Verilog and Synopsys tools, and STM32 or Silicon Labs embedded workflows.
+My strongest work is in Vietnamese automatic license plate recognition with YOLO/PyTorch and OCR/FastALPR, manual CT image processing with quantitative validation, automatic modulation classification with DSP and PyTorch, MATLAB communications and antenna-pattern studies, Cisco IOS and Packet Tracer network laboratories, TCP/IP and BLE data paths, FPGA/SoC integration on the Intel DE10-Standard, ASIC RTL-to-route coursework with Verilog and Synopsys tools, and STM32 or Silicon Labs embedded workflows.
 
 I am open to internships and junior engineering opportunities in computer vision, machine learning, network/telecommunications engineering, embedded computer vision, firmware, FPGA/SoC systems, digital IC/RTL engineering and platform validation.
 
@@ -43,9 +43,9 @@ I am open to internships and junior engineering opportunities in computer vision
 
 | Item | Current value |
 |---|---|
-| Profile focus | Computer vision, biomedical imaging, AI/ML, DSP, antennas and propagation, network communications, FPGA/SoC, ASIC RTL and embedded systems |
+| Profile focus | Computer vision, biomedical imaging, AI/ML, DSP, antennas and propagation, network communications and security, FPGA/SoC, ASIC RTL and embedded systems |
 | Hiring status | Open to engineering internships and junior engineering opportunities |
-| Public repository status | 33 public repositories total, including 30 owned evidence repositories and 3 public forks |
+| Public repository status | 34 public repositories total, including 31 owned evidence repositories and 3 public forks |
 | Review language | US English across profile text, tables, captions, labels and release notes |
 
 ## Contact
@@ -117,6 +117,18 @@ I am open to internships and junior engineering opportunities in computer vision
     </td>
   </tr>
   <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/lhlizdabezt/Network-Security-Coursework-2026">Network Security Coursework 2026</a></h3>
+      <p>Evidence-bound Cisco IOS hardening portfolio covering secure credentials, SSH-only management, login protection, unused-port shutdown, Packet Tracer assessment evidence and a constrained Vigenere glossary. Official activities and answer banks remain private.</p>
+      <p><img src="https://raw.githubusercontent.com/lhlizdabezt/Network-Security-Coursework-2026/v1.0.0/assets/course-hero.svg" alt="Network Security Coursework 2026 portfolio banner" width="100%" /></p>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/lhlizdabezt/Network-Technology-Laboratory-2026">Network Technology Laboratory 2026</a></h3>
+      <p>Six Packet Tracer laboratories covering dual-stack access, VLANs, inter-VLAN routing, STP, EtherChannel, DHCP, OSPF, NAT, WLAN and application services, with reproducible Typst reports and an eight-PDF release bundle.</p>
+      <p><img src="https://raw.githubusercontent.com/lhlizdabezt/Network-Technology-Laboratory-2026/v1.0.0/assets/course-hero.svg" alt="Network Technology Laboratory 2026 portfolio banner" width="100%" /></p>
+    </td>
+  </tr>
+  <tr>
     <td colspan="2">
       <h3><a href="https://github.com/lhlizdabezt/ETC10126-Antenna-and-Radio-Wave-Propagation">ETC10126 Antenna and Radio-Wave Propagation</a></h3>
       <p>Lecturer-aligned course portfolio for class 23DTV_CLC1 with 15 Typst/PDF study pairs, seven MATLAB studies, antenna-parameter and linear-wire derivations, array-factor sign checks, Friis and polarization workflows, and explicit academic-use boundaries.</p>
@@ -177,7 +189,7 @@ I am open to internships and junior engineering opportunities in computer vision
 <p align="center">
   <img src="https://img.shields.io/badge/Computer%20Vision-YOLO%20OCR%20OpenCV-2563eb?style=for-the-badge" alt="Computer vision: YOLO OCR OpenCV" />
   <img src="https://img.shields.io/badge/AI%20%2F%20ML-PyTorch%20Kaggle-D95319?style=for-the-badge" alt="AI and machine learning: PyTorch Kaggle" />
-  <img src="https://img.shields.io/badge/Networks%20%2F%20Comms-TCP%20BLE%20OFDM-0ea5e9?style=for-the-badge" alt="Networks and communications: TCP BLE OFDM" />
+  <img src="https://img.shields.io/badge/Networks%20%2F%20Security-Cisco%20IOS%20SSH%20OSPF%20NAT-0ea5e9?style=for-the-badge" alt="Networks and security: Cisco IOS SSH OSPF NAT" />
   <img src="https://img.shields.io/badge/FPGA%20%2F%20SoC-Quartus%20Cyclone%20V-334155?style=for-the-badge" alt="FPGA SoC Quartus Cyclone V" />
   <img src="https://img.shields.io/badge/ASIC%20%2F%20RTL-Verilog%20Formality%20ICC2-5e6ad2?style=for-the-badge" alt="ASIC RTL Verilog Formality ICC2" />
   <img src="https://img.shields.io/badge/Embedded-STM32%20BLE%20UART-0f766e?style=for-the-badge" alt="Embedded systems STM32 BLE UART" />
