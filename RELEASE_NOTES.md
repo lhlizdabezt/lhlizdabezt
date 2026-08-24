@@ -1,27 +1,26 @@
-# v2.3.0 - Electronic IC Design Portfolio Integration
+# v2.4.0 - Antenna and Propagation Portfolio Integration
 
 ## Scope
 
-This release adds two independently verified electronic integrated-circuit
-course repositories to the public engineering portfolio.
+This release adds the ETC10126 Antenna and Radio-Wave Propagation course
+portfolio to the public engineering profile.
 
 ## Changes
 
-- Added ETC10122 Electronic Integrated Circuit Design with dual-port RAM RTL,
-  verification, ASIC-flow evidence, exercises and a worked 2020 examination.
-- Added ETC10123 Electronic Integrated Circuit Design Laboratory with the final
-  SPI Master ASIC source, eight-vector verification, weekly reports and
-  evidence-bounded physical implementation results.
-- Updated the public repository count from 27 to 29 and the owned evidence
-  repository count from 24 to 26.
-- Added ASIC RTL to the profile focus, opportunity statement, dashboard, hero,
-  footer and technical stack.
-- Preserved the profile views counter and all requested contact and social links.
+- Added a release-backed ETC10126 feature with 15 Typst/PDF study pairs,
+  seven MATLAB studies, antenna-array analysis, Friis transmission,
+  polarization, and radio-wave propagation.
+- Updated the public repository count from 29 to 30 and the owned evidence
+  repository count from 26 to 27.
+- Added antennas and propagation to the profile focus, evidence dashboard,
+  project summary, and technical stack.
+- Preserved the single profile views counter and all requested contact and
+  social links.
 
 ## Verification
 
-- Confirmed both repositories are public and have immutable v1.0.0 release
-  pages with SHA-256 manifests.
-- Confirmed both RTL verification workflows completed successfully.
-- Confirmed all local profile links and SVG XML files resolve.
-- Rendered the edited profile SVGs and checked text containment visually.
+- Confirmed the ETC10126 repository and immutable v1.0.0 release are public.
+- Confirmed all 15 published Typst sources compile and all published PDFs pass
+  page, text-layer, replacement-character, and page-bound checks.
+- Confirmed local profile links and SVG XML resolve.
+- Rendered the edited dashboard and checked text containment visually.
