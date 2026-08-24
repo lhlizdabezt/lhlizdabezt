@@ -35,7 +35,7 @@
 
 I am an Electronics and Telecommunications Engineering senior at VNUHCM - University of Science. I work on computer vision, deep learning, machine learning, network communications and telecommunications systems.
 
-My current work includes Vietnamese automatic license plate recognition with YOLO/PyTorch and OCR/FastALPR, automatic modulation classification with DSP features and a 1D CNN, Cisco IOS and Packet Tracer network laboratories, and MATLAB studies of digital and wireless communications. Each featured repository links to code, reports, visual evidence, release history and stated prototype limits where relevant.
+My current work includes Vietnamese automatic license plate recognition with YOLO/PyTorch and OCR/FastALPR, manual CT image-processing laboratories, automatic modulation classification with DSP features and a 1D CNN, Cisco IOS and Packet Tracer network laboratories, and MATLAB wireless-communications studies. Each featured repository links to code, reports, visual evidence, release history and stated prototype limits where relevant.
 
 I am seeking internships and junior roles in computer vision, machine learning, network engineering and telecommunications. FPGA/SoC and embedded work remain supporting evidence of hardware-software systems experience.
 
@@ -68,27 +68,28 @@ I am seeking internships and junior roles in computer vision, machine learning, 
 <table>
   <tr>
     <td width="50%">
+      <h3><a href="https://github.com/lhlizdabezt/NhapMonAI">Vietnamese ALPR with YOLO and OCR</a></h3>
+      <p>Computer vision project using YOLO/PyTorch detection, OCR/FastALPR recognition, Kaggle/IPYNB training evidence, Python desktop inference and a bounded LAN demonstration.</p>
+      <p><img src="https://raw.githubusercontent.com/lhlizdabezt/NhapMonAI/v1.0.4/assets/alpr-pipeline-motion.gif" alt="Line-free NhapMonAI animated ALPR evidence card" width="100%" /></p>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/lhlizdabezt/Biomedical-Image-Processing-Laboratory-2026">Biomedical Image Processing Laboratory</a></h3>
+      <p>Python/Jupyter coursework covering manual pixel operations, CT ROI analysis, explicit spatial and FFT filtering, image resampling and quantitative SSIM comparison.</p>
+      <p><img src="https://raw.githubusercontent.com/lhlizdabezt/Biomedical-Image-Processing-Laboratory-2026/v1.0.1/assets/portfolio-motion.svg" alt="Biomedical image processing laboratory evidence overview" width="100%" /></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
       <h3><a href="https://github.com/lhlizdabezt/DEEPDSP-Automatic-Modulation-Classification">DEEPDSP-AMC Automatic Modulation Classification</a></h3>
       <p>Six-class I/Q signal classification using 18 DSP features, a 400-tree Random Forest, a compact 1D CNN and validation-selected probability fusion, with explicit synthetic-data limits.</p>
       <p><img src="https://raw.githubusercontent.com/lhlizdabezt/DEEPDSP-Automatic-Modulation-Classification/v1.0.1/assets/deepdsp-amc-banner.svg" alt="DEEPDSP AMC automatic modulation classification evidence overview" width="100%" /></p>
     </td>
     <td width="50%">
-      <h3><a href="https://github.com/lhlizdabezt/NhapMonAI">Vietnamese ALPR with YOLO and OCR</a></h3>
-      <p>Computer vision project using YOLO/PyTorch detection, OCR/FastALPR recognition, Kaggle/IPYNB training evidence, Python desktop inference and a bounded LAN demonstration.</p>
-      <p><img src="https://raw.githubusercontent.com/lhlizdabezt/NhapMonAI/v1.0.4/assets/alpr-pipeline-motion.gif" alt="Line-free NhapMonAI animated ALPR evidence card" width="100%" /></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
       <h3><a href="https://github.com/lhlizdabezt/Network-Technology-Laboratory-2026">Network Technology Laboratory 2026</a></h3>
       <p>Six Cisco Packet Tracer laboratories covering dual-stack access, VLANs, inter-VLAN routing, STP, EtherChannel, DHCP, OSPF, NAT, WLAN and application services.</p>
       <p><img src="https://raw.githubusercontent.com/lhlizdabezt/Network-Technology-Laboratory-2026/v1.1.0/assets/course-hero.svg" alt="Network Technology Laboratory 2026 evidence overview" width="100%" /></p>
     </td>
-    <td width="50%">
-      <h3><a href="https://github.com/lhlizdabezt/TruyenThongSo">Digital Communications MATLAB Coursework</a></h3>
-      <p>Telecommunications coursework covering AWGN, matched filters, BER simulation, BASK/BPSK/BFSK/QPSK, companding and LDPC decoding with report-backed evidence.</p>
-      <p><img src="https://raw.githubusercontent.com/lhlizdabezt/TruyenThongSo/v1.2.0/assets/portfolio-motion.svg" alt="Line-free TruyenThongSo digital communications portfolio visual" width="100%" /></p>
-    </td>
+  </tr>
   <tr>
     <td colspan="2">
       <h3><a href="https://github.com/lhlizdabezt/ThucHanhTruyenThongKhongDay">Wireless Communications MATLAB Practice</a></h3>

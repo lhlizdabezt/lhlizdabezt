@@ -1,3 +1,26 @@
+# v2.7.0 - ATS Resume and Featured Portfolio Refresh
+
+## Scope
+
+This release synchronizes the profile with an ATS-oriented one-page resume and a five-project portfolio focused on computer vision, deep learning, machine learning, computer networks and telecommunications.
+
+## Changes
+
+- Updated the linked PDF resume through August 24, 2026 using the plain `skyzh/chicv` Typst layout.
+- Added current project evidence from `DEEPDSP-Automatic-Modulation-Classification`, `Biomedical-Image-Processing-Laboratory-2026` and `Network-Technology-Laboratory-2026`.
+- Kept exactly five featured repositories: Vietnamese ALPR, biomedical image processing, DEEPDSP-AMC, network technology laboratories and wireless-communications MATLAB practice.
+- Removed the overlapping `TruyenThongSo` card from the featured table without changing or deleting that repository.
+- Updated the About section to reflect the selected portfolio and preserved all contact, social, status and profile-view links.
+
+## Verification
+
+- Confirmed the resume is one A4 page, contains nine embedded links, and has no text outside the page boundary.
+- Confirmed all five featured repositories are public, release-backed and aligned with the stated internship directions.
+- Confirmed 35 public repositories, complete descriptions, at least three topics per repository, and exactly one profile-view counter in the profile README.
+- Confirmed the new immutable biomedical visual URL returns HTTP 200 and uses the reviewed `v1.0.1` asset.
+
+---
+
 # v2.6.9 - Focused CV, ML and Communications Portfolio
 
 ## Scope
