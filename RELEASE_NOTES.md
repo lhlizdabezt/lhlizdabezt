@@ -1,3 +1,24 @@
+# v2.6.5 - Data Structures and Algorithms Coursework
+
+## Scope
+
+This patch synchronizes the profile with the verified Data Structures and Algorithms Coursework 2026 publication.
+
+## Changes
+
+- Added a featured repository card for nine C11 foundation labs, six advanced C/C++ submissions, seven retained reports, and the Group 08 Smart Campus Parking project.
+- Updated the public portfolio counters to 35 repositories total, including 32 owned evidence repositories and three public forks.
+- Referenced the course banner through versioned release tag `v1.0.0`.
+- Preserved the single profile-views badge, professional bio, account status, contact details, social links, and existing pinned repositories.
+
+## Verification
+
+- Confirmed repository tag `v1.0.0` and `main` both target commit `8460a2ab675c382991a1971f84b9c6c8855e3b3a`.
+- Confirmed 24/24 Smart Campus Parking tests, 21 exported C++ events, 153-file repository validation, successful CI, and successful GitHub Pages deployment.
+- Confirmed the tagged SVG banner returns HTTP 200 and renders without clipping, overlap, dotted motion paths, curved motion paths, or non-ASCII SVG text.
+
+---
+
 # v2.6.4 - Complete Network Technology Final Review
 
 ## Scope

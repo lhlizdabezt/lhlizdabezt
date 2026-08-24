@@ -5,7 +5,7 @@
 <h1 align="center">Luong Hai Long - Computer Vision, AI/ML, DSP, Networks, FPGA/SoC, ASIC</h1>
 
 <p align="center">
-  <a href="https://github.com/lhlizdabezt?tab=repositories"><img src="https://img.shields.io/badge/Portfolio-34%20public%20repositories-38BDF8?style=for-the-badge&logo=github&logoColor=0f172a" alt="GitHub portfolio with 34 public repositories" /></a>
+  <a href="https://github.com/lhlizdabezt?tab=repositories"><img src="https://img.shields.io/badge/Portfolio-35%20public%20repositories-38BDF8?style=for-the-badge&logo=github&logoColor=0f172a" alt="GitHub portfolio with 35 public repositories" /></a>
   <a href="https://github.com/lhlizdabezt"><img src="https://komarev.com/ghpvc/?username=lhlizdabezt&label=Profile%20Views&color=0f766e&style=for-the-badge" alt="GitHub profile views counter" /></a>
   <a href="https://www.linkedin.com/in/lhlizdabezt"><img src="https://img.shields.io/badge/LinkedIn-lhlizdabezt-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile for Luong Hai Long" /></a>
   <a href="mailto:luonghailong.work@gmail.com"><img src="https://img.shields.io/badge/Work%20Email-luonghailong.work%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Work email luonghailong.work@gmail.com" /></a>
@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  <img width="900" src="https://raw.githubusercontent.com/lhlizdabezt/lhlizdabezt/main/assets/github-dashboard.svg" alt="GitHub portfolio status dashboard with 34 public repositories, 31 owned evidence repositories and core engineering tracks" />
+  <img width="900" src="https://raw.githubusercontent.com/lhlizdabezt/lhlizdabezt/main/assets/github-dashboard.svg" alt="GitHub portfolio status dashboard with 35 public repositories, 32 owned evidence repositories and core engineering tracks" />
 </p>
 
 <p align="center">
@@ -45,7 +45,7 @@ I am open to internships and junior engineering opportunities in computer vision
 |---|---|
 | Profile focus | Computer vision, biomedical imaging, AI/ML, DSP, antennas and propagation, network communications and security, FPGA/SoC, ASIC RTL and embedded systems |
 | Hiring status | Open to engineering internships and junior engineering opportunities |
-| Public repository status | 34 public repositories total, including 31 owned evidence repositories and 3 public forks |
+| Public repository status | 35 public repositories total, including 32 owned evidence repositories and 3 public forks |
 | Review language | US English across profile text, tables, captions, labels and release notes |
 
 ## Contact
@@ -176,6 +176,13 @@ I am open to internships and junior engineering opportunities in computer vision
       <h3><a href="https://github.com/lhlizdabezt/ETC10133-Computer-Memory-Systems">ETC10133 Computer Memory Systems</a></h3>
       <p>Curated course portfolio with a 97-page Typst study guide, a 100-question review pack, and editable 47-slide SRAM, 25-slide DRAM, and 21-slide Data Layer presentations backed by rendered PDF validation.</p>
       <p><img src="https://raw.githubusercontent.com/lhlizdabezt/ETC10133-Computer-Memory-Systems/v1.1.0/assets/course-hero.svg" alt="ETC10133 computer memory systems course portfolio" width="100%" /></p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <h3><a href="https://github.com/lhlizdabezt/Data-Structures-and-Algorithms-Coursework-2026">Data Structures and Algorithms Coursework 2026</a></h3>
+      <p>Nine C11 foundation labs, six advanced C/C++ submissions, seven SHA-256-pinned reports, and a Group 08 C++17 Smart Campus Parking simulation with 24/24 tests and 21-event browser evidence.</p>
+      <p><img src="https://raw.githubusercontent.com/lhlizdabezt/Data-Structures-and-Algorithms-Coursework-2026/v1.0.0/assets/course-hero.svg" alt="Data Structures and Algorithms Coursework 2026 portfolio" width="100%" /></p>
     </td>
   </tr>
 </table>
