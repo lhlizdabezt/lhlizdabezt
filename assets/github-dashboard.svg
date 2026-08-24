@@ -43,12 +43,12 @@
 
   <g transform="translate(54 120)">
     <rect class="tile" x="0" y="0" width="346" height="54" rx="10"/>
-    <text x="16" y="34" class="metricValue">30</text>
+    <text x="16" y="34" class="metricValue">31</text>
     <text x="86" y="23" class="metricLabel">public repos</text>
     <text x="86" y="39" class="metricSub">portfolio scope</text>
 
     <rect class="tile" x="0" y="70" width="346" height="54" rx="10"/>
-    <text x="16" y="104" class="metricValue">27</text>
+    <text x="16" y="104" class="metricValue">28</text>
     <text x="86" y="93" class="metricLabel">owned repos</text>
     <text x="86" y="109" class="metricSub">core evidence</text>
   </g>
@@ -58,7 +58,7 @@
   <text x="496" y="101" class="smallText">Main signals kept above general coursework</text>
 
   <g transform="translate(496 124)">
-    <text x="0" y="0" class="mono">Vision ML</text>
+    <text x="0" y="0" class="mono">Vision Bio ML</text>
     <rect x="122" y="-10" width="226" height="12" rx="6" fill="#1e293b"/>
     <rect class="motion" x="122" y="-10" width="206" height="12" rx="6" fill="url(#blue)"/>
 

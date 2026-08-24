@@ -5,7 +5,7 @@
 <h1 align="center">Luong Hai Long - Computer Vision, AI/ML, DSP, Communications, FPGA/SoC, ASIC</h1>
 
 <p align="center">
-  <a href="https://github.com/lhlizdabezt?tab=repositories"><img src="https://img.shields.io/badge/Portfolio-30%20public%20repositories-38BDF8?style=for-the-badge&logo=github&logoColor=0f172a" alt="GitHub portfolio with 30 public repositories" /></a>
+  <a href="https://github.com/lhlizdabezt?tab=repositories"><img src="https://img.shields.io/badge/Portfolio-31%20public%20repositories-38BDF8?style=for-the-badge&logo=github&logoColor=0f172a" alt="GitHub portfolio with 31 public repositories" /></a>
   <a href="https://github.com/lhlizdabezt"><img src="https://komarev.com/ghpvc/?username=lhlizdabezt&label=Profile%20Views&color=0f766e&style=for-the-badge" alt="GitHub profile views counter" /></a>
   <a href="https://www.linkedin.com/in/lhlizdabezt"><img src="https://img.shields.io/badge/LinkedIn-lhlizdabezt-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile for Luong Hai Long" /></a>
   <a href="mailto:luonghailong.work@gmail.com"><img src="https://img.shields.io/badge/Work%20Email-luonghailong.work%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Work email luonghailong.work@gmail.com" /></a>
@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  <img width="900" src="https://raw.githubusercontent.com/lhlizdabezt/lhlizdabezt/main/assets/github-dashboard.svg" alt="GitHub portfolio status dashboard with 30 public repositories, 27 owned evidence repositories and core engineering tracks" />
+  <img width="900" src="https://raw.githubusercontent.com/lhlizdabezt/lhlizdabezt/main/assets/github-dashboard.svg" alt="GitHub portfolio status dashboard with 31 public repositories, 28 owned evidence repositories and core engineering tracks" />
 </p>
 
 <p align="center">
@@ -33,9 +33,9 @@
 
 ## About
 
-I am an Electronics and Telecommunications Engineering senior at VNUHCM - University of Science, focused on applied computer vision, machine learning, digital signal processing, antenna and radio-wave propagation, network communications, embedded systems, FPGA/SoC integration, ASIC RTL design and electronic instrumentation. My portfolio is built around evidence-backed repositories: source code, reports, release assets, visual flows and bounded implementation notes.
+I am an Electronics and Telecommunications Engineering senior at VNUHCM - University of Science, focused on applied computer vision, biomedical image processing, machine learning, digital signal processing, antenna and radio-wave propagation, network communications, embedded systems, FPGA/SoC integration, ASIC RTL design and electronic instrumentation. My portfolio is built around evidence-backed repositories: source code, reports, release assets, visual flows and bounded implementation notes.
 
-My strongest work is in Vietnamese automatic license plate recognition with YOLO/PyTorch and OCR/FastALPR, automatic modulation classification with DSP and PyTorch, MATLAB communications and antenna-pattern studies, TCP/IP and BLE data paths, FPGA/SoC integration on the Intel DE10-Standard, ASIC RTL-to-route coursework with Verilog and Synopsys tools, and STM32 or Silicon Labs embedded workflows.
+My strongest work is in Vietnamese automatic license plate recognition with YOLO/PyTorch and OCR/FastALPR, manual CT image processing with quantitative validation, automatic modulation classification with DSP and PyTorch, MATLAB communications and antenna-pattern studies, TCP/IP and BLE data paths, FPGA/SoC integration on the Intel DE10-Standard, ASIC RTL-to-route coursework with Verilog and Synopsys tools, and STM32 or Silicon Labs embedded workflows.
 
 I am open to internships and junior engineering opportunities in computer vision, machine learning, network/telecommunications engineering, embedded computer vision, firmware, FPGA/SoC systems, digital IC/RTL engineering and platform validation.
 
@@ -43,11 +43,10 @@ I am open to internships and junior engineering opportunities in computer vision
 
 | Item | Current value |
 |---|---|
-| Profile focus | Computer vision, AI/ML, DSP, antennas and propagation, network communications, FPGA/SoC, ASIC RTL and embedded systems |
+| Profile focus | Computer vision, biomedical imaging, AI/ML, DSP, antennas and propagation, network communications, FPGA/SoC, ASIC RTL and embedded systems |
 | Hiring status | Open to engineering internships and junior engineering opportunities |
-| Public repository status | 30 public repositories total, including 27 owned evidence repositories and 3 public forks |
+| Public repository status | 31 public repositories total, including 28 owned evidence repositories and 3 public forks |
 | Review language | US English across profile text, tables, captions, labels and release notes |
-| Visual policy | Self-hosted SVG/GIF assets with ASCII-safe SVG text and no line paths behind labels |
 
 ## Contact
 
@@ -72,6 +71,13 @@ I am open to internships and junior engineering opportunities in computer vision
       <h3><a href="https://github.com/lhlizdabezt/DEEPDSP-Automatic-Modulation-Classification">DEEPDSP-AMC Automatic Modulation Classification</a></h3>
       <p>Six-class I/Q signal classifier combining 18 DSP features, a 400-tree Random Forest, an 81,030-parameter 1D CNN and validation-selected probability fusion. The verified release includes a 44-page report, executed notebook, trained Streamlit workbench, fixed test predictions and explicit synthetic-data limits.</p>
       <p><img src="https://raw.githubusercontent.com/lhlizdabezt/DEEPDSP-Automatic-Modulation-Classification/v1.0.1/assets/deepdsp-amc-banner.svg" alt="DEEPDSP AMC automatic modulation classification evidence overview" width="100%" /></p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <h3><a href="https://github.com/lhlizdabezt/Biomedical-Image-Processing-Laboratory-2026">Biomedical Image Processing Laboratory 2026</a></h3>
+      <p>Two executed Jupyter laboratories and Typst/PDF reports covering manual ROI and histogram analysis, 5 x 5 spatial filtering, radix-2 FFT/IDFT, Butterworth high-pass sharpening, resampling, and SSIM/MSE/PSNR validation on attributed CT samples. The public release excludes lecturer and assessment material.</p>
+      <p><img src="https://raw.githubusercontent.com/lhlizdabezt/Biomedical-Image-Processing-Laboratory-2026/v1.0.0/assets/portfolio-motion.svg" alt="Biomedical image processing laboratory evidence overview" width="100%" /></p>
     </td>
   </tr>
   <tr>
