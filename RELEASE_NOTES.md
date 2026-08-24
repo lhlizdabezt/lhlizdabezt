@@ -1,3 +1,24 @@
+# v2.6.8 - HCMUS Auto DKHP v5.4.0
+
+## Scope
+
+This patch adds the verified HCMUS Auto DKHP v5.4.0 userscript project to the featured engineering portfolio.
+
+## Changes
+
+- Added a full-width project card for the fail-closed Tampermonkey workflow across the 20 official HTTPS HCMUS portal hosts.
+- Summarized the manual CAPTCHA boundary, exact live-evidence matching, credit guard, bounded submit backoff, and 29 dependency-free regression checks.
+- Referenced the project visual through immutable release tag `v5.4.0`.
+- Preserved the 35-repository counter, contact and social links, hiring status, pinned repositories, and the single profile-views badge.
+
+## Verification
+
+- Confirmed JavaScript syntax, 29/29 regression checks, and clean Git whitespace checks in the project release.
+- Confirmed the tagged SVG is ASCII-only, contains no connector-line elements, and renders at 1200 by 360 without clipped or overlapping text.
+- Confirmed saved portal pages, CAPTCHA state, browser traces, personal academic records, and the unlicensed faculty PDF remain outside the public project repository.
+
+---
+
 # v2.6.7 - Data Structures Banner Layout Fix
 
 ## Scope

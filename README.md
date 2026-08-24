@@ -81,6 +81,13 @@ I am open to internships and junior engineering opportunities in computer vision
     </td>
   </tr>
   <tr>
+    <td colspan="2">
+      <h3><a href="https://github.com/lhlizdabezt/hcmus-auto-dkhp">HCMUS Auto DKHP v5.4.0</a></h3>
+      <p>Fail-closed Tampermonkey workflow for the 20 official HTTPS HCMUS course-registration portal hosts. The release retains manual CAPTCHA, requires exact course, class, timetable, credit and control identities, applies a credit guard and bounded submit backoff, and ships with 29 dependency-free regression checks.</p>
+      <p><img src="https://raw.githubusercontent.com/lhlizdabezt/hcmus-auto-dkhp/v5.4.0/assets/portfolio-motion.svg" alt="HCMUS Auto DKHP version 5.4.0 safety controls" width="100%" /></p>
+    </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3><a href="https://github.com/lhlizdabezt/NhapMonAI">Vietnamese ALPR with YOLO and OCR</a></h3>
       <p>Computer vision project using YOLO/PyTorch detection, OCR/FastALPR recognition, Kaggle/IPYNB training evidence, Python desktop inference and LAN demo scope.</p>
