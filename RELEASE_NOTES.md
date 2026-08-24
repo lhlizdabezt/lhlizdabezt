@@ -1,3 +1,23 @@
+# v2.6.6 - Biomedical Portfolio Visual Fix
+
+## Scope
+
+This patch refreshes the biomedical image-processing portfolio visual after a verified SVG label-overflow repair.
+
+## Changes
+
+- Updated the biomedical project card to the immutable repository tag `v1.0.1`.
+- Preserved the project description, profile positioning, social links, and single profile-views badge.
+- Kept the concise Current Status table unchanged.
+
+## Verification
+
+- Confirmed the `manual matrix processing` caption retains more than 20 px of right padding inside the pixel-domain card.
+- Confirmed full-width, profile-width, and reduced-motion renders contain no clipped or overlapping text.
+- Confirmed the tagged SVG remains ASCII-only and contains no path, line, or polyline elements.
+
+---
+
 # v2.6.5 - Data Structures and Algorithms Coursework
 
 ## Scope

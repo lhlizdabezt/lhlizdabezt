@@ -77,7 +77,7 @@ I am open to internships and junior engineering opportunities in computer vision
     <td colspan="2">
       <h3><a href="https://github.com/lhlizdabezt/Biomedical-Image-Processing-Laboratory-2026">Biomedical Image Processing Laboratory 2026</a></h3>
       <p>Two executed Jupyter laboratories and Typst/PDF reports covering manual ROI and histogram analysis, 5 x 5 spatial filtering, radix-2 FFT/IDFT, Butterworth high-pass sharpening, resampling, and SSIM/MSE/PSNR validation on attributed CT samples. The public release excludes lecturer and assessment material.</p>
-      <p><img src="https://raw.githubusercontent.com/lhlizdabezt/Biomedical-Image-Processing-Laboratory-2026/v1.0.0/assets/portfolio-motion.svg" alt="Biomedical image processing laboratory evidence overview" width="100%" /></p>
+      <p><img src="https://raw.githubusercontent.com/lhlizdabezt/Biomedical-Image-Processing-Laboratory-2026/v1.0.1/assets/portfolio-motion.svg" alt="Biomedical image processing laboratory evidence overview" width="100%" /></p>
     </td>
   </tr>
   <tr>
