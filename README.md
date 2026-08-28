@@ -37,16 +37,7 @@ I am an Electronics and Telecommunications Engineering senior at VNUHCM - Univer
 
 My current work includes Vietnamese automatic license plate recognition with YOLO/PyTorch and OCR/FastALPR, manual CT image-processing laboratories, automatic modulation classification with DSP features and a 1D CNN, Cisco IOS and Packet Tracer network laboratories, and MATLAB wireless-communications studies. Each featured repository links to code, reports, visual evidence, release history and stated prototype limits where relevant.
 
-I am seeking internships and junior roles in computer vision, machine learning, network engineering and telecommunications. FPGA/SoC and embedded work remain supporting evidence of hardware-software systems experience.
-
-## Current Status
-
-| Item | Current value |
-|---|---|
-| Profile focus | Computer vision, deep learning, machine learning, network communications and telecommunications |
-| Hiring status | Open to engineering internships and junior engineering opportunities |
-| Public repository status | 35 public repositories total, including 32 owned evidence repositories and 3 public forks |
-| Review language | US English across profile text, tables, captions, labels and release notes |
+I am seeking internships and junior roles in computer vision, machine learning, network engineering and telecommunications. FPGA/SoC and embedded work provide complementary hardware-software systems context.
 
 ## Contact
 
@@ -98,16 +89,6 @@ I am seeking internships and junior roles in computer vision, machine learning, 
     </td>
   </tr>
 </table>
-
-## Supporting Engineering Evidence
-
-| Repository | Evidence |
-|---|---|
-| [Digital Communications MATLAB Coursework](https://github.com/lhlizdabezt/TruyenThongSo) | AWGN, matched filters, BER, BASK/BPSK/BFSK/QPSK, companding, and LDPC |
-| [BTP Holdings Engineering Internship Report](https://github.com/lhlizdabezt/BCTT-ThucTap-BTPHoldings) | Quality-control observation, warranty-service evidence, appliance subsystems, and technical documentation |
-| [STM32 MAX30100 Heart-Rate and SpO2 Monitor](https://github.com/lhlizdabezt/DoAnDienTuYSinh_STM32_MAX30100_LCD) | STM32F103C8T6, MAX30100, LCD1602, I2C, Serial1, Proteus, and recorded demonstration |
-| [Embedded Systems and FPGA Review Labs](https://github.com/lhlizdabezt/embedded-systems-fpga-review-labs) | Verilog, Quartus, Platform Designer/Qsys, Avalon-MM, Nios II C, and review notes |
-| [DE10-Standard SoC Ethernet Controller](https://github.com/lhlizdabezt/DoAnHeThongNhung) | Team course prototype: PC and Android TCP clients, HPS Linux, PIO/`devmem`, `HEX0-HEX5`, verified English slides, and release `v1.0.8` |
 
 ## Technical Stack
 

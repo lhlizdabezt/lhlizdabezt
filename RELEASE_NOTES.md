@@ -1,3 +1,22 @@
+# v2.7.3 - Five Featured Repositories Only
+
+## Scope
+
+This release removes the duplicated supporting-evidence category from the profile README and keeps the portfolio limited to its five featured repositories.
+
+## Changes
+
+- Removed the extra supporting-repository table without deleting or hiding any project repository.
+- Preserved the five featured cards, one profile-view counter, contact details, social links, resume, and current CV/ML plus network-communications positioning.
+- Preserved the remote `v2.7.2` update that links the canonical DE10-Standard SoC Ethernet project in its historical release notes.
+
+## Verification
+
+- Confirmed that the profile README contains exactly one `Featured Portfolio Repositories` section and exactly five linked cards.
+- Confirmed that `Supporting Engineering Evidence` and `Current Status` do not appear in the profile README.
+
+---
+
 # v2.7.2 - DE10-Standard SoC Ethernet Evidence
 
 ## Scope
