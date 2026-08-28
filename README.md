@@ -70,7 +70,7 @@ I am seeking internships and junior roles in computer vision, machine learning, 
     <td width="50%">
       <h3><a href="https://github.com/lhlizdabezt/NhapMonAI">Vietnamese ALPR with YOLO and OCR</a></h3>
       <p>Computer vision project using YOLO/PyTorch detection, OCR/FastALPR recognition, Kaggle/IPYNB training evidence, Python desktop inference and a bounded LAN demonstration.</p>
-      <p><img src="https://raw.githubusercontent.com/lhlizdabezt/NhapMonAI/v1.1.0/assets/alpr-pipeline-motion.gif" alt="Line-free NhapMonAI animated ALPR evidence card" width="100%" /></p>
+      <p><img src="https://raw.githubusercontent.com/lhlizdabezt/NhapMonAI/v1.1.2/assets/alpr-pipeline-motion.gif" alt="Line-free NhapMonAI animated ALPR evidence card" width="100%" /></p>
     </td>
     <td width="50%">
       <h3><a href="https://github.com/lhlizdabezt/Biomedical-Image-Processing-Laboratory-2026">Biomedical Image Processing Laboratory</a></h3>
@@ -98,6 +98,16 @@ I am seeking internships and junior roles in computer vision, machine learning, 
     </td>
   </tr>
 </table>
+
+## Supporting Engineering Evidence
+
+| Repository | Evidence |
+|---|---|
+| [Digital Communications MATLAB Coursework](https://github.com/lhlizdabezt/TruyenThongSo) | AWGN, matched filters, BER, BASK/BPSK/BFSK/QPSK, companding, and LDPC |
+| [BTP Holdings Engineering Internship Report](https://github.com/lhlizdabezt/BCTT-ThucTap-BTPHoldings) | Quality-control observation, warranty-service evidence, appliance subsystems, and technical documentation |
+| [STM32 MAX30100 Heart-Rate and SpO2 Monitor](https://github.com/lhlizdabezt/DoAnDienTuYSinh_STM32_MAX30100_LCD) | STM32F103C8T6, MAX30100, LCD1602, I2C, Serial1, Proteus, and recorded demonstration |
+| [Embedded Systems and FPGA Review Labs](https://github.com/lhlizdabezt/embedded-systems-fpga-review-labs) | Verilog, Quartus, Platform Designer/Qsys, Avalon-MM, Nios II C, and review notes |
+| [DE10-Standard SoC Ethernet Presentation](https://github.com/lhlizdabezt/Slide-DoAnHTN-Nhom17-DE10Standard) | TCP port 5000, HPS Linux, PIO, `devmem`, `HEX0-HEX5`, and a verified Typst/Touying deck |
 
 ## Technical Stack
 

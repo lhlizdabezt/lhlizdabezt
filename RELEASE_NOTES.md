@@ -1,3 +1,23 @@
+# v2.7.1 - Project Release Synchronization
+
+## Scope
+
+This patch synchronizes the profile with six refreshed project releases while preserving the five primary featured repositories.
+
+## Changes
+
+- Updated the immutable `NhapMonAI` motion reference to `v1.1.2`, which includes the corrected ALPR review-card geometry.
+- Added a concise supporting-evidence table for digital communications, the BTP internship report, STM32 biomedical electronics, FPGA review labs, and the DE10-Standard presentation.
+- Preserved the existing five-project featured selection, profile-view counter, contact details, social links, resume, and CV/ML plus network-communications positioning.
+
+## Verification
+
+- Confirmed every supporting repository is public, description-complete, topic-complete, and release-backed.
+- Confirmed all selected SVG/GIF assets are ASCII-safe or frame-inspected and contain no moving dotted, dashed, curved, or connector lines crossing text.
+- Confirmed the profile README still contains exactly one profile-view counter.
+
+---
+
 # v2.7.0 - ATS Resume and Featured Portfolio Refresh
 
 ## Scope
