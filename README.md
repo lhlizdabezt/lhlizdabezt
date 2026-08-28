@@ -70,7 +70,7 @@ I am seeking internships and junior roles in computer vision, machine learning, 
     <td width="50%">
       <h3><a href="https://github.com/lhlizdabezt/NhapMonAI">Vietnamese ALPR with YOLO and OCR</a></h3>
       <p>Computer vision project using YOLO/PyTorch detection, OCR/FastALPR recognition, Kaggle/IPYNB training evidence, Python desktop inference and a bounded LAN demonstration.</p>
-      <p><img src="https://raw.githubusercontent.com/lhlizdabezt/NhapMonAI/v1.0.4/assets/alpr-pipeline-motion.gif" alt="Line-free NhapMonAI animated ALPR evidence card" width="100%" /></p>
+      <p><img src="https://raw.githubusercontent.com/lhlizdabezt/NhapMonAI/v1.1.0/assets/alpr-pipeline-motion.gif" alt="Line-free NhapMonAI animated ALPR evidence card" width="100%" /></p>
     </td>
     <td width="50%">
       <h3><a href="https://github.com/lhlizdabezt/Biomedical-Image-Processing-Laboratory-2026">Biomedical Image Processing Laboratory</a></h3>
