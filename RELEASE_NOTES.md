@@ -1,3 +1,22 @@
+# v2.7.2 - DE10-Standard SoC Ethernet Evidence
+
+## Scope
+
+This profile update replaces an older slide-only supporting link with the canonical, release-backed DE10-Standard SoC Ethernet repository.
+
+## Changes
+
+- Linked [DoAnHeThongNhung](https://github.com/lhlizdabezt/DoAnHeThongNhung) as the supporting evidence source for the Group 17 course prototype.
+- Kept the five primary featured repositories unchanged; the DE10 project remains concise supporting evidence for FPGA/SoC and networked embedded-systems work.
+- Preserved the profile-view counter, contact information, social links, resume, and existing engineering positioning.
+
+## Verification
+
+- Confirmed the canonical project is public, has the `v1.0.8` release, and documents the LAN TCP-to-HPS-to-FPGA PIO path with explicit prototype boundaries.
+- Confirmed the profile README still contains exactly one profile-view counter.
+
+---
+
 # v2.7.1 - Project Release Synchronization
 
 ## Scope

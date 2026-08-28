@@ -107,7 +107,7 @@ I am seeking internships and junior roles in computer vision, machine learning, 
 | [BTP Holdings Engineering Internship Report](https://github.com/lhlizdabezt/BCTT-ThucTap-BTPHoldings) | Quality-control observation, warranty-service evidence, appliance subsystems, and technical documentation |
 | [STM32 MAX30100 Heart-Rate and SpO2 Monitor](https://github.com/lhlizdabezt/DoAnDienTuYSinh_STM32_MAX30100_LCD) | STM32F103C8T6, MAX30100, LCD1602, I2C, Serial1, Proteus, and recorded demonstration |
 | [Embedded Systems and FPGA Review Labs](https://github.com/lhlizdabezt/embedded-systems-fpga-review-labs) | Verilog, Quartus, Platform Designer/Qsys, Avalon-MM, Nios II C, and review notes |
-| [DE10-Standard SoC Ethernet Presentation](https://github.com/lhlizdabezt/Slide-DoAnHTN-Nhom17-DE10Standard) | TCP port 5000, HPS Linux, PIO, `devmem`, `HEX0-HEX5`, and a verified Typst/Touying deck |
+| [DE10-Standard SoC Ethernet Controller](https://github.com/lhlizdabezt/DoAnHeThongNhung) | Team course prototype: PC and Android TCP clients, HPS Linux, PIO/`devmem`, `HEX0-HEX5`, verified English slides, and release `v1.0.8` |
 
 ## Technical Stack
 
