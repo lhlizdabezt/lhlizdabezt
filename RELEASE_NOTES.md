@@ -1,19 +1,19 @@
-# v2.7.3 - Five Featured Repositories Only
+# v2.7.4 - Six-Repository Portfolio Focus
 
 ## Scope
 
-This release removes the duplicated supporting-evidence category from the profile README and keeps the portfolio limited to its five featured repositories.
+This profile revision adds the published Numerical Methods MATLAB coursework as the sixth project in the focused featured portfolio.
 
 ## Changes
 
-- Removed the extra supporting-repository table without deleting or hiding any project repository.
-- Preserved the five featured cards, one profile-view counter, contact details, social links, resume, and current CV/ML plus network-communications positioning.
-- Preserved the remote `v2.7.2` update that links the canonical DE10-Standard SoC Ethernet project in its historical release notes.
+- Added Numerical Methods in MATLAB to the existing Featured Portfolio Repositories table with a version-pinned visual.
+- Preserved the focused profile structure introduced in `v2.7.3`, including one profile-view counter, contact details, social links, resume, and computer-vision plus communications positioning.
 
 ## Verification
 
-- Confirmed that the profile README contains exactly one `Featured Portfolio Repositories` section and exactly five linked cards.
-- Confirmed that `Supporting Engineering Evidence` and `Current Status` do not appear in the profile README.
+- Confirmed the featured table contains six distinct public repositories.
+- Confirmed the MATLAB card refers to release tag `v1.0.1` and states the coursework boundary.
+- Confirmed the profile README contains one profile-view counter and no Current Status or Supporting Engineering Evidence heading.
 
 ---
 

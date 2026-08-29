@@ -35,7 +35,7 @@
 
 I am an Electronics and Telecommunications Engineering senior at VNUHCM - University of Science. I work on computer vision, deep learning, machine learning, network communications and telecommunications systems.
 
-My current work includes Vietnamese automatic license plate recognition with YOLO/PyTorch and OCR/FastALPR, manual CT image-processing laboratories, automatic modulation classification with DSP features and a 1D CNN, Cisco IOS and Packet Tracer network laboratories, and MATLAB wireless-communications studies. Each featured repository links to code, reports, visual evidence, release history and stated prototype limits where relevant.
+My current work includes Vietnamese automatic license plate recognition with YOLO/PyTorch and OCR/FastALPR, manual CT image-processing laboratories, automatic modulation classification with DSP features and a 1D CNN, Cisco IOS and Packet Tracer network laboratories, and MATLAB studies in wireless communications and numerical methods. Each featured repository links to code, reports, visual evidence, release history and stated prototype limits where relevant.
 
 I am seeking internships and junior roles in computer vision, machine learning, network engineering and telecommunications. FPGA/SoC and embedded work provide complementary hardware-software systems context.
 
@@ -82,10 +82,15 @@ I am seeking internships and junior roles in computer vision, machine learning, 
     </td>
   </tr>
   <tr>
-    <td colspan="2">
+    <td width="50%">
       <h3><a href="https://github.com/lhlizdabezt/ThucHanhTruyenThongKhongDay">Wireless Communications MATLAB Practice</a></h3>
       <p>Twenty-three MATLAB scripts covering Rayleigh and Rician fading, BER Monte Carlo studies, OFDM, MIMO, SVD precoding, equalizers and diversity techniques.</p>
       <p><img src="https://raw.githubusercontent.com/lhlizdabezt/ThucHanhTruyenThongKhongDay/v1.0.3/assets/portfolio-motion.svg" alt="Wireless communications MATLAB portfolio visual" width="100%" /></p>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/lhlizdabezt/PhuongPhapTinh-Matlab">Numerical Methods in MATLAB</a></h3>
+      <p>MATLAB GUI coursework with prepared fixed-point iteration, Cholesky, Newton interpolation, and Euler examples, plus the submitted assignment record.</p>
+      <p><img src="https://raw.githubusercontent.com/lhlizdabezt/PhuongPhapTinh-Matlab/v1.0.1/assets/portfolio-motion.svg" alt="Numerical Methods MATLAB coursework visual" width="100%" /></p>
     </td>
   </tr>
 </table>
