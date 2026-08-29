@@ -1,3 +1,24 @@
+# v2.7.6 - DSP Laboratory Portfolio Alignment
+
+## Scope
+
+This revision replaces the seminar-only DSP card with the release-backed Digital Signal Processing Laboratory 2026 repository, while retaining six featured repositories aligned with computer vision, machine learning, computer networks, and telecommunications.
+
+## Changes
+
+- Added the Digital Signal Processing Laboratory 2026 card with its version-pinned spectrum visual.
+- Summarized the laboratory evidence precisely: executed notebooks, audio fixtures, reproducible checks, and 139 pages of searchable reports.
+- Preserved the single profile-view counter, complete contact and social links, and the focused six-project structure.
+
+## Verification
+
+- Confirmed the DSP repository is public and its `main` branch, `v1.0.0` tag, and release target resolve to the same commit.
+- Confirmed the release includes reports, source archive, and validation record.
+- Rendered the motion SVG locally; its English text is clear, with no overlap, clipping, or connector lines.
+- Confirmed the profile README contains exactly one profile-view counter and no Current Status or Supporting Engineering Evidence section.
+
+---
+
 # v2.7.5 - DSP Seminar Portfolio Evidence
 
 ## Scope
