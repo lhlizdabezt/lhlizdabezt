@@ -85,7 +85,7 @@ I am seeking internships and junior roles in computer vision, machine learning, 
     <td width="50%">
       <h3><a href="https://github.com/lhlizdabezt/ThucHanhTruyenThongKhongDay">Wireless Communications MATLAB Practice</a></h3>
       <p>Twenty-three MATLAB scripts covering Rayleigh and Rician fading, BER Monte Carlo studies, OFDM, MIMO, SVD precoding, equalizers and diversity techniques.</p>
-      <p><img src="https://raw.githubusercontent.com/lhlizdabezt/ThucHanhTruyenThongKhongDay/v1.0.3/assets/portfolio-motion.svg" alt="Wireless communications MATLAB portfolio visual" width="100%" /></p>
+      <p><img src="https://raw.githubusercontent.com/lhlizdabezt/ThucHanhTruyenThongKhongDay/portfolio-refresh-2026-08-29/assets/portfolio-motion.svg" alt="Wireless communications MATLAB portfolio visual" width="100%" /></p>
     </td>
     <td width="50%">
       <h3><a href="https://github.com/lhlizdabezt/Digital-Signal-Processing-Laboratory-2026">Digital Signal Processing Laboratory 2026</a></h3>

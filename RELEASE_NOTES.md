@@ -1,3 +1,22 @@
+# v2.7.7 - Wireless Communications Release Synchronization
+
+## Scope
+
+Synchronize the wireless-communications profile card with the current, verified portfolio release without changing the six-project selection or making claims beyond the repository evidence.
+
+## Changes
+
+- Updated the `ThucHanhTruyenThongKhongDay` visual to the version-pinned `portfolio-refresh-2026-08-29` release asset.
+- Retained the six featured projects, one profile-view counter, professional contact links and focused engineering narrative.
+
+## Verification
+
+- Confirmed the wireless repository's `main` branch, release tag and latest release target resolve to the same commit.
+- Render-inspected the linked SVG: English ASCII text, no connector lines, and no observed overlap or clipping.
+- Rechecked that the profile README contains neither a `Current Status` section nor a `Supporting Engineering Evidence` category.
+
+---
+
 # v2.7.6 - DSP Laboratory Portfolio Alignment
 
 ## Scope
