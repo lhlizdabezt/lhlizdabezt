@@ -7,6 +7,7 @@ This revision replaces a general numerical-methods card with the release-backed 
 ## Changes
 
 - Added the Digital Signal Processing Seminar 2026 card with its reviewed `v1.0.1` motion preview.
+- Reframed the dashboard as portfolio scope and refreshed its non-fork repository count to 33.
 - Kept one profile-view counter, the complete contact and social links, and the existing concise profile structure.
 
 ## Verification
