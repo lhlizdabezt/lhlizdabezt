@@ -88,9 +88,9 @@ I am seeking internships and junior roles in computer vision, machine learning, 
       <p><img src="https://raw.githubusercontent.com/lhlizdabezt/ThucHanhTruyenThongKhongDay/v1.0.3/assets/portfolio-motion.svg" alt="Wireless communications MATLAB portfolio visual" width="100%" /></p>
     </td>
     <td width="50%">
-      <h3><a href="https://github.com/lhlizdabezt/PhuongPhapTinh-Matlab">Numerical Methods in MATLAB</a></h3>
-      <p>MATLAB GUI coursework with prepared fixed-point iteration, Cholesky, Newton interpolation, and Euler examples, plus the submitted assignment record.</p>
-      <p><img src="https://raw.githubusercontent.com/lhlizdabezt/PhuongPhapTinh-Matlab/v1.0.1/assets/portfolio-motion.svg" alt="Numerical Methods MATLAB coursework visual" width="100%" /></p>
+      <h3><a href="https://github.com/lhlizdabezt/Digital-Signal-Processing-Seminar-2026">Digital Signal Processing Seminar 2026</a></h3>
+      <p>Five verified MATLAB and Jupyter studies in music-note FFT analysis, cross-correlation, equalization, audio filtering, and ECG notch filtering.</p>
+      <p><img src="https://raw.githubusercontent.com/lhlizdabezt/Digital-Signal-Processing-Seminar-2026/v1.0.1/assets/dsp-seminar-motion.gif" alt="Digital Signal Processing Seminar 2026 verified study preview" width="100%" /></p>
     </td>
   </tr>
 </table>

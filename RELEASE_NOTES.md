@@ -1,3 +1,22 @@
+# v2.7.5 - DSP Seminar Portfolio Evidence
+
+## Scope
+
+This revision replaces a general numerical-methods card with the release-backed Digital Signal Processing Seminar 2026 repository, keeping the six-project profile focused on the stated computer vision, machine learning, networking, telecommunications, and signal-processing direction.
+
+## Changes
+
+- Added the Digital Signal Processing Seminar 2026 card with its reviewed `v1.0.1` motion preview.
+- Kept one profile-view counter, the complete contact and social links, and the existing concise profile structure.
+
+## Verification
+
+- Confirmed the DSP repository is public, tagged `v1.0.1`, and has its report PDF and source archive attached to the release.
+- Confirmed the motion preview is 1200 by 630 pixels, has 30 frames, and its inspected frame has no overlaid connector lines or clipped text.
+- Confirmed the featured table contains six distinct public repositories.
+
+---
+
 # v2.7.4 - Six-Repository Portfolio Focus
 
 ## Scope
