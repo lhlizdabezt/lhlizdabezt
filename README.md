@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  <img width="900" src="https://raw.githubusercontent.com/lhlizdabezt/lhlizdabezt/main/assets/github-dashboard.svg" alt="GitHub portfolio scope dashboard with 35 public repositories, 33 non-fork repositories and core engineering tracks" />
+  <img width="900" src="https://raw.githubusercontent.com/lhlizdabezt/lhlizdabezt/main/assets/github-dashboard.svg" alt="GitHub portfolio scope dashboard with 35 public repositories, 32 non-fork repositories and core engineering tracks" />
 </p>
 
 <p align="center">

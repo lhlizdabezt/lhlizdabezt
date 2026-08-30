@@ -1,3 +1,23 @@
+# v2.7.9 - Profile Inventory Correction
+
+## Scope
+
+Synchronize the profile dashboard with the live public-repository inventory while preserving the concise six-repository portfolio and the established computer-vision, machine-learning, networks, and telecommunications focus.
+
+## Changes
+
+- Corrected the dashboard to 35 public repositories and 32 non-fork repositories.
+- Retained exactly six release-backed featured repositories: ALPR, biomedical image processing, automatic modulation classification, network technology, wireless communications, and DSP laboratory work.
+- Preserved one profile-view counter, the complete social and contact links, and the absence of Current Status and Supporting Engineering Evidence sections.
+
+## Verification
+
+- Confirmed the six featured repositories are public and have current releases.
+- Confirmed the profile README has one profile-view counter, six featured links, and no excluded headings.
+- Confirmed the dashboard uses ASCII-safe English text and opacity-only motion with fixed geometry.
+
+---
+
 # v2.7.7 - Wireless Communications Release Synchronization
 
 ## Scope
