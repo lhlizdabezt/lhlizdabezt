@@ -89,8 +89,8 @@ I am seeking internships and junior roles in computer vision, machine learning, 
     </td>
     <td width="50%">
       <h3><a href="https://github.com/lhlizdabezt/Digital-Signal-Processing-Laboratory-2026">Digital Signal Processing Laboratory 2026</a></h3>
-      <p>Executed Jupyter laboratory work for LTI systems, Fourier analysis, frequency response, FIR and IIR filtering, with 139 pages of searchable reports.</p>
-      <p><img src="https://raw.githubusercontent.com/lhlizdabezt/Digital-Signal-Processing-Laboratory-2026/v1.0.0/assets/dsp-lab-motion.svg" alt="Digital Signal Processing Laboratory 2026 spectrum and reproducibility visual" width="100%" /></p>
+      <p>Executed Jupyter work across Labs 1-7: sampling, LTI systems, Fourier analysis, frequency response, FIR/IIR design and audio filtering, with 180 searchable report pages.</p>
+      <p><img src="https://raw.githubusercontent.com/lhlizdabezt/Digital-Signal-Processing-Laboratory-2026/v1.1.0/assets/dsp-lab-motion.svg" alt="Digital Signal Processing Laboratory 2026 spectrum and reproducibility visual" width="100%" /></p>
     </td>
   </tr>
 </table>
