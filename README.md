@@ -77,8 +77,8 @@ I am seeking internships and junior roles in computer vision, machine learning, 
     </td>
     <td width="50%">
       <h3><a href="https://github.com/lhlizdabezt/Network-Technology-Laboratory-2026">Network Technology Laboratory 2026</a></h3>
-      <p>Six Cisco Packet Tracer laboratories covering dual-stack access, VLANs, inter-VLAN routing, STP, EtherChannel, DHCP, OSPF, NAT, WLAN and application services.</p>
-      <p><img src="https://raw.githubusercontent.com/lhlizdabezt/Network-Technology-Laboratory-2026/v1.1.0/assets/course-hero.svg" alt="Network Technology Laboratory 2026 evidence overview" width="100%" /></p>
+      <p>Six Cisco Packet Tracer laboratories plus midterm and final-review records covering dual-stack access, VLANs, OSPF, NAT, WLAN, and application services.</p>
+      <p><img src="https://raw.githubusercontent.com/lhlizdabezt/Network-Technology-Laboratory-2026/v1.2.0/assets/course-hero.svg" alt="Network Technology Laboratory 2026 evidence overview" width="100%" /></p>
     </td>
   </tr>
   <tr>

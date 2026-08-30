@@ -1,3 +1,23 @@
+# v2.7.10 - Network Technology Midterm and Source-Record Synchronization
+
+## Scope
+
+Synchronize the Network Technology Laboratory card with its verified v1.2.0 publication while retaining the focused six-repository portfolio.
+
+## Changes
+
+- Updated the Network Technology visual to the version-pinned v1.2.0 asset.
+- Refined the card description to include the midterm and final-review records without overstating assessment results.
+- Preserved one profile-view counter, complete contact and social links, six featured repositories, and the concise professional narrative.
+
+## Verification
+
+- Confirmed that the Network Technology repository's `main` branch, `v1.2.0` tag, and release asset hashes agree with the published source records.
+- Render-inspected the referenced SVG: English ASCII text, opacity-only motion, no connector lines, and no observed overlap or clipping.
+- Rechecked that the profile README has exactly one profile-view counter and contains neither `Current Status` nor `Supporting Engineering Evidence`.
+
+---
+
 # v2.7.9 - Profile Inventory Correction
 
 ## Scope
