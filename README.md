@@ -47,6 +47,7 @@ The linked one-page resume was updated on September 12, 2026. I am seeking inter
 | Student email | [22207056@student.hcmus.edu.vn](mailto:22207056@student.hcmus.edu.vn) |
 | Phone | [+84 988 114 708](tel:+84988114708) |
 | Resume | [Luong Hai Long CV, updated September 12, 2026](resume/Luong_Hai_Long_CV.pdf) |
+| Resume source | [Editable Typst source](resume/Luong_Hai_Long_CV.typ) |
 | GitHub | [github.com/lhlizdabezt](https://github.com/lhlizdabezt) |
 | LinkedIn | [linkedin.com/in/lhlizdabezt](https://www.linkedin.com/in/lhlizdabezt) |
 | Facebook | [facebook.com/wageseadrake](https://www.facebook.com/wageseadrake) |

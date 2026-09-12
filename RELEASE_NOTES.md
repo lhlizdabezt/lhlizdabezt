@@ -1,3 +1,20 @@
+# v2.7.12 - Editable Resume Source
+
+## Scope
+
+Publish the verified Typst source that generated the September 2026 resume PDF.
+
+## Changes
+
+- Added the editable ChiCV-based Typst source next to the published PDF and linked it from the Contact table.
+- Kept the source byte-identical to the locally rendered and verified resume.
+
+## Verification
+
+- Confirmed the published source compiles to one A4 page with eight embedded links and the September 12, 2026 update label.
+
+---
+
 # v2.7.11 - September CV Refresh
 
 ## Scope
