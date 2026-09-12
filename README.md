@@ -33,11 +33,11 @@
 
 ## About
 
-I am an Electronics and Telecommunications Engineering senior at VNUHCM - University of Science. I work on computer vision, deep learning, machine learning, network communications and telecommunications systems.
+I am a B.Eng. candidate in Electronics and Telecommunications Engineering at VNUHCM - University of Science, completing the program in September 2026. I work on computer vision, deep learning, machine learning, network communications and telecommunications systems.
 
 My current work includes Vietnamese automatic license plate recognition with YOLO/PyTorch and OCR/FastALPR, manual CT image-processing laboratories, automatic modulation classification with DSP features and a 1D CNN, Cisco IOS and Packet Tracer network laboratories, and MATLAB studies in wireless communications and numerical methods. Each featured repository links to code, reports, visual evidence, release history and stated prototype limits where relevant.
 
-I am seeking internships and junior roles in computer vision, machine learning, network engineering and telecommunications. FPGA/SoC and embedded work provide complementary hardware-software systems context.
+The linked one-page resume was updated on September 12, 2026. I am seeking internships and junior roles in computer vision, machine learning, network engineering and telecommunications; FPGA/SoC and embedded work provide complementary hardware-software systems context.
 
 ## Contact
 
@@ -46,7 +46,7 @@ I am seeking internships and junior roles in computer vision, machine learning, 
 | Work email | [luonghailong.work@gmail.com](mailto:luonghailong.work@gmail.com) |
 | Student email | [22207056@student.hcmus.edu.vn](mailto:22207056@student.hcmus.edu.vn) |
 | Phone | [+84 988 114 708](tel:+84988114708) |
-| Resume | [Luong Hai Long CV](resume/Luong_Hai_Long_CV.pdf) |
+| Resume | [Luong Hai Long CV, updated September 12, 2026](resume/Luong_Hai_Long_CV.pdf) |
 | GitHub | [github.com/lhlizdabezt](https://github.com/lhlizdabezt) |
 | LinkedIn | [linkedin.com/in/lhlizdabezt](https://www.linkedin.com/in/lhlizdabezt) |
 | Facebook | [facebook.com/wageseadrake](https://www.facebook.com/wageseadrake) |

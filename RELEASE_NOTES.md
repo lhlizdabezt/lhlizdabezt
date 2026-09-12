@@ -1,3 +1,22 @@
+# v2.7.11 - September CV Refresh
+
+## Scope
+
+Refresh the public resume for computer vision, machine learning, network engineering, and telecommunications internship applications while retaining the focused six-repository portfolio.
+
+## Changes
+
+- Rebuilt the one-page ChiCV resume with a short role-focused summary, grouped ATS keywords, selected results through August 2026, current project evidence, and September 12, 2026 update metadata.
+- Preserved scope boundaries for the team ALPR and DE10-Standard projects and synthetic-data limits for the automatic modulation classification work.
+- Updated the resume link label and About copy without adding a Current Status or Supporting Engineering Evidence section.
+
+## Verification
+
+- Confirmed one A4 page, eight embedded links, updated selected results, and no replacement-character or clipped-text findings in the rendered PDF.
+- Retained one profile-view counter, complete contact and social links, and exactly six featured repositories aligned with the stated focus.
+
+---
+
 # v2.7.10 - Network Technology Midterm and Source-Record Synchronization
 
 ## Scope
