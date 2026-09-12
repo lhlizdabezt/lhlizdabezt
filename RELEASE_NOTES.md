@@ -8,6 +8,7 @@ Publish the verified Typst source that generated the September 2026 resume PDF.
 
 - Added the editable ChiCV-based Typst source next to the published PDF and linked it from the Contact table.
 - Kept the source byte-identical to the locally rendered and verified resume.
+- Added an LF policy for Typst sources to keep the public file stable across Windows checkouts.
 
 ## Verification
 

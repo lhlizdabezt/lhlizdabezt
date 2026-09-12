@@ -1,4 +1,5 @@
 *.md text eol=lf
+*.typ text eol=lf
 *.gitattributes text eol=lf
 *.py text eol=lf
 *.svg text eol=lf
