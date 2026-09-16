@@ -1,3 +1,22 @@
+# v2.7.13 - CV and Profile Refresh
+
+## Scope
+
+Publish the current one-page resume and profile copy for internship applications in computer vision, machine learning, and network communications.
+
+## Changes
+
+- Refined the ChiCV-based resume with standard ATS section titles, explicit deep-learning coverage, and concise evidence-based project and experience bullets.
+- Preserved the stated academic, team-project, LAN-prototype, and synthetic-data boundaries for the published results.
+- Updated the public profile heading, About copy, and resume date without adding a Current Status or Supporting Engineering Evidence section.
+
+## Verification
+
+- Compiled the editable Typst source to one A4 PDF page and checked the rendered layout, text extraction, links, and source parity.
+- Retained one profile-view counter, all requested contact and social links, and exactly six featured repositories aligned with the technical focus.
+
+---
+
 # v2.7.12 - Editable Resume Source
 
 ## Scope

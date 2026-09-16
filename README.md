@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/lhlizdabezt/lhlizdabezt/main/assets/profile-hero.svg" alt="Luong Hai Long engineering portfolio banner" />
 </p>
 
-<h1 align="center">Luong Hai Long - Computer Vision, Deep Learning, Machine Learning, Networks and Telecommunications</h1>
+<h1 align="center">Luong Hai Long - Computer Vision, Machine Learning, and Network Communications</h1>
 
 <p align="center">
   <a href="https://github.com/lhlizdabezt?tab=repositories"><img src="https://img.shields.io/badge/Portfolio-35%20public%20repositories-38BDF8?style=for-the-badge&logo=github&logoColor=0f172a" alt="GitHub portfolio with 35 public repositories" /></a>
@@ -33,11 +33,11 @@
 
 ## About
 
-I am a B.Eng. candidate in Electronics and Telecommunications Engineering at VNUHCM - University of Science, completing the program in September 2026. I work on computer vision, deep learning, machine learning, network communications and telecommunications systems.
+I am a B.Eng. candidate in Electronics and Telecommunications Engineering at VNUHCM - University of Science, completing the program in September 2026. I work on computer vision, machine learning, deep learning, network communications, and telecommunications systems.
 
 My current work includes Vietnamese automatic license plate recognition with YOLO/PyTorch and OCR/FastALPR, manual CT image-processing laboratories, automatic modulation classification with DSP features and a 1D CNN, Cisco IOS and Packet Tracer network laboratories, and MATLAB studies in wireless communications and numerical methods. Each featured repository links to code, reports, visual evidence, release history and stated prototype limits where relevant.
 
-The linked one-page resume was updated on September 12, 2026. I am seeking internships and junior roles in computer vision, machine learning, network engineering and telecommunications; FPGA/SoC and embedded work provide complementary hardware-software systems context.
+The linked one-page resume was updated on September 16, 2026. I am seeking internships and junior roles in computer vision, machine learning, network engineering, and telecommunications; FPGA/SoC and embedded work provide complementary hardware-software systems context.
 
 ## Contact
 
@@ -46,7 +46,7 @@ The linked one-page resume was updated on September 12, 2026. I am seeking inter
 | Work email | [luonghailong.work@gmail.com](mailto:luonghailong.work@gmail.com) |
 | Student email | [22207056@student.hcmus.edu.vn](mailto:22207056@student.hcmus.edu.vn) |
 | Phone | [+84 988 114 708](tel:+84988114708) |
-| Resume | [Luong Hai Long CV, updated September 12, 2026](resume/Luong_Hai_Long_CV.pdf) |
+| Resume | [Luong Hai Long CV, updated September 16, 2026](resume/Luong_Hai_Long_CV.pdf) |
 | Resume source | [Editable Typst source](resume/Luong_Hai_Long_CV.typ) |
 | GitHub | [github.com/lhlizdabezt](https://github.com/lhlizdabezt) |
 | LinkedIn | [linkedin.com/in/lhlizdabezt](https://www.linkedin.com/in/lhlizdabezt) |
