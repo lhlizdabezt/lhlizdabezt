@@ -1,3 +1,21 @@
+# v2.7.14 - October Portfolio Review
+
+## Changes
+
+- Refreshed the banner and About text around computer vision, machine learning, deep learning, computer networks, and telecommunications.
+- Corrected the dated inventory to 36 public repositories and 33 public non-fork repositories, with six featured projects.
+- Added original YOLO training and CT resampling figures with source links and file hashes.
+- Rebuilt the GIF with stationary cards and updated the network laboratory visual to its v1.2.1 release.
+- Added a short portfolio guide and removed the unused contribution-snake workflow.
+- Retained the September 16, 2026 resume PDF and editable source.
+
+## Verification
+
+- Checked English labels, SVG text bounds, image loading, representative GIF frames, contact links, and six featured repositories.
+- Verified profile metadata, public repository inventory, release assets, and commit/tag alignment.
+
+---
+
 # v2.7.13 - CV and Profile Refresh
 
 ## Scope

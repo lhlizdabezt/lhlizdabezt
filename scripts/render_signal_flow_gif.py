@@ -23,16 +23,16 @@ FONT_BADGE = font("segoeui.ttf", 16)
 FONT_MONO = font("consola.ttf", 12)
 
 CARDS = [
-    ("Vision", "YOLO / OCR", (40, 86, 184, 154), (37, 99, 235)),
-    ("Data", "Kaggle / IPYNB", (208, 86, 352, 154), (15, 118, 110)),
-    ("Network", "TCP / BLE / UART", (392, 86, 536, 154), (234, 88, 12)),
-    ("FPGA/SoC", "Cyclone V / HPS", (584, 86, 728, 154), (124, 58, 237)),
+    ("Vision", "YOLO / OCR", (32, 86, 194, 154), (37, 99, 235)),
+    ("ML / DL", "PyTorch / CNN", (210, 86, 372, 154), (15, 118, 110)),
+    ("Networks", "Cisco / TCP/IP", (388, 86, 550, 154), (234, 88, 12)),
+    ("Telecom", "OFDM / MIMO", (566, 86, 728, 154), (124, 58, 237)),
 ]
 
 BADGES = [
-    ("review-ready", (36, 184, 196, 218), (14, 82, 129)),
-    ("bounded claims", (218, 184, 392, 218), (15, 118, 110)),
-    ("release evidence", (414, 184, 594, 218), (88, 28, 135)),
+    ("Notebooks", (36, 184, 196, 218), (14, 82, 129)),
+    ("Lab reports", (218, 184, 392, 218), (15, 118, 110)),
+    ("Releases", (414, 184, 594, 218), (88, 28, 135)),
 ]
 
 
@@ -61,11 +61,11 @@ def make_frame(index: int) -> Image.Image:
     draw = ImageDraw.Draw(base)
 
     rounded(draw, (24, 16, 736, 74), 14, (2, 6, 23, 205), (51, 65, 85, 170), 1)
-    draw_text(draw, (36, 26), "Engineering Portfolio Flow", (248, 250, 252, 255), FONT_TITLE)
+    draw_text(draw, (36, 26), "Computer Vision and Communications", (248, 250, 252, 255), FONT_TITLE)
     draw_text(
         draw,
         (36, 54),
-        "Computer vision -> data evidence -> networked systems -> device-side proof",
+        "Academic projects in detection, signal classification, routing, and wireless systems",
         (203, 213, 225, 255),
         FONT_SUB,
     )

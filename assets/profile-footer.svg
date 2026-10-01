@@ -1,18 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="130" viewBox="0 0 1200 130" role="img" aria-labelledby="title desc">
-  <title id="title">Footer banner</title>
-  <desc id="desc">Self-hosted animated footer for the engineering portfolio profile.</desc>
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#8e44ad"/>
-      <stop offset="50%" stop-color="#2563eb"/>
-      <stop offset="100%" stop-color="#0f766e"/>
-    </linearGradient>
-    <style>
-      .main { font: 800 24px 'Segoe UI', Arial, sans-serif; fill: #fff; }
-      .sub { font: 600 15px Consolas, 'Fira Code', monospace; fill: #e0f2fe; }
-    </style>
-  </defs>
-  <rect width="1200" height="130" rx="24" fill="url(#bg)"/>
-  <text x="600" y="54" text-anchor="middle" class="main">Thanks for visiting</text>
-  <text x="600" y="86" text-anchor="middle" class="sub">Computer Vision - AI/ML - Network Communications - FPGA/SoC - ASIC RTL - Embedded Systems</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" role="img" aria-labelledby="title desc">
+  <title id="title">Engineering portfolio contact footer</title>
+  <desc id="desc">Open to internships in computer vision, machine learning, computer networks, and telecommunications.</desc>
+  <style>
+    .title { font: 700 26px Arial, Helvetica, sans-serif; fill: #f8fafc; }
+    .body { font: 400 20px Arial, Helvetica, sans-serif; fill: #dbeafe; }
+  </style>
+  <rect width="1200" height="120" rx="22" fill="#123b50"/>
+  <text x="600" y="46" text-anchor="middle" class="title">Open to engineering internships</text>
+  <text x="600" y="82" text-anchor="middle" class="body">Computer Vision | Machine Learning | Computer Networks | Telecommunications</text>
 </svg>

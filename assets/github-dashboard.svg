@@ -1,82 +1,26 @@
-<svg width="900" height="280" viewBox="0 0 900 280" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">Luong Hai Long GitHub portfolio scope dashboard</title>
-  <desc id="desc">Line-free dashboard showing public and non-fork repositories with core engineering tracks.</desc>
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="900" y2="280" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#0f172a"/>
-      <stop offset="0.48" stop-color="#082f49"/>
-      <stop offset="1" stop-color="#0f766e"/>
-    </linearGradient>
-    <linearGradient id="blue" x1="0" y1="0" x2="1" y2="0">
-      <stop stop-color="#38bdf8"/>
-      <stop offset="1" stop-color="#2563eb"/>
-    </linearGradient>
-    <linearGradient id="green" x1="0" y1="0" x2="1" y2="0">
-      <stop stop-color="#34d399"/>
-      <stop offset="1" stop-color="#0f766e"/>
-    </linearGradient>
-    <linearGradient id="amber" x1="0" y1="0" x2="1" y2="0">
-      <stop stop-color="#fbbf24"/>
-      <stop offset="1" stop-color="#f97316"/>
-    </linearGradient>
-    <style>
-      .titleText { font: 800 24px Arial, Helvetica, sans-serif; fill: #f8fafc; letter-spacing: 0; }
-      .smallText { font: 600 12px Arial, Helvetica, sans-serif; fill: #bae6fd; letter-spacing: 0; }
-      .metricValue { font: 900 30px Arial, Helvetica, sans-serif; fill: #ffffff; letter-spacing: 0; }
-      .metricLabel { font: 700 12px Arial, Helvetica, sans-serif; fill: #dbeafe; letter-spacing: 0; }
-      .metricSub { font: 500 10.5px Arial, Helvetica, sans-serif; fill: #93c5fd; letter-spacing: 0; }
-      .mono { font: 700 13px Consolas, Monaco, monospace; fill: #e2e8f0; letter-spacing: 0; }
-      .tile { fill: #0b1220; stroke: #1e293b; stroke-width: 1; }
-      .panel { fill: rgba(2,6,23,.76); stroke: rgba(148,163,184,.30); stroke-width: 1; }
-      .motion { animation: fade 3s ease-in-out infinite; }
-      @keyframes fade { 0%, 100% { opacity: .72; } 50% { opacity: 1; } }
-    </style>
-  </defs>
-
-  <rect width="900" height="280" rx="24" fill="url(#bg)"/>
-  <rect x="28" y="28" width="402" height="224" rx="18" class="panel"/>
-  <rect x="470" y="28" width="402" height="224" rx="18" class="panel"/>
-
-  <rect class="motion" x="54" y="48" width="92" height="5" rx="2.5" fill="url(#green)"/>
-  <text x="54" y="78" class="titleText">Portfolio scope</text>
-  <text x="54" y="101" class="smallText">35 public and 32 non-fork repositories</text>
-
-  <g transform="translate(54 120)">
-    <rect class="tile" x="0" y="0" width="346" height="54" rx="10"/>
-    <text x="16" y="34" class="metricValue">35</text>
-    <text x="86" y="23" class="metricLabel">public repos</text>
-    <text x="86" y="39" class="metricSub">portfolio scope</text>
-
-    <rect class="tile" x="0" y="70" width="346" height="54" rx="10"/>
-    <text x="16" y="104" class="metricValue">32</text>
-    <text x="86" y="93" class="metricLabel">non-fork repos</text>
-    <text x="86" y="109" class="metricSub">project scope</text>
-  </g>
-
-  <rect class="motion" x="496" y="48" width="92" height="5" rx="2.5" fill="url(#blue)"/>
-  <text x="496" y="78" class="titleText">Evidence tracks</text>
-  <text x="496" y="101" class="smallText">Main signals kept above general coursework</text>
-
-  <g transform="translate(496 124)">
-    <text x="0" y="0" class="mono">Vision Bio ML</text>
-    <rect x="122" y="-10" width="226" height="12" rx="6" fill="#1e293b"/>
-    <rect class="motion" x="122" y="-10" width="206" height="12" rx="6" fill="url(#blue)"/>
-
-    <text x="0" y="28" class="mono">RF Comms</text>
-    <rect x="122" y="18" width="226" height="12" rx="6" fill="#1e293b"/>
-    <rect x="122" y="18" width="184" height="12" rx="6" fill="url(#amber)"/>
-
-    <text x="0" y="56" class="mono">Embedded</text>
-    <rect x="122" y="46" width="226" height="12" rx="6" fill="#1e293b"/>
-    <rect x="122" y="46" width="158" height="12" rx="6" fill="url(#green)"/>
-
-    <text x="0" y="84" class="mono">FPGA SoC ASIC</text>
-    <rect x="122" y="74" width="226" height="12" rx="6" fill="#1e293b"/>
-    <rect x="122" y="74" width="142" height="12" rx="6" fill="#a78bfa"/>
-
-    <text x="0" y="112" class="mono">DSP and ML</text>
-    <rect x="122" y="102" width="226" height="12" rx="6" fill="#1e293b"/>
-    <rect x="122" y="102" width="184" height="12" rx="6" fill="#22d3ee"/>
-  </g>
-
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 280" role="img" aria-labelledby="title desc">
+  <title id="title">Portfolio inventory and project areas</title>
+  <desc id="desc">October 1, 2026 inventory: 36 public repositories, 33 public non-fork repositories, and six featured projects. Project areas are labels, not proficiency scores.</desc>
+  <style>
+    .bg { fill: #0f172a; }
+    .panel { fill: #172a3a; }
+    .title { font: 700 22px Arial, Helvetica, sans-serif; fill: #f8fafc; }
+    .number { font: 700 36px Arial, Helvetica, sans-serif; fill: #7dd3fc; }
+    .body { font: 400 17px Arial, Helvetica, sans-serif; fill: #dbeafe; }
+    .small { font: 400 14px Arial, Helvetica, sans-serif; fill: #cbd5e1; }
+  </style>
+  <rect class="bg" width="900" height="280" rx="22"/>
+  <rect class="panel" x="24" y="24" width="380" height="232" rx="16"/>
+  <rect class="panel" x="424" y="24" width="452" height="232" rx="16"/>
+  <text x="48" y="63" class="title">Portfolio inventory</text>
+  <text x="48" y="111" class="number">36</text><text x="112" y="105" class="body">public repositories</text>
+  <text x="48" y="159" class="number">33</text><text x="112" y="153" class="body">public non-fork repositories</text>
+  <text x="48" y="207" class="number">6</text><text x="112" y="201" class="body">featured projects</text>
+  <text x="48" y="236" class="small">GitHub inventory checked October 1, 2026</text>
+  <text x="448" y="63" class="title">Featured project areas</text>
+  <text x="448" y="103" class="body">Computer vision and image processing</text>
+  <text x="448" y="137" class="body">Machine learning and deep learning</text>
+  <text x="448" y="171" class="body">Computer networks and telecommunications</text>
+  <text x="448" y="205" class="body">Digital signal processing</text>
+  <text x="448" y="236" class="small">Code, notebooks, reports, results, and releases</text>
 </svg>

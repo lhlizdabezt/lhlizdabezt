@@ -5,7 +5,7 @@
 <h1 align="center">Luong Hai Long - Computer Vision, Machine Learning, and Network Communications</h1>
 
 <p align="center">
-  <a href="https://github.com/lhlizdabezt?tab=repositories"><img src="https://img.shields.io/badge/Portfolio-35%20public%20repositories-38BDF8?style=for-the-badge&logo=github&logoColor=0f172a" alt="GitHub portfolio with 35 public repositories" /></a>
+  <a href="https://github.com/lhlizdabezt?tab=repositories"><img src="https://img.shields.io/badge/Portfolio-36%20public%20repositories-38BDF8?style=for-the-badge&logo=github&logoColor=0f172a" alt="GitHub portfolio with 36 public repositories" /></a>
   <a href="https://github.com/lhlizdabezt"><img src="https://komarev.com/ghpvc/?username=lhlizdabezt&label=Profile%20Views&color=0f766e&style=for-the-badge" alt="GitHub profile views counter" /></a>
   <a href="https://www.linkedin.com/in/lhlizdabezt"><img src="https://img.shields.io/badge/LinkedIn-lhlizdabezt-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile for Luong Hai Long" /></a>
   <a href="mailto:luonghailong.work@gmail.com"><img src="https://img.shields.io/badge/Work%20Email-luonghailong.work%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Work email luonghailong.work@gmail.com" /></a>
@@ -23,21 +23,20 @@
 </p>
 
 <p align="center">
-  <img width="900" src="https://raw.githubusercontent.com/lhlizdabezt/lhlizdabezt/main/assets/github-dashboard.svg" alt="GitHub portfolio scope dashboard with 35 public repositories, 32 non-fork repositories and core engineering tracks" />
+  <img width="900" src="https://raw.githubusercontent.com/lhlizdabezt/lhlizdabezt/main/assets/github-dashboard.svg" alt="October 1, 2026 inventory: 36 public repositories, 33 public non-fork repositories, and six featured projects" />
 </p>
 
 <p align="center">
-  <img width="420" src="https://raw.githubusercontent.com/lhlizdabezt/lhlizdabezt/main/assets/profile-motion.svg" alt="Animated SVG card for networked AI systems" />
-  <img width="760" src="https://raw.githubusercontent.com/lhlizdabezt/lhlizdabezt/main/assets/signal-flow.gif" alt="Animated portfolio flow across computer vision, communications, FPGA and embedded tools" />
+  <img width="760" src="https://raw.githubusercontent.com/lhlizdabezt/lhlizdabezt/main/assets/signal-flow.gif" alt="Stationary project cards with subtle color changes for computer vision, machine learning, computer networks, and telecommunications" />
 </p>
 
 ## About
 
-I am a B.Eng. candidate in Electronics and Telecommunications Engineering at VNUHCM - University of Science, completing the program in September 2026. I work on computer vision, machine learning, deep learning, network communications, and telecommunications systems.
+My academic work in Electronics and Telecommunications Engineering at VNUHCM - University of Science focuses on computer vision, machine learning, deep learning, computer networks, and telecommunications.
 
-My current work includes Vietnamese automatic license plate recognition with YOLO/PyTorch and OCR/FastALPR, manual CT image-processing laboratories, automatic modulation classification with DSP features and a 1D CNN, Cisco IOS and Packet Tracer network laboratories, and MATLAB studies in wireless communications and numerical methods. Each featured repository links to code, reports, visual evidence, release history and stated prototype limits where relevant.
+The six featured projects cover YOLO/OCR license plate recognition, CT image processing, I/Q signal classification with a 1D CNN, Cisco network configuration, and MATLAB/Python communications studies. Their repositories contain code, notebooks, reports, and releases with explicit coursework, team, or prototype scope.
 
-The linked one-page resume was updated on September 16, 2026. I am seeking internships and junior roles in computer vision, machine learning, network engineering, and telecommunications; FPGA/SoC and embedded work provide complementary hardware-software systems context.
+I am seeking internships in computer vision, machine learning, network engineering, and telecommunications. Embedded firmware and FPGA/SoC projects provide additional experience with device interfaces and debugging. The linked one-page resume was updated on September 16, 2026; this profile was reviewed on October 1, 2026.
 
 ## Contact
 
@@ -63,11 +62,13 @@ The linked one-page resume was updated on September 16, 2026. I am seeking inter
       <h3><a href="https://github.com/lhlizdabezt/NhapMonAI">Vietnamese ALPR with YOLO and OCR</a></h3>
       <p>Computer vision project using YOLO/PyTorch detection, OCR/FastALPR recognition, Kaggle/IPYNB training evidence, Python desktop inference and a bounded LAN demonstration.</p>
       <p><img src="https://raw.githubusercontent.com/lhlizdabezt/NhapMonAI/v1.1.2/assets/alpr-pipeline-motion.gif" alt="Line-free NhapMonAI animated ALPR evidence card" width="100%" /></p>
+      <p><a href="assets/alpr-training-results.png"><img src="assets/alpr-training-results.png" alt="YOLO continuation run showing training and validation losses, detector precision, recall, mAP50, and mAP50-95" width="100%" /></a><br />Detector training and validation curves from the project report.</p>
     </td>
     <td width="50%">
       <h3><a href="https://github.com/lhlizdabezt/Biomedical-Image-Processing-Laboratory-2026">Biomedical Image Processing Laboratory</a></h3>
       <p>Python/Jupyter coursework covering manual pixel operations, CT ROI analysis, explicit spatial and FFT filtering, image resampling and quantitative SSIM comparison.</p>
       <p><img src="https://raw.githubusercontent.com/lhlizdabezt/Biomedical-Image-Processing-Laboratory-2026/v1.0.1/assets/portfolio-motion.svg" alt="Biomedical image processing laboratory evidence overview" width="100%" /></p>
+      <p><a href="assets/ct-resampling-results.png"><img src="assets/ct-resampling-results.png" alt="CT coursework comparison of the original image, factor-two downsampling, bilinear restoration, and bicubic restoration with SSIM values" width="100%" /></a><br />CT resampling and SSIM comparison from Laboratory 2.</p>
     </td>
   </tr>
   <tr>
@@ -79,7 +80,7 @@ The linked one-page resume was updated on September 16, 2026. I am seeking inter
     <td width="50%">
       <h3><a href="https://github.com/lhlizdabezt/Network-Technology-Laboratory-2026">Network Technology Laboratory 2026</a></h3>
       <p>Six Cisco Packet Tracer laboratories plus midterm and final-review records covering dual-stack access, VLANs, OSPF, NAT, WLAN, and application services.</p>
-      <p><img src="https://raw.githubusercontent.com/lhlizdabezt/Network-Technology-Laboratory-2026/v1.2.0/assets/course-hero.svg" alt="Network Technology Laboratory 2026 evidence overview" width="100%" /></p>
+      <p><img src="https://raw.githubusercontent.com/lhlizdabezt/Network-Technology-Laboratory-2026/v1.2.1/assets/course-hero.svg" alt="Network Technology Laboratory 2026 evidence overview" width="100%" /></p>
     </td>
   </tr>
   <tr>
@@ -117,3 +118,5 @@ The linked one-page resume was updated on September 16, 2026. I am seeking inter
 <p align="center">
   <img src="https://raw.githubusercontent.com/lhlizdabezt/lhlizdabezt/main/assets/profile-footer.svg" alt="Footer banner for the engineering portfolio" />
 </p>
+
+Source and update instructions: [Portfolio guide](docs/PORTFOLIO_GUIDE.md).
